@@ -1,0 +1,632 @@
+[
+  {
+    "stage": "01_DISCOVERY_RESEARCH_REPORT",
+    "original_status": "SIM-FROZEN",
+    "version": "v1.6",
+    "pages": 8,
+    "visual_assets": 3,
+    "reported_sha256": "aec87b8779a266ab6056ca03f6d6be19cb9876a49be1fa612b552eeac9b53769",
+    "visual_outputs": "Research evidence map; existing identity comparison; exploratory mood evidence",
+    "manifest": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/FINAL_APPROVED/FILE_MANIFEST.md",
+      "blob_sha": "b557d39446a369bc6fad45c4bf474c2406ba7bc3",
+      "bytes": 401,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "qa": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/FINAL_APPROVED/QA_SUMMARY.md",
+      "blob_sha": "ffeeb5743ff544cb2566ba2dcd0f78ce286c529b",
+      "bytes": 354,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "transfer": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/FINAL_APPROVED/BINARY_TRANSFER_STATUS.md",
+      "blob_sha": "203ded757908194517665b32ac7f82e2e6af382f",
+      "bytes": 680,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "historical_qa": "Reported PASS; internal simulation and production QA only. Transfer verification dated 2026-09-10, not rerun. Binary content not inspected in this round.",
+    "attempts": [
+      {
+        "attempt": 1,
+        "version": "v1.0",
+        "problem": "Missing embedded visual evidence",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_01/PROBLEMS.md",
+          "blob_sha": "3e9bc7b307f5bc11a2abe687c9d05d3a25c19dde",
+          "bytes": 256,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 2,
+        "version": "v1.1",
+        "problem": "Visual additions destabilized flow/QA pagination",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_02/PROBLEMS.md",
+          "blob_sha": "c43026fb054a969dd2bbc353c4f2bf1d25d26ad0",
+          "bytes": 153,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 3,
+        "version": "v1.2",
+        "problem": "Acceptance Matrix split",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_03/PROBLEMS.md",
+          "blob_sha": "b7b0f7f27c80568db8c000b3f372b55118120acb",
+          "bytes": 88,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 4,
+        "version": "v1.3",
+        "problem": "Missing descriptive Alt Text",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_04/PROBLEMS.md",
+          "blob_sha": "20ed607d1ec5e364dfe70f2fd5a0276459acb455",
+          "bytes": 109,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 5,
+        "version": "v1.4",
+        "problem": "Research Conclusion plate overflow",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_05/PROBLEMS.md",
+          "blob_sha": "1620624e507fcf20ab9c1ff96a342ad3b26b0914",
+          "bytes": 99,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 6,
+        "version": "v1.5",
+        "problem": "Stale final-version metadata; v1.5 DOCX absent",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_01_DISCOVERY_RESEARCH_REPORT/ERRORS/ATTEMPT_06/PROBLEMS.md",
+          "blob_sha": "90630f74d691532de51b1f6472b851cd8bc53940",
+          "bytes": 290,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      }
+    ]
+  },
+  {
+    "stage": "02_INSIGHT_SYNTHESIS",
+    "original_status": "SIM-FROZEN",
+    "version": "v1.6",
+    "pages": 7,
+    "visual_assets": 2,
+    "reported_sha256": "ab50ce3e0a24d60aae9117f353af8bd7c2a2d941fed7bb4f2bd6b0a120a901dc",
+    "visual_outputs": "Synthesis ladder; four-insight map",
+    "manifest": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_02_INSIGHT_SYNTHESIS/FINAL_APPROVED/FILE_MANIFEST.md",
+      "blob_sha": "122966c5267b5c67146b330011622715a56506e7",
+      "bytes": 345,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "qa": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_02_INSIGHT_SYNTHESIS/FINAL_APPROVED/QA_SUMMARY.md",
+      "blob_sha": "07839deb82d57e8770e70ff711a76b13a14225aa",
+      "bytes": 354,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "transfer": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_02_INSIGHT_SYNTHESIS/FINAL_APPROVED/BINARY_TRANSFER_STATUS.md",
+      "blob_sha": "af67d04fdae933e86c29518b5428a47925a6c905",
+      "bytes": 746,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "historical_qa": "Reported PASS; internal simulation and production QA only. Transfer verification dated 2026-09-10, not rerun. Binary content not inspected in this round.",
+    "attempts": [
+      {
+        "attempt": 1,
+        "version": "v1.0",
+        "problem": "Missing synthesis/insight visuals",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_01/PROBLEMS.md",
+          "blob_sha": "d3356b716c6492c63f78f6426fb03b43e4bd8f62",
+          "bytes": 160,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 2,
+        "version": "v1.1",
+        "problem": "Acceptance Matrix pagination break",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_02/PROBLEMS.md",
+          "blob_sha": "ed78fea9de6deecab9fe262898c3f05e30a359a6",
+          "bytes": 121,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 3,
+        "version": "v1.2",
+        "problem": "No unique defect; synchronized pagination normalization",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_03/PROBLEMS.md",
+          "blob_sha": "84524a5a406e2df6f61103fe13401e3e6fde4059",
+          "bytes": 207,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "SUPERSEDED_PACKAGE_NO_UNIQUE_LOCAL_DEFECT",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 4,
+        "version": "v1.3",
+        "problem": "Missing descriptive Alt Text",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_04/PROBLEMS.md",
+          "blob_sha": "e02166b728b9d9af7bd3e161b11f26e7a7e4e061",
+          "bytes": 97,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 5,
+        "version": "v1.4",
+        "problem": "No local overflow; synchronized release open",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_05/PROBLEMS.md",
+          "blob_sha": "0eafe0086d88e9b36bbac47165f302b35771875b",
+          "bytes": 177,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "SUPERSEDED_PACKAGE_NO_UNIQUE_LOCAL_DEFECT",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 6,
+        "version": "v1.5",
+        "problem": "Package stale metadata; v1.5 DOCX absent",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_02_INSIGHT_SYNTHESIS/ERRORS/ATTEMPT_06/PROBLEMS.md",
+          "blob_sha": "f8d1955fe4cfd048247f820dac06d410a3175134",
+          "bytes": 279,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      }
+    ]
+  },
+  {
+    "stage": "03_BRAND_STRATEGY",
+    "original_status": "SIM-FROZEN",
+    "version": "v1.6",
+    "pages": 7,
+    "visual_assets": 2,
+    "reported_sha256": "b60609de5c412c7539976bcf591fdfb83cfba58c00f19a8c186043dff4f153ac",
+    "visual_outputs": "Audience architecture; identity architecture",
+    "manifest": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_03_BRAND_STRATEGY/FINAL_APPROVED/FILE_MANIFEST.md",
+      "blob_sha": "acfbcb5979f784002cea60d009656c8b72784f9a",
+      "bytes": 352,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "qa": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_03_BRAND_STRATEGY/FINAL_APPROVED/QA_SUMMARY.md",
+      "blob_sha": "02e7861932fcd9004dae79316533523dcd61cd31",
+      "bytes": 354,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "transfer": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_03_BRAND_STRATEGY/FINAL_APPROVED/BINARY_TRANSFER_STATUS.md",
+      "blob_sha": "eea19b9bd0a548cd416afb8de99cbf3ace55bb51",
+      "bytes": 743,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "historical_qa": "Reported PASS; internal simulation and production QA only. Transfer verification dated 2026-09-10, not rerun. Binary content not inspected in this round.",
+    "attempts": [
+      {
+        "attempt": 1,
+        "version": "v1.0",
+        "problem": "Missing audience/identity visuals",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_01/PROBLEMS.md",
+          "blob_sha": "30bac280314962b0167c2f979b0021ab7e763fdc",
+          "bytes": 124,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 2,
+        "version": "v1.1",
+        "problem": "QA pagination pressure; appendix too long",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_02/PROBLEMS.md",
+          "blob_sha": "2ea22a7ee504b353266caff2db3aeff9fa459f93",
+          "bytes": 131,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 3,
+        "version": "v1.2",
+        "problem": "Acceptance Matrix split",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_03/PROBLEMS.md",
+          "blob_sha": "e405add2a2045220b5ecf58bc13d5b008d94ae8e",
+          "bytes": 92,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 4,
+        "version": "v1.3",
+        "problem": "Missing descriptive Alt Text",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_04/PROBLEMS.md",
+          "blob_sha": "5d22988239b021c0356fe3d63daf29bc860be1e8",
+          "bytes": 101,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 5,
+        "version": "v1.4",
+        "problem": "No local overflow; synchronized release open",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_05/PROBLEMS.md",
+          "blob_sha": "8eb79ee28b2c13bf08d12447da604b2900ad37c9",
+          "bytes": 188,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "SUPERSEDED_PACKAGE_NO_UNIQUE_LOCAL_DEFECT",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 6,
+        "version": "v1.5",
+        "problem": "Package stale metadata; v1.5 DOCX absent",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_03_BRAND_STRATEGY/ERRORS/ATTEMPT_06/PROBLEMS.md",
+          "blob_sha": "d6535a5651bedc421140a29f9c09c08daad0fc75",
+          "bytes": 221,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      }
+    ]
+  },
+  {
+    "stage": "04_CREATIVE_BRIEF",
+    "original_status": "SIM-FROZEN",
+    "version": "v1.6",
+    "pages": 7,
+    "visual_assets": 3,
+    "reported_sha256": "244c36203e7d914623a185e1a532998b2d684c048fc843cab25a74bee1f07256",
+    "visual_outputs": "Creative territories; cross-context prototype board; evaluation matrix",
+    "manifest": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_04_CREATIVE_BRIEF/FINAL_APPROVED/FILE_MANIFEST.md",
+      "blob_sha": "c159005e1f23a997192114f82b01dd53e4ac4714",
+      "bytes": 385,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "qa": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_04_CREATIVE_BRIEF/FINAL_APPROVED/QA_SUMMARY.md",
+      "blob_sha": "9907db3d5fca88a3d417bdf55b21482f6815042b",
+      "bytes": 354,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "transfer": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_04_CREATIVE_BRIEF/FINAL_APPROVED/BINARY_TRANSFER_STATUS.md",
+      "blob_sha": "f8e012b1923d3ac3f4ce47a5bf5ea0cb0dedaddc",
+      "bytes": 669,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "historical_qa": "Reported PASS; internal simulation and production QA only. Transfer verification dated 2026-09-10, not rerun. Binary content not inspected in this round.",
+    "attempts": [
+      {
+        "attempt": 1,
+        "version": "v1.0",
+        "problem": "Missing creative territories/prototype/evaluation evidence",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_01/PROBLEMS.md",
+          "blob_sha": "eac92935087db611142c9bf13e7d51d559b658e4",
+          "bytes": 179,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 2,
+        "version": "v1.1",
+        "problem": "QA appendix pagination unstable",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_02/PROBLEMS.md",
+          "blob_sha": "3f5cf32c71710e6e24dd1cb8df8fcb09e9c58f07",
+          "bytes": 93,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 3,
+        "version": "v1.2",
+        "problem": "Loop Execution Register split",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_03/PROBLEMS.md",
+          "blob_sha": "1051506a5f780da62cce6c9811834d9b96985f66",
+          "bytes": 90,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 4,
+        "version": "v1.3",
+        "problem": "Missing descriptive Alt Text",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_04/PROBLEMS.md",
+          "blob_sha": "87107442f25c32862d9da7652e22668c384caf5b",
+          "bytes": 77,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 5,
+        "version": "v1.4",
+        "problem": "No local overflow; synchronized release open",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_05/PROBLEMS.md",
+          "blob_sha": "80fa40b03f05625445a592a343c1e9943e3b6ef5",
+          "bytes": 182,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "SUPERSEDED_PACKAGE_NO_UNIQUE_LOCAL_DEFECT",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 6,
+        "version": "v1.5",
+        "problem": "Package stale metadata; v1.5 DOCX absent",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_04_CREATIVE_BRIEF/ERRORS/ATTEMPT_06/PROBLEMS.md",
+          "blob_sha": "33ab977db79420f7db6fe004460e7a150ebe193b",
+          "bytes": 213,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      }
+    ]
+  },
+  {
+    "stage": "05_VERBAL_IDENTITY",
+    "original_status": "SIM-FROZEN",
+    "version": "v1.6",
+    "pages": 8,
+    "visual_assets": 3,
+    "reported_sha256": "59695ba22adec3ff626820ebd72b53d1066ce80570901d921c404d357601846e",
+    "visual_outputs": "Voice spectrum; message architecture; bilingual verbal specimen",
+    "manifest": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_05_VERBAL_IDENTITY/FINAL_APPROVED/FILE_MANIFEST.md",
+      "blob_sha": "75944e76b80405d0701e0c28419a616467b34df4",
+      "bytes": 372,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "qa": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_05_VERBAL_IDENTITY/FINAL_APPROVED/QA_SUMMARY.md",
+      "blob_sha": "b0883201763879a6713896b1eeedd67484c53817",
+      "bytes": 354,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "transfer": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_05_VERBAL_IDENTITY/FINAL_APPROVED/BINARY_TRANSFER_STATUS.md",
+      "blob_sha": "db168e63475a894f33c0097b9e2c2e294dfc2be3",
+      "bytes": 744,
+      "review_status": "NOT_LINKED_IN_THIS_ROUND"
+    },
+    "historical_qa": "Reported PASS; internal simulation and production QA only. Transfer verification dated 2026-09-10, not rerun. Binary content not inspected in this round.",
+    "attempts": [
+      {
+        "attempt": 1,
+        "version": "v1.0",
+        "problem": "Missing voice/message/bilingual specimens",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_01/PROBLEMS.md",
+          "blob_sha": "b76a19d70380c8ea3b62073adbd4205e2ef41473",
+          "bytes": 151,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 2,
+        "version": "v1.1",
+        "problem": "Acceptance Matrix pagination defects",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_02/PROBLEMS.md",
+          "blob_sha": "e21d9e5f3969634794af71fd08cde86a102db9ae",
+          "bytes": 96,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 3,
+        "version": "v1.2",
+        "problem": "No unique critical page split; synchronized normalization",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_03/PROBLEMS.md",
+          "blob_sha": "5fb5cecddb3ef93e3a83149cd63bc47936bb1388",
+          "bytes": 151,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "SUPERSEDED_PACKAGE_NO_UNIQUE_LOCAL_DEFECT",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 4,
+        "version": "v1.3",
+        "problem": "Missing descriptive Alt Text",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_04/PROBLEMS.md",
+          "blob_sha": "c5b3a11876d040c13139840e985c73029fd5431a",
+          "bytes": 105,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 5,
+        "version": "v1.4",
+        "problem": "Story Grammar overflow; Voice Spectrum label too close to axis",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_05/PROBLEMS.md",
+          "blob_sha": "2b1bcdf4718f1352c4024cb7b3db57ef65c4eab8",
+          "bytes": 140,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      },
+      {
+        "attempt": 6,
+        "version": "v1.5",
+        "problem": "Stale final-version metadata; v1.5 DOCX absent",
+        "source": {
+          "repository": "Yehia224/design-workflow-test",
+          "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+          "path": "STAGE_05_VERBAL_IDENTITY/ERRORS/ATTEMPT_06/PROBLEMS.md",
+          "blob_sha": "4cb18ffd7bb55999189f86baa7684ca484b29ebd",
+          "bytes": 263,
+          "review_status": "NOT_LINKED_IN_THIS_ROUND"
+        },
+        "disposition": "HISTORICAL_PROBLEM_RECORD",
+        "correction_record": "Pending direct SOLUTION/REASONING review"
+      }
+    ]
+  }
+]

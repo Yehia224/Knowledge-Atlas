@@ -1,0 +1,19 @@
+{
+  "prior_linked": 61,
+  "new_reviewed": 100,
+  "total_linked": 161,
+  "remaining_unlinked": 1949,
+  "MD": {
+    "reviewed_paths": 52,
+    "total": 52
+  },
+  "HVAC": {
+    "reviewed_paths": 53,
+    "total": 53
+  },
+  "Design": {
+    "reviewed_paths": 56,
+    "total": 2005
+  },
+  "caveat": "Targeted source review/path coverage is not full claim-level audit, visual review, test execution or archive copying."
+}
