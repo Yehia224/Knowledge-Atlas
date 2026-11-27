@@ -1,0 +1,254 @@
+[
+  {
+    "id": "HRA-D-PARENT",
+    "title": "Design lifecycle",
+    "finding": "Discover research, Define brief, Develop prototype, Validate evidence, Deliver production package, Govern lifecycle. Visual Communication Receive verified inputs → Execute → Review → Handoff. Historical project crosswalk, not external universal standard.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-STRATEGY",
+    "title": "Brand Strategy and Identity",
+    "finding": "Audit/research → strategy platform → architecture → verbal system → creative direction → visual identity → applications → rollout/governance. Each responsibility has deliverables and acceptance scope.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-DIRECTION",
+    "title": "Creative Direction vs Art Direction",
+    "finding": "Creative direction supervises assignment, creative territory, concept and cross-discipline direction; art direction interprets visual treatment, briefs assets, oversees production and proof. Cross-cutting roles are not one project stage.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-TYPOGRAPHY",
+    "title": "Typography vs lettering/type design/font engineering",
+    "finding": "Typography handles reading hierarchy, type selection, composition, script proof and specification. Lettering does not imply complete typeface; custom type/font engineering require activated scope. Font licensing is separate.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-INFO",
+    "title": "Information Design workflow",
+    "finding": "Model entities, relations and priorities; structure hierarchy/navigation; choose representation; test comprehension; publish. Outputs include maps, forms, reports and dashboards according to need. Accuracy and accessibility are separate QA criteria.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-EDITORIAL",
+    "title": "Editorial / Publication Design workflow",
+    "finding": "Intake production brief; publication system; layout proofs; asset integration/rights; correction; medium-specific production and distribution. Do not equate layout system with content model.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-CONDITIONAL",
+    "title": "Scope activation",
+    "finding": "Illustration, motion, packaging, experiential/wayfinding, custom fonts and licensing are conditional responsibilities; not mandatory outputs merely because they are related disciplines. Preserve planned stages 15–21 separately from present roots 01–14.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+      "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_MAP",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-RASTER",
+    "title": "Rejected exact raster wrapper",
+    "finding": "Attempt 04 v1.1 preserved screenshot visually but did not reconstruct vector lettering or master document frame. Actual production source must be distinguished from review image.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_08_ARABIC_LATIN_LETTERING/ERRORS/ATTEMPT_04_EXACT_RASTER_WRAPPER_V1.1/PROBLEMS.md",
+      "blob_sha": "30dc25e1ac71bd7133633926f97c659a91417958",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "REJECTED_ATTEMPT",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-MEDIA",
+    "title": "Typography medium-collapse failure",
+    "finding": "v0.19 PDF was paginated web specimen, resulting in whitespace, composition and broken dependency. Design print and screen anatomy independently.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_09_TYPOGRAPHY_SYSTEM/ERRORS/ATTEMPT_19_RC_V0.19_MEDIUM_COLLAPSE/PROBLEMS.md",
+      "blob_sha": "1ad39c56317f3a634b95260925220b66d87f3e11",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "REJECTED_ATTEMPT",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-FAMILIES",
+    "title": "Five claimed graphic asset families",
+    "finding": "v2.1 user-rejected: one silhouette transformed into five supposed families; technical separation substituted for specialist review; final gate premature.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_12_GRAPHIC_LANGUAGE/ERRORS/ATTEMPT_02_ASSET_LIBRARY_RC_v2.1/PROBLEMS.md",
+      "blob_sha": "79e2521e0147f1722442f3db7899301ffba77fff",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "USER_REJECTED",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-GATES",
+    "title": "Graphic language learned gate lineage",
+    "finding": "Attempt 02 created/updated Gates 002,007,008,009,011: scope, independence, family distinctness, rejection preservation and role separation.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_12_GRAPHIC_LANGUAGE/ERRORS/ATTEMPT_02_ASSET_LIBRARY_RC_v2.1/GATES_CREATED_OR_UPDATED.md",
+      "blob_sha": "2a6dc0522307af7b75d424c0639b1eae34e47b04",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "HISTORICAL_GATE_RECORD",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-APP12",
+    "title": "Graphic Language approval",
+    "finding": "Exact v3.2 user approval recorded 2026-09-14; limited to Gaafar Atlas. The record itself requires subsequent canonical persistence and freeze verification; no new freeze assertion.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_12_GRAPHIC_LANGUAGE/FINAL_APPROVED/APPROVAL_RECORD.md",
+      "blob_sha": "bbd88ee57ca51ffa8ee4e62677a378c85006e31e",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "EXPLICIT_APPROVAL_RECORD_EXACT_CANDIDATE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-ARROWS",
+    "title": "Stage 13 arrow encoding rejection",
+    "finding": "Bilingual relationship diagrams imposed LTR direction, competed with verb labels and used line styles without useful meaning. Choose relation-specific geometry, not automatic arrows.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_13_INFORMATION_DESIGN/ERRORS/ATTEMPT_03_ARROW_TEXT_MISMATCH_v1.0/PROBLEMS.md",
+      "blob_sha": "a9c41e34f0c70a1a8097096c1bf3a043aa64c4bd",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "USER_REJECTED_REWORK",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-SEMANTIC",
+    "title": "Stage 13 semantic model",
+    "finding": "Stable definitions distinct from historical exact-state records; explicit CurrentStatePointer resolves manifest and artifacts rather than recency. Candidate, review, verification, freshness, completeness, authority and transition states independent.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/BUILD/O13R-01/ARTIFACTS/SEMANTIC_MODEL_SPEC_v0.8.md",
+      "blob_sha": "b29fe9314234302a14571b60cd9060cd21417f64",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "WORKING_PASS_AT_SOURCE_FILE; LATER_EXACT_STAGE_APPROVAL_SEPARATE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-ASSURANCE",
+    "title": "Evidence-derived completion",
+    "finding": "Required acceptance and assurance obligations provide explicit denominator. Missing, stale or failed required verification blocks completion; conditional N/A needs trigger evidence. Corrections link to objections or failed verification; preserve previous results.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/BUILD/O13R-01/ARTIFACTS/SEMANTIC_MODEL_SPEC_v0.8.md",
+      "blob_sha": "b29fe9314234302a14571b60cd9060cd21417f64",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "WORKING_PASS_AT_SOURCE_FILE; LATER_EXACT_STAGE_APPROVAL_SEPARATE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-APP13",
+    "title": "Stage 13 exact approval basis",
+    "finding": "2026-09-25 approval: O13R-01 v0.8 semantic model, O13R-02 v0.3 navigation/state map, O13R-03 v0.4 decision/evidence trace, O13R-04 v0.4 assurance register, O13R-05 v0.1 representation spec; V13R-01 11/11 reported. Approval record explicitly requires later freeze/persistence; Atlas transfer not implied.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/APPROVAL_RECORD_STAGE13_v1.1.md",
+      "blob_sha": "7a439d2876656b4906eb10a8b53014a2b8e3da32",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "EXPLICIT_STAGE_APPROVAL_RECORD_NOT_FREEZE_PROOF",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-READY14",
+    "title": "Stage 14 exact readiness",
+    "finding": "v1.2 readiness reports 7/7 outputs, 52/52 required requirements, 75/75 output assurance, 22/22 content conditions, 4/4 benchmark families, 27 specialist reviews, 7/7 pre-user-review exit obligations. user_approved=false, frozen=false. Historical reported outcomes not rerun.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "STAGE_14_EDITORIAL_PUBLICATION_SYSTEM/CURRENT_WORKING/EXIT/READINESS_SUMMARY_v1.2.json",
+      "blob_sha": "4628ca63096515ad9517645f38f4765b3d5b45e8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "READY_FOR_USER_APPROVAL_NOT_APPROVED_NOT_FROZEN",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-D-SATURATION",
+    "title": "Maximum applied validation",
+    "finding": "Inventory materially distinct accessible applications; prioritize user corpus, then open cases expanding stress dimensions; evidence-backed dispositions; no fixed case count. Missing saturation evidence blocks stage exit; freeze scope and reopening matter.",
+    "source": {
+      "repository": "Yehia224/design-workflow-test",
+      "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+      "path": "MAXIMUM_APPLIED_VALIDATION_PROTOCOL.md",
+      "blob_sha": "5bf9964596206cb20d5e8d1d3165dfa75f437a14",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "CANONICAL_MANDATORY_WITHIN_DESIGN_PROJECT",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  }
+]

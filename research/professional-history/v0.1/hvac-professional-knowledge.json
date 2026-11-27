@@ -1,0 +1,198 @@
+[
+  {
+    "id": "HRA-H-WORKFLOW",
+    "title": "HVAC load-calculation professional workflow",
+    "finding": "Project criteria and architectural/BIM/CAD inputs → space/zone decomposition → design climate/indoor criteria → envelope/fenestration → gains and schedules → ventilation/infiltration → review inputs → room/zone loads → peak/coincident system analysis → psychrometrics/sizing → QA → issued calculations → downstream design.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/ATLAS_LINKAGE_D1.md",
+      "blob_sha": "6b395b8643abd979877bcb68f9142dd8a02f925c",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "RESEARCH_LINKAGE_NON_CANONICAL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-LINKAGE",
+    "title": "Occupational knowledge to automation research",
+    "finding": "Original Atlas identities cooling_loads and hvac_design; interfaces cad_automation, bim_automation, engineering_software, workflow_automation and data_automation. Implementation exploration cannot redefine Atlas authority.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/ATLAS_LINKAGE_D1.md",
+      "blob_sha": "6b395b8643abd979877bcb68f9142dd8a02f925c",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "RESEARCH_LINKAGE_NON_CANONICAL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-LEGACY",
+    "title": "Legacy DWG to HAP route",
+    "finding": "DWG extraction, engineering review, source-backed candidates, approval, Excel/guide and manual HAP entry form the historical intended workflow, not demonstrated end-to-end capability or approved architecture.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "docs/HAP_WORKFLOW.md",
+      "blob_sha": "0c89285092a64dedb16f203da90328edb7475288",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "LEGACY_NON_AUTHORITATIVE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-LOCAL",
+    "title": "Egypt source families",
+    "finding": "HBRC Code 306/2005 listing, dedicated air-conditioning/refrigeration code family, HBRC/BUILD_ME performance tool. Editions, clauses and applicability must be confirmed. Hourly energy analysis is distinct from peak sizing.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/EGYPT_LOCAL_AUTHORITY_SOURCE_SWEEP.md",
+      "blob_sha": "aee44203aa4e5ec571912609515d26a5c173531d",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "LOCAL_SOURCE_FAMILY_IDENTIFIED_EDITION_APPLICABILITY_OPEN",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-SOURCE",
+    "title": "Source authority roles",
+    "finding": "Historical baseline references ASHRAE/ACCA 183-2024, ASHRAE 169-2025, 2025 Fundamentals chapters 14–19, CIBSE Guide A, textbook/training and HAP implementation. These serve different procedural, technical, pedagogical and software-evidence roles. No new source verification.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/LOAD_CALCULATION_SOURCE_BASELINE.md",
+      "blob_sha": "0c9c68e61b4b9e9f53a93a4d84e671f9903f0116",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "WORKING_SOURCE_INTELLIGENCE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-OPTIONS",
+    "title": "Alternatives to custom AutoCAD integration",
+    "finding": "Prior research cites Carrier gbXML, Revit analytical models/export/API, gbXML schema, TRACE 3D Plus and IES VE workflows. Public HAP automation API remains unproven; compare existing supported workflows before choosing build/integrate/adapt/manual.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/EXISTING_SOLUTIONS_LANDSCAPE.md",
+      "blob_sha": "c536c7c386fc004588b1cdae3c6f85cce98d0820",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "D1_RESEARCH_NO_ARCHITECTURE_APPROVED",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-VERSIONS",
+    "title": "Exchange compatibility",
+    "finding": "Historical research identifies Revit 2026 export gbXML 7.03 versus then-current schema 8.01. 'Supports gbXML' does not prove semantic transfer or consumer compatibility. Version-specific findings require recheck at implementation.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/EXISTING_SOLUTIONS_LANDSCAPE.md",
+      "blob_sha": "c536c7c386fc004588b1cdae3c6f85cce98d0820",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "D1_RESEARCH_NO_ARCHITECTURE_APPROVED",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-TRANSFER",
+    "title": "Controlled transfer experiment",
+    "finding": "Use small controlled model with known authoritative fields; track identity/revision/units; separately assess geometry and properties; record defaults, transformed and missing values. Import success is not data validity.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "research/REVIT_GBXML_HAP_TRANSFER_TEST_CONTRACT.md",
+      "blob_sha": "1404bcd86969f3c7c65093eaca8af8ee23f7cf88",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "TEST_CONTRACT_NOT_EXECUTED",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-PROVENANCE",
+    "title": "Engineering data provenance",
+    "finding": "Maintain acquisition status, source reference, modification audit and approval independently. Source types include standard, code, manufacturer, research, project document and engineer input; no confidential or unauthorized source files.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "docs/DATA_PROVENANCE_RULES.md",
+      "blob_sha": "a25003f316ac160e975f6a0f2baa75f1ea5220a5",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_RULE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-ENGINEERING",
+    "title": "Value authority and special review",
+    "finding": "No invented engineering values; trace unit, source edition/locator, confidence, design stage and approval. Preliminary values require engineer review; critical medical spaces specialist review.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "docs/ENGINEERING_RULES.md",
+      "blob_sha": "a08c2140316e7c7b5a3d25a3090dbadd0c4059c8",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_RULE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-MODEL",
+    "title": "EngineeringValue<T> implementation",
+    "finding": "Nullable value and separate data, approval, confidence, provenance and design-stage fields; default NotAvailable/NotReviewed/Low; computed approval/preliminary flags are separate. Class alone does not enforce source completeness.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "src/HapData.Core/Models/EngineeringValue.cs",
+      "blob_sha": "76f523e4b3e3d7adf7cee5b97243fff839664b88",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "EXPLORATORY_CODE",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-TESTS",
+    "title": "Unit-test coverage",
+    "finding": "Six tests cover preliminary nonapproval, approved value flag, standard-suggested preliminary flag, Egypt default, operating-room specialist marker and core assembly independence from Autodesk. Read test source; did not execute tests.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "tests/HapData.Core.Tests/DomainModelTests.cs",
+      "blob_sha": "adf1a4977f339e9e2ad01329bfe4e470a9f2da6e",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "TEST_SOURCE_NOT_RERUN",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-THDATA",
+    "title": "Actual prototype boundary",
+    "finding": "THDATA0 selects a closed 2D polyline of at least three vertices and prints area in square drawing units. Does not perform unit conversion, load calculation, multi-space extraction or HAP transfer in this command.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "src/HapData.AutoCAD/Commands/ThData0Command.cs",
+      "blob_sha": "3edb103bf599dec658b1ad888252c1ad2d1db8a3",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "EXPLORATORY_CODE_STATIC_READ",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-H-RESET",
+    "title": "Research before implementation",
+    "finding": "Keep old AutoCAD→Plugin→HAP candidate as evidence; define problem, source/data contract, compare alternatives and empirical evidence before architecture choice. Avoid treating code existence as professional product approval.",
+    "source": {
+      "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+      "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+      "path": "PROJECT_CONTRACT.md",
+      "blob_sha": "0e07c64f39334c43780165456575e0f8615fb49b",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "PROJECT_LOCAL_CONTRACT_PREVIOUSLY_READ",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  }
+]

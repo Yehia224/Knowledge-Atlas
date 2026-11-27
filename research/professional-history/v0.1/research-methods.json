@@ -1,0 +1,86 @@
+[
+  {
+    "id": "HRA-R-USSP",
+    "title": "Independent semantic scopes",
+    "finding": "One complete concept per search scope; build breadth first, ordered rounds, update structure on discoveries, map results to nodes, evidence and relations; stop only on practical saturation.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "protocols/UNIVERSAL_SEARCH_PROTOCOL.md",
+      "blob_sha": "4446ac4bca155b567f47ea8cfa0132fe509f7c51",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "HISTORICAL_FOREST_CANONICAL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-R-CZDHP",
+    "title": "Operational handoff",
+    "finding": "Preserve project identity, authority precedence, source-reading order, exact state, failures, dependencies, evidence derivation chain and next action. Block unresolved authority conflict.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "protocols/CANONICAL_ZERO_DRIFT_HANDOFF_PROTOCOL.md",
+      "blob_sha": "d09e7818c31ce1b7f4b720641df638b1936f7492",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "REUSABLE_PROTOCOL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-R-HSSM",
+    "title": "Structured search visualization",
+    "finding": "Master overview and local group frames; parent-to-direct-child links; preserve nesting, readability and zero collision across zoom levels. Geometry follows semantics.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "protocols/HSSM_EXCALIDRAW_BUILD_PROTOCOL.md",
+      "blob_sha": "0f59cbf0391f8aac888df6de41d30077221c6592",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "REUSABLE_PROTOCOL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-R-SRHP",
+    "title": "Evidence navigation",
+    "finding": "Claim to evidence ID to exact source location. Prefer verified web text fragment, or precise page/section/timestamp/clause/line fallback; don't infer from titles.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "protocols/SOURCE_REFERENCE_HIGHLIGHT_PROTOCOL.md",
+      "blob_sha": "0f5abac8fcc7e525aed368d4cc5ae43a7f898656",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "REUSABLE_PROTOCOL",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-R-FOREST-STYLE",
+    "title": "Language and learner prompts",
+    "finding": "Historical Forest language contract: Egyptian Arabic, second-person imperative, Arabic-first technical terminology with bold parenthesized English. Not automatically current REF language rules.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "protocols/FOREST_ARABIC_EXPLANATION_STYLE.md",
+      "blob_sha": "0f79058020b6994127f1f7c1df290cf5e867f2db",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "HISTORICAL_SCOPE_BOUND",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  },
+  {
+    "id": "HRA-R-G03-AUDIT",
+    "title": "Concrete re-audit and correction",
+    "finding": "Source stability, universal subset overstatement, overbroad evidence ranges, malformed links, security/communications merger and mixed-script rendering defects found and corrected. Final render check and independent review not claimed.",
+    "source": {
+      "repository": "Yehia224/md-protocol-collection",
+      "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+      "path": "forest/mep_gate/reviews/G0_3_MEP_CORE_TERMINOLOGY_MISTAKE_LIBRARY_AUDIT.md",
+      "blob_sha": "d17866ae3754a047795478bcbdb0cedb8d52b851",
+      "source_review": "targeted_content_review"
+    },
+    "original_authority": "WORKING_SELF_AUDIT_NOT_FROZEN",
+    "atlas_status": "RECOVERED_CANDIDATE"
+  }
+]

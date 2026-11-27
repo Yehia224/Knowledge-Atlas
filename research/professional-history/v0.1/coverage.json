@@ -1,0 +1,26 @@
+[
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "total_files": 52,
+    "linked_sources": 38,
+    "remaining": 14,
+    "scope": "Linked sources are targeted reads, not necessarily complete full-text audit; remaining paths retained from pinned tree, not excluded."
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "total_files": 53,
+    "linked_sources": 12,
+    "remaining": 41,
+    "scope": "Linked sources are targeted reads, not necessarily complete full-text audit; remaining paths retained from pinned tree, not excluded."
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "total_files": 2005,
+    "linked_sources": 11,
+    "remaining": 1994,
+    "scope": "Linked sources are targeted reads, not necessarily complete full-text audit; remaining paths retained from pinned tree, not excluded."
+  }
+]

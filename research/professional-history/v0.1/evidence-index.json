@@ -1,0 +1,429 @@
+[
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_false_completeness.md",
+    "blob_sha": "f6cf9542bd87cbdc46b91f9f9ae2dc5c511a224c",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_pass_approval_freeze_confusion.md",
+    "blob_sha": "07e08cea296c940f54e2166071f5589917aeb4bf",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_builder_controlled_review.md",
+    "blob_sha": "b6ebaa35a5fbc756fdf730362881d883297864f6",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_cross_project_authority_leak.md",
+    "blob_sha": "24f7b2c80d72d4bddec2c7158e45b71efd8042ff",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_rejection_history_loss.md",
+    "blob_sha": "900308f2fb1048edf20b9522c1268e603e137d96",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_missing_canonical_upstream_source.md",
+    "blob_sha": "b4dc484b6ea4a1cc20ba36f61af2ac71b13dfa98",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_dependency_sequence_violation.md",
+    "blob_sha": "f987e9778bafe9ed7b749f6ec1dda7fa2a6541e5",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_review_role_substitution.md",
+    "blob_sha": "266f5194d2084c1f6fa1ded5c26e3458ef5921c3",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_asset_sourcing_not_reaching_artifact.md",
+    "blob_sha": "c0bcd48c2028ee219503825eaaed85e83d1287ca",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_asset_variants_mislabeled_as_families.md",
+    "blob_sha": "0503a93e130d45bcf1d4f206bdf489980afef73e",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_border_clearance_and_termination.md",
+    "blob_sha": "77b081f945d2ff90096d1599bb48cbd049305e58",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_broken_external_dependencies.md",
+    "blob_sha": "9b37364501f43dcae76c7321bf20df3c80fca50b",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_card_dominant_visual_poverty.md",
+    "blob_sha": "ce4ad1f60333bf48017463540d5e6b162d58258d",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_concept_image_as_deliverable.md",
+    "blob_sha": "b8ff0679105e8dffbc07dfacdfaed85dd0129e8c",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_connector_semantics_mismatch.md",
+    "blob_sha": "d28edad1ff155535a19735617ce106cd6fb5c7ab",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_cross_media_reflow.md",
+    "blob_sha": "5c2e4d09e2956e7c53bc7e4731a2ebc18332eeae",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_export_before_source_reconstruction.md",
+    "blob_sha": "0d2ac51c684d1a9168a2868071e90c850cedd426",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_font_fallback_and_script_distortion.md",
+    "blob_sha": "ea43b31e0ab5c075c2a81575b20fe52f1a1e9ad1",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_generic_geometry_without_semantics.md",
+    "blob_sha": "82070e7f3dfd9b8b90850d9c9e6d317f0b2ab4cd",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_hidden_raster_in_vector.md",
+    "blob_sha": "0a98edd7789010713a2aa840d7ac7ca428fd35c7",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_incomplete_deliverable_coverage.md",
+    "blob_sha": "926327fdd92c64292aca731a07b4c02a088b3f00",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_inconsistent_spacing.md",
+    "blob_sha": "d6f69e760e2735689a18eb8879807616124b2b7d",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_overdesigned_container_congestion.md",
+    "blob_sha": "6b0cee595f2e1e6b7e4176e1b3676d74d619aa3e",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_random_visual_cliches.md",
+    "blob_sha": "57a32505efe5f625f0d978b13e1b848875d25901",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_render_parity_failure.md",
+    "blob_sha": "e606fab23b9994d4cf8d90e89f7d1eb4e47511c7",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_template_overfitting.md",
+    "blob_sha": "ae1bca7d052f8e792178b8398c99048ae866c741",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_text_container_collision.md",
+    "blob_sha": "fb58da75fceab83d44a5a6381fadd81b1053ae40",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_typographic_scale_mismatch.md",
+    "blob_sha": "bc3b0ce178caf27ae91cef56fe219d47e0052763",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_unnecessary_output_format.md",
+    "blob_sha": "60c4861f1ba4ad79b8930f5edde79dce356037f9",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_version_naming_ambiguity.md",
+    "blob_sha": "4a8f98f7b3e9f0edd7bb05b305aa94536b3a2e45",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_wrong_arabic_voice_and_term_formatting.md",
+    "blob_sha": "b66e01b2b796bfe1bdbcec6a08345e118656882b",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "mistakes/mistake_wrong_text_direction.md",
+    "blob_sha": "448cc0a64c08a0da7a1dfdca11212c3596771d3d",
+    "source_review": "full_text_read"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "protocols/UNIVERSAL_SEARCH_PROTOCOL.md",
+    "blob_sha": "4446ac4bca155b567f47ea8cfa0132fe509f7c51",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "protocols/CANONICAL_ZERO_DRIFT_HANDOFF_PROTOCOL.md",
+    "blob_sha": "d09e7818c31ce1b7f4b720641df638b1936f7492",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "protocols/HSSM_EXCALIDRAW_BUILD_PROTOCOL.md",
+    "blob_sha": "0f59cbf0391f8aac888df6de41d30077221c6592",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "protocols/SOURCE_REFERENCE_HIGHLIGHT_PROTOCOL.md",
+    "blob_sha": "0f5abac8fcc7e525aed368d4cc5ae43a7f898656",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "protocols/FOREST_ARABIC_EXPLANATION_STYLE.md",
+    "blob_sha": "0f79058020b6994127f1f7c1df290cf5e867f2db",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/reviews/G0_3_MEP_CORE_TERMINOLOGY_MISTAKE_LIBRARY_AUDIT.md",
+    "blob_sha": "d17866ae3754a047795478bcbdb0cedb8d52b851",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/ATLAS_LINKAGE_D1.md",
+    "blob_sha": "6b395b8643abd979877bcb68f9142dd8a02f925c",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "docs/HAP_WORKFLOW.md",
+    "blob_sha": "0c89285092a64dedb16f203da90328edb7475288",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/EGYPT_LOCAL_AUTHORITY_SOURCE_SWEEP.md",
+    "blob_sha": "aee44203aa4e5ec571912609515d26a5c173531d",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/LOAD_CALCULATION_SOURCE_BASELINE.md",
+    "blob_sha": "0c9c68e61b4b9e9f53a93a4d84e671f9903f0116",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/EXISTING_SOLUTIONS_LANDSCAPE.md",
+    "blob_sha": "c536c7c386fc004588b1cdae3c6f85cce98d0820",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/REVIT_GBXML_HAP_TRANSFER_TEST_CONTRACT.md",
+    "blob_sha": "1404bcd86969f3c7c65093eaca8af8ee23f7cf88",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "docs/DATA_PROVENANCE_RULES.md",
+    "blob_sha": "a25003f316ac160e975f6a0f2baa75f1ea5220a5",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "docs/ENGINEERING_RULES.md",
+    "blob_sha": "a08c2140316e7c7b5a3d25a3090dbadd0c4059c8",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "src/HapData.Core/Models/EngineeringValue.cs",
+    "blob_sha": "76f523e4b3e3d7adf7cee5b97243fff839664b88",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "tests/HapData.Core.Tests/DomainModelTests.cs",
+    "blob_sha": "adf1a4977f339e9e2ad01329bfe4e470a9f2da6e",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "src/HapData.AutoCAD/Commands/ThData0Command.cs",
+    "blob_sha": "3edb103bf599dec658b1ad888252c1ad2d1db8a3",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "PROJECT_CONTRACT.md",
+    "blob_sha": "0e07c64f39334c43780165456575e0f8615fb49b",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "ATLAS_DESIGN_NODES_AND_STAGE_MAP.md",
+    "blob_sha": "173951f00bdcde0ef687cd262045e6e053afb9a8",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_08_ARABIC_LATIN_LETTERING/ERRORS/ATTEMPT_04_EXACT_RASTER_WRAPPER_V1.1/PROBLEMS.md",
+    "blob_sha": "30dc25e1ac71bd7133633926f97c659a91417958",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_09_TYPOGRAPHY_SYSTEM/ERRORS/ATTEMPT_19_RC_V0.19_MEDIUM_COLLAPSE/PROBLEMS.md",
+    "blob_sha": "1ad39c56317f3a634b95260925220b66d87f3e11",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_12_GRAPHIC_LANGUAGE/ERRORS/ATTEMPT_02_ASSET_LIBRARY_RC_v2.1/PROBLEMS.md",
+    "blob_sha": "79e2521e0147f1722442f3db7899301ffba77fff",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_12_GRAPHIC_LANGUAGE/ERRORS/ATTEMPT_02_ASSET_LIBRARY_RC_v2.1/GATES_CREATED_OR_UPDATED.md",
+    "blob_sha": "2a6dc0522307af7b75d424c0639b1eae34e47b04",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_12_GRAPHIC_LANGUAGE/FINAL_APPROVED/APPROVAL_RECORD.md",
+    "blob_sha": "bbd88ee57ca51ffa8ee4e62677a378c85006e31e",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/ERRORS/ATTEMPT_03_ARROW_TEXT_MISMATCH_v1.0/PROBLEMS.md",
+    "blob_sha": "a9c41e34f0c70a1a8097096c1bf3a043aa64c4bd",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/BUILD/O13R-01/ARTIFACTS/SEMANTIC_MODEL_SPEC_v0.8.md",
+    "blob_sha": "b29fe9314234302a14571b60cd9060cd21417f64",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/APPROVAL_RECORD_STAGE13_v1.1.md",
+    "blob_sha": "7a439d2876656b4906eb10a8b53014a2b8e3da32",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_14_EDITORIAL_PUBLICATION_SYSTEM/CURRENT_WORKING/EXIT/READINESS_SUMMARY_v1.2.json",
+    "blob_sha": "4628ca63096515ad9517645f38f4765b3d5b45e8",
+    "source_review": "targeted_content_review"
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "MAXIMUM_APPLIED_VALIDATION_PROTOCOL.md",
+    "blob_sha": "5bf9964596206cb20d5e8d1d3165dfa75f437a14",
+    "source_review": "targeted_content_review"
+  }
+]
