@@ -1,0 +1,32 @@
+[
+  {
+    "id": "T21",
+    "gate": "Latest REF graph and evidence register",
+    "status": "OPEN",
+    "detail": "Historical Stage02 recovered; newer baseline and original evidence register outstanding"
+  },
+  {
+    "id": "T22",
+    "gate": "Computing semantic coverage",
+    "status": "OPEN",
+    "detail": "Historical topic map recovered; stable semantic records outstanding"
+  },
+  {
+    "id": "T23",
+    "gate": "Diagram artifact resolution",
+    "status": "OPEN",
+    "detail": "Reference IDs located; original artifact payloads outstanding"
+  },
+  {
+    "id": "T24",
+    "gate": "Historical archive recovery",
+    "status": "OPEN",
+    "detail": "Individual files recovered; original archives not fully recovered"
+  },
+  {
+    "id": "T25",
+    "gate": "Independent subject review",
+    "status": "OPEN",
+    "detail": "Same-agent scoped checks completed; independent scientific and professional review absent"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "R-001",
+    "title": "Foundational Architecture Comparative Study",
+    "version": "0.1",
+    "artifact": "Knowledge_Atlas_Foundational_Architecture_Study_v0.1.md",
+    "sha256": "8ab19c16da7c3d8c703bf894464449365f608fff46afc0b5c984fd0d06c163da",
+    "finding": "Separate knowledge identity, classification, navigation, research and learning. No final architecture selected.",
+    "status": "WORKING_PENDING_APPROVAL",
+    "archive_access": "owner-held private archive; original bytes not committed",
+    "canonical_operations": 0
+  },
+  {
+    "id": "R-002",
+    "title": "Representative Data Architecture Dry Run",
+    "version": "0.1",
+    "artifact": "Knowledge_Atlas_Representative_Dry_Run_v0.1.zip",
+    "sha256": "cfda5714c85cb7d33ddb13216e766cd60987c14d58c727a484fe4511ac1d4422",
+    "finding": "Same-label identities are not automatically equivalent; preserve historical IDs and boundary relationships.",
+    "status": "WORKING_PENDING_APPROVAL",
+    "archive_access": "owner-held private archive; original bytes not committed",
+    "canonical_operations": 0
+  },
+  {
+    "id": "R-003",
+    "title": "Evidence Recovery & Conflict Resolution",
+    "version": "0.2",
+    "artifact": "Knowledge_Atlas_Evidence_Recovery_v0.2.zip",
+    "sha256": "428a5b0754edea28ab87c1bc7bfa768f199a429640876f7b84b059180e5b5f65",
+    "finding": "Historical source recovery improved, but the five inherited gates remain open.",
+    "status": "WORKING_PENDING_APPROVAL",
+    "archive_access": "owner-held private archive; original bytes not committed",
+    "canonical_operations": 0
+  },
+  {
+    "id": "R-004",
+    "title": "Architecture Alternatives & Navigation Experiments",
+    "version": "0.1",
+    "artifact": "Knowledge_Atlas_Navigation_Experiments_v0.1.zip",
+    "sha256": "326865c85ab3e3b4b1aa8c45de73d9d768bdc636d03b1d3f72328ad0bacdb6b0",
+    "finding": "Four alternatives tested on one sample; structural depth does not establish usability or a winning design.",
+    "status": "WORKING_PENDING_APPROVAL",
+    "archive_access": "owner-held private archive; original bytes not committed",
+    "canonical_operations": 0
+  }
+]

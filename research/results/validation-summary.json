@@ -1,0 +1,28 @@
+{
+  "status": "WORKING_PENDING_APPROVAL",
+  "dry_run": {
+    "seeds": 35,
+    "sample_records": 145,
+    "internal_edges": 238,
+    "boundary_edges": 343,
+    "passed": 22,
+    "failed": 5
+  },
+  "evidence_recovery": {
+    "historical_ref_identities": 271,
+    "historical_ref_edges": 601,
+    "prerequisite_edges": 529,
+    "additional_pass": 14,
+    "additional_fail": 0,
+    "inherited_pass": 22,
+    "inherited_fail": 5
+  },
+  "navigation": {
+    "entries": 157,
+    "models": 4,
+    "data_checks_pass": 19,
+    "browser_checks_pass": 15,
+    "human_usability_review": "NOT_COMPLETED"
+  },
+  "canonical_operations": 0
+}
