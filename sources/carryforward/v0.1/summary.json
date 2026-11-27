@@ -1,0 +1,32 @@
+{
+  "archives": 20,
+  "archive_members": 477,
+  "source_registry_snapshots": 10,
+  "source_record_occurrences": 384,
+  "unique_url_strings": 251,
+  "record_reference_occurrences": 4132,
+  "reference_id_links": 5161,
+  "resolved_id_links": 4673,
+  "unresolved_id_links": 488,
+  "baseline_records": 913,
+  "baseline_with_explicit_bibliographic_pointer": 387,
+  "baseline_without_explicit_bibliographic_pointer_in_original_inventory": 526,
+  "professional_source_documents": 21,
+  "professional_url_occurrences": 320,
+  "professional_counts": {
+    "forest": {
+      "documents": 6,
+      "occurrences": 131
+    },
+    "hvac": {
+      "documents": 5,
+      "occurrences": 23
+    },
+    "design": {
+      "documents": 10,
+      "occurrences": 166
+    }
+  },
+  "new_scientific_reviews": 0,
+  "external_source_pages_downloaded": 0
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "ASSET_SOURCING/SOURCES_REGISTRY.yaml",
+    "blob_sha": "0b3840f9a6d3671e655f5f56f4a777b7c95ceb83",
+    "source_occurrences": 26
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "APPLICATIONS/ENERGY_EVOLUTION_STORYBOARD/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.1.md",
+    "blob_sha": "b29a160110702566ec2e82153b33a5bf2ae6aa6b",
+    "source_occurrences": 10
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_10_COLOR_SYSTEM/CURRENT_WORKING/03_REFERENCE_SCOPE_v0.1.md",
+    "blob_sha": "19e15f03a9da3759b50622eef63967fa80e1c039",
+    "source_occurrences": 2
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/FULL_RESTART_2026-09-24/REFERENCE_BENCHMARK_PACK_v0.1.md",
+    "blob_sha": "c763924ad2397662a49e030ad2ba0176f54dee23",
+    "source_occurrences": 19
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.1.md",
+    "blob_sha": "130b1ebff9a0118f63f65f722b1d116929bb6afa",
+    "source_occurrences": 7
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.2.md",
+    "blob_sha": "c1498bc14a44bcc43ac4e0be5946a944176f45ab",
+    "source_occurrences": 14
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.3.md",
+    "blob_sha": "ca6379a3beff96263e46b0ad89ba45a7d93094cc",
+    "source_occurrences": 21
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.4.md",
+    "blob_sha": "b09fd3bb399eb49d9571205bd8114694f2d2859a",
+    "source_occurrences": 24
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_13_INFORMATION_DESIGN/FINAL_APPROVED/REFERENCE_BENCHMARK_PACK_v0.1.md",
+    "blob_sha": "c763924ad2397662a49e030ad2ba0176f54dee23",
+    "source_occurrences": 19
+  },
+  {
+    "repository": "Yehia224/design-workflow-test",
+    "commit": "ebf2117721a4cd0fbe7faa42d988449f7a23db34",
+    "path": "STAGE_14_EDITORIAL_PUBLICATION_SYSTEM/CURRENT_WORKING/REFERENCE_BENCHMARK_PACK_v0.1.md",
+    "blob_sha": "c14779b048d4d6f735ed201e3d2ff777f043beda",
+    "source_occurrences": 24
+  }
+]
