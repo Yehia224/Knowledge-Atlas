@@ -1,0 +1,7 @@
+# Evidence carry-forward: original namespace reconciliation
+
+This is an append-only overlay over sources/carryforward/v0.1. All 488 previously unresolved link occurrences were accounted for: 480 source IDs mapped to their original source register; 8 occurrences of LOCAL are explicitly non-external proposals, not verified claims. 5,153 of 5,161 source-ID link occurrences now have matched registry records; the other eight are local proposals.
+
+Method: reconstruct the inherited edge using the exact ID and raw evidence payload in Unified Atlas v0.1, follow its recorded N/T/G/R origin to the original research package, and match the corresponding original relation (exact payload, exact shared fields in the technology manifest, or geographic subject/place/role/logic and ordered source IDs). Geographic delimiters pipe and middle dot were normalized only for comparing source ID sequences; original fields remain unchanged. Use the original scoped registry, not a global name match. Each row preserves the original pointer, prior resolution, source register location and original state. No new external evidence, scientific verification, authority promotion or review performed.
+
+The 526 baseline records without explicit bibliographic pointers are a different gap. They may have evidence elsewhere; do not infer that they lack evidence, or attach source IDs by label alone. Source-page snapshots, remaining missing original archives and additional source-bearing documents are not yet fully recovered. No REF or EM. No main branch or architecture change.

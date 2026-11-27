@@ -1,0 +1,13 @@
+{
+  "input_links": 488,
+  "matched_original_namespace": 480,
+  "local_proposal_no_external_reference": 8,
+  "all_reference_id_links": 5161,
+  "matched_before": 4673,
+  "matched_after": 5153,
+  "unresolved_after": 0,
+  "scientific_reviews_repeated": 0,
+  "external_pages_opened": 0,
+  "baseline_records_without_explicit_bibliographic_pointer": 526,
+  "baseline_pointer_gap_status": "SEPARATE; NOT SOLVED BY SOURCE ID RECONCILIATION"
+}
