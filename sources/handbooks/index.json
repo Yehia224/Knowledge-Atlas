@@ -1,0 +1,24 @@
+[
+  {
+    "source_id": "SRC-HBK-001",
+    "publisher": "ASHRAE",
+    "title": "2024 Handbook—HVAC Systems and Equipment, Chapter 1",
+    "url": "https://handbook.ashrae.org/handbooks/S24/IP/S24_Ch01/S24_Ch01_ip.aspx",
+    "edition": "2024",
+    "scope": "HVAC system analysis and selection",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-HBK-002",
+    "publisher": "ASHRAE",
+    "title": "2023 Handbook—HVAC Applications, Chapter 48",
+    "url": "https://handbook.ashrae.org/Handbooks/A23/IP/A23_Ch48/A23_Ch48_ip.aspx",
+    "edition": "2023",
+    "scope": "HVAC controls design context",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  }
+]

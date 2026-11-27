@@ -1,0 +1,72 @@
+[
+  {
+    "source_id": "SRC-WEB-001",
+    "publisher": "BIPM",
+    "title": "The kelvin",
+    "url": "https://www.bipm.org/en/si-base-units/kelvin",
+    "scope": "SI unit of thermodynamic temperature",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-002",
+    "publisher": "NIST",
+    "title": "Guide to the SI, Chapter 4",
+    "url": "https://www.nist.gov/pml/special-publication-811/nist-guide-si-chapter-4-two-classes-si-units-and-si-prefixes",
+    "scope": "Temperature intervals and units",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-003",
+    "publisher": "Royal Institution",
+    "title": "Michael Faraday's ring-coil apparatus",
+    "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-ring-coil-apparatus",
+    "scope": "Historical experiment and apparatus",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-004",
+    "publisher": "Royal Institution",
+    "title": "Michael Faraday at the Royal Institution",
+    "url": "https://www.rigb.org/explore-science/michael-faraday-royal-institution",
+    "scope": "Historical and institutional context",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-005",
+    "publisher": "CIBSE",
+    "title": "Building engineering jobs",
+    "url": "https://www.cibse.org/about-cibse/building-engineering-jobs/",
+    "scope": "Professional role context; not identity equivalence",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-006",
+    "publisher": "Royal Institution",
+    "title": "Michael Faraday's magnetic laboratory",
+    "url": "https://www.rigb.org/explore-science/explore/collection/michael-faradays-magnetic-laboratory",
+    "scope": "Laboratory context",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-WEB-007",
+    "publisher": "Royal Institution",
+    "title": "History of research at the RI",
+    "url": "https://www.rigb.org/explore-science/explore/collection/history-research-ri",
+    "scope": "Historical context",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "source_id": "SRC-STD-001",
+    "publisher": "RFC Editor",
+    "title": "RFC 9110: HTTP Semantics",
+    "url": "https://www.rfc-editor.org/rfc/rfc9110.html",
+    "edition": "2022",
+    "scope": "HTTP protocol semantics",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-STD-002",
+    "publisher": "IEC TC 3",
+    "title": "Current document kinds",
+    "url": "https://tc3.iec.ch/tc-activity/current_document_kinds/",
+    "edition": null,
+    "scope": "Engineering diagrams and document kinds",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  },
+  {
+    "source_id": "SRC-STD-003",
+    "publisher": "ASHRAE",
+    "title": "Standards and guidelines: titles, purposes and scopes",
+    "url": "https://www.ashrae.org/technical-resources/standards-and-guidelines/titles-purposes-and-scopes",
+    "edition": null,
+    "scope": "Building automation guideline scope",
+    "status": "RECOVERED_REFERENCE",
+    "last_recorded_source_check": "2026-11-27",
+    "license": "UNASSESSED; link only"
+  }
+]

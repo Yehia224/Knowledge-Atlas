@@ -1,0 +1,19 @@
+{
+  "source_id": "",
+  "kind": "website | book | paper | standard | handbook",
+  "title": "",
+  "authors": [],
+  "publisher": "",
+  "edition": null,
+  "publication_date": null,
+  "isbn": null,
+  "doi": null,
+  "url": null,
+  "accessed_at": null,
+  "content_sha256": null,
+  "permission_status": "UNKNOWN",
+  "access_scope": "PRIVATE_UNTIL_REVIEWED",
+  "status": "CANDIDATE",
+  "locators": [],
+  "notes": ""
+}

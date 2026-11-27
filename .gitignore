@@ -1,0 +1,8 @@
+# Guard only: the repository and every branch are public.
+# Keep private source bytes and unpublished research outside Git.
+/sources/books/files/
+/sources/private/
+/research/private/
+/private/
+/.env
+/.env.*
