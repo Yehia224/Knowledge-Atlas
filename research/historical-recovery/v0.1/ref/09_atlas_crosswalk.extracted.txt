@@ -1,0 +1,274 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: 09_atlas_crosswalk.csv>
+index,local_id,label,candidate_garden,baseline_anchor,baseline_version,mapping_status,action,evidence_status
+0,REF3-A01,Temperature,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+1,REF3-A02,Thermal equilibrium,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+2,REF3-A03,Zeroth law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+3,REF3-A04,Molecular motion,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+4,REF3-A05,Boltzmann constant,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+5,REF3-A06,Kelvin,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+6,REF3-A07,Microstate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+7,REF3-A08,Macrostate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+8,REF3-A09,Internal energy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+9,REF3-A10,Heat,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+10,REF3-A11,Work,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+11,REF3-A12,Pressure,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+12,REF3-A13,Ideal gas law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+13,REF3-A14,Thermometry,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+14,REF3-A15,Calibration,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+15,REF3-B01,Conduction,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+16,REF3-B02,Convection,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+17,REF3-B03,Thermal radiation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+18,REF3-B04,Thermal conductivity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+19,REF3-B05,Thermal insulation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+20,REF3-B06,Specific heat capacity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+21,REF3-B07,Sensible cooling,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+22,REF3-B08,Latent heat,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+23,REF3-B09,Cooling load,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+24,REF3-B10,Transmission load,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+25,REF3-B11,Product load,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+26,REF3-B12,Infiltration load,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+27,REF3-B13,Internal load,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+28,REF3-B14,Thermal transient,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+29,REF3-C01,Phase equilibrium,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+30,REF3-C02,Chemical potential,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+31,REF3-C03,Vaporization,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+32,REF3-C04,Surface evaporation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+33,REF3-C05,Boiling,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+34,REF3-C06,Condensation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+35,REF3-C07,Saturation pressure,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+36,REF3-C08,Saturation temperature,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+37,REF3-C09,Vapor quality,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+38,REF3-C10,Enthalpy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+39,REF3-C11,Throttling,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+40,REF3-C12,Flashing,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+41,REF3-C13,Saturation dome,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+42,REF3-C14,Refrigerant,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+43,REF3-D01,Vapor compression system,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+44,REF3-D02,Evaporator,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+45,REF3-D03,Compressor,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+46,REF3-D04,Condenser,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+47,REF3-D05,Expansion device,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+48,REF3-D06,Refrigerant circulation,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+49,REF3-D07,Electric motor,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+50,REF3-D08,Electromagnetic torque,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+51,REF3-D09,Temperature sensor,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+52,REF3-D10,Thermostat,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+53,REF3-D11,Setpoint,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+54,REF3-D12,Feedback control,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+55,REF3-D13,Frost formation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+56,REF3-D14,Refrigerant safety classification,g_standards,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+57,REF3-E01,First law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+58,REF3-E02,Second law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+59,REF3-E03,Thermal reservoir,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+60,REF3-E04,Thermodynamic cycle,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+61,REF3-E05,Reversibility,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+62,REF3-E06,Isothermal process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+63,REF3-E07,Adiabatic process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+64,REF3-E08,Isentropic process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+65,REF3-E09,Entropy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+66,REF3-E10,Entropy generation,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+67,REF3-E11,Carnot engine,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+68,REF3-E12,Reversed Carnot cycle,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+69,REF3-E13,T–s diagram,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+70,REF3-E14,Refrigerator COP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+71,REF3-E15,Heat pump COP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+72,REF3-E16,Carnot COP limit,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+73,REF3-E17,Temperature lift,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+74,REF3-E18,Relative efficiency,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+75,REF3-E19,Minimum work,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+76,REF3-E20,Exergy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+77,REF3-E21,Refrigeration capacity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+78,REF3-E22,Ton of refrigeration,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+79,REF3-F01,Steam jet refrigeration,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+80,REF3-F02,Air refrigeration,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+81,REF3-F03,Thermoelectric refrigeration,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+82,REF3-F04,Compound vapor compression,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+83,REF3-F05,Refrigerant nomenclature,g_standards,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+84,REF3-F06,Carnot publication 1824,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+85,REF3-F07,Perkins patent 1834,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+86,REF3-F08,Sadi Carnot,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+87,REF3-F09,Jacob Perkins,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+88,REF3-F10,Food preservation,g_applications,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+89,REF3-F11,Calculation basis,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+90,REF3-F12,Model selection,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+91,REF-AUD-N01,Physical Quantity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+92,REF-AUD-N02,Magnitude,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+93,REF-AUD-N03,Measurement,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+94,REF-AUD-N04,Unit,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+95,REF-AUD-N05,Matter,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+96,REF-AUD-N06,Mass,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+97,REF-AUD-N07,Volume,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+98,REF-AUD-N08,Energy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+99,REF-AUD-N09,Power,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+100,REF-AUD-N10,System,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+101,REF-AUD-N11,Boundary,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+102,REF-AUD-N12,Surroundings,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+103,REF-AUD-N13,Thermodynamic State,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+104,REF-AUD-N14,Thermodynamic Property,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+105,REF-AUD-N15,Thermodynamic Process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+106,REF-AUD-N16,Equipment-related Load,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+107,REF-AUD-N17,Control Volume,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+108,REF-AUD-N18,Specific Volume,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+109,REF-AUD-N19,Steady Flow Energy Balance,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+110,REF-AUD-N20,Shaft Work,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+111,REF-AUD-N21,Heat Engine,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+112,REF-AUD-N22,Expander,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+113,REF-AUD-N23,Absolute Temperature,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+114,REF-AUD-N24,Heat Pump,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+115,REF-AUD-N25,Refrigerator,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+116,REF-AUD-N26,Heat Transfer Rate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+117,REF-AUD-N27,Cooling,NO_CANONICAL_ENTITY_LEXICAL_INDEX,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+118,REF-AUD-N28,Energy Balance,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,INHERITED_SUPPORTED
+119,REF-CP-N001,Temperature Difference,g_nature,n_nature_thermal_01,v0.2 historical only,POSSIBLE_SCOPE_MATCH,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+120,REF-CP-N002,Heat Transfer,g_nature,n_nature_thermal_02,v0.2 historical only,POSSIBLE_SCOPE_MATCH,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+121,REF-CP-N003,Phase Change,g_nature,n_nature_thermal_03,v0.2 historical only,POSSIBLE_SCOPE_MATCH,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+122,REF-CP-N004,Saturation,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+123,REF-CP-N005,Heat Gain,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+124,REF-CP-N006,Heat Leakage,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+125,REF-CP-N007,Thermal Resistance,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+126,REF-CP-N008,Heat Removal,g_services,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+127,REF-CP-N009,Temperature Control,g_services,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+128,REF-CP-N010,Heat Absorption,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+129,REF-CP-N011,Compression,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+130,REF-CP-N012,Pressure Rise,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+131,REF-CP-N013,Temperature Rise,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+132,REF-CP-N014,Heat Rejection,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+133,REF-CP-N015,Liquefaction,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+134,REF-CP-N016,Mechanical Work Input,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+135,REF-CP-N017,Conservation of Energy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+136,REF-CP-N018,Heat Input,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+137,REF-CP-N019,Heat Output,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+138,REF-CP-N020,Work Input,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+139,REF-CP-N021,Clausius Statement,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+140,REF-CP-N022,Irreversibility,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+141,REF-CP-N023,Useful Output,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+142,REF-CP-N024,Required Input,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+143,REF-CP-N025,Cooling Effect,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+144,REF-CP-N026,Heating Effect,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+145,REF-CP-N027,COP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+146,REF-CP-N028,COP Relationship,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+147,REF-CP-N029,Watt,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+148,REF-CP-N030,Btu,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+149,REF-CP-N031,Unit Conversion,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+150,REF-CP-N032,Carnot Cycle,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+151,REF-CP-N033,Turbine,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+152,REF-CP-N034,Work Recovery,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+153,REF-CP-N035,Specific Entropy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+154,REF-CP-N036,State Point,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+155,REF-CP-N037,Process Path,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+156,REF-CP-N038,Area Under Curve,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+157,REF-CP-N039,Definite Integral,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+158,REF-CP-N040,Entropy–Heat Relation,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+159,REF-CP-N041,Actual COP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+160,REF-CP-N042,Friction,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+161,REF-CP-N043,Pressure Drop,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+162,REF-CP-N044,Finite Temperature Difference,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+163,REF-CP-N045,Performance Optimization,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+164,REF-CP-N046,Given Identification,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+165,REF-CP-N047,Required Identification,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+166,REF-CP-N048,Assumption Identification,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+167,REF-CP-N049,Equation Selection,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+168,REF-CP-N050,Equation Rearrangement,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+169,REF-CP-N051,Dimensional Analysis,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+170,REF-CP-N052,Physical Feasibility Check,g_work,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+171,REF-CP-N053,Subcooling,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+172,REF-CP-N054,Multi-stage Compression,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+173,REF-CP-N055,Flash Intercooling,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+174,REF-CP-N056,Multi-evaporator Systems,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+175,REF-CP-N057,Multi-compression Systems,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+176,REF-CP-N058,Individual Expansion Valves,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+177,REF-CP-N059,Multiple Expansion Valves,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+178,REF-CP-N060,Cascade Systems,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+179,REF-CP-N061,Reciprocating Compressor,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+180,REF-CP-N062,Single Acting,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+181,REF-CP-N063,Double Acting,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+182,REF-CP-N064,Volumetric Efficiency,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+183,REF-CP-N065,Piston Displacement,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+184,REF-CP-N066,Refrigerant Classification,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+185,REF-CP-N067,Thermophysical Properties,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+186,REF-CP-N068,Toxicity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+187,REF-CP-N069,Flammability,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+188,REF-CP-N070,ODP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+189,REF-CP-N071,GWP,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+190,REF-CP-N072,Lubricating Oil,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+191,REF-CP-N073,Refrigerant–Oil Compatibility,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+192,REF-CP-N074,Absorption Refrigeration,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+193,REF-CP-N075,Actual Vapor Compression Cycle,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+194,REF-CP-N076,Peltier Effect,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+195,REF-CP-N077,Heat Capacity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+196,REF-CP-N078,Steady-state Heat Transfer,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+197,REF-CP-N079,Temperature Gradient,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+198,REF-CP-N080,Heat Flux,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+199,REF-CP-N081,Fourier's Law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+200,REF-CP-N082,Newton's Law of Cooling,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+201,REF-CP-N083,Stefan–Boltzmann Law,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+202,REF-CP-N084,Liquid Phase,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+203,REF-CP-N085,Vapor Phase,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+204,REF-CP-N086,Vapor Pressure,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+205,REF-CP-N087,Saturated Liquid,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+206,REF-CP-N088,Saturated Vapor,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+207,REF-CP-N089,Two-phase Mixture,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+208,REF-CP-N090,Superheated Vapor,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+209,REF-CP-N091,Subcooled Liquid,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+210,REF-CP-N092,Phase Diagram,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+211,REF-CP-N093,Critical Point,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+212,REF-CP-N094,Equation of State,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+213,REF-CP-N095,Thermodynamic Equilibrium,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+214,REF-CP-N096,Quasi-static Process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+215,REF-CP-N097,Internally Reversible Process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+216,REF-CP-N098,Externally Reversible Process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+217,REF-CP-N099,Irreversible Process,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+218,REF-CP-N100,Entropy Balance,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+219,REF-CP-N101,Entropy Transfer,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+220,REF-CP-N102,Carnot Theorem,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+221,REF-CP-N103,Exergy Destruction,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+222,REF-CP-N104,Thermometer,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+223,REF-CP-N105,Temperature Scale,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+224,REF-CP-N106,Absolute Zero,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+225,REF-CP-N107,Thermal Energy Distribution,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+226,REF-CP-N108,Infiltration,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+227,REF-CP-N109,Thermal Inertia,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+228,REF-CP-N110,Clapeyron Equation,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+229,REF-CP-N111,Clausius Inequality,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+230,REF-CP-N112,Available Energy,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+231,REF-CP-N113,Thermal Reservoir Temperature,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+232,REF-CP-N114,Electric Current,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+233,REF-CP-N115,Voltage,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+234,REF-CP-N116,Electrical Power,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+235,REF-CP-N117,Switching,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+236,REF-CP-N118,Protection,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+237,REF-CP-N119,Magnetic Field,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+238,REF-CP-N120,Torque,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+239,REF-CP-N121,Energy Conversion,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+240,REF-CP-N122,Signal,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+241,REF-CP-N123,Controller,g_technologies,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+242,REF-CP-N124,Hysteresis,g_engineering,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+243,REF-CP-N125,William Cullen,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+244,REF-CP-N126,Oliver Evans,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+245,REF-CP-N127,James Harrison,UNRESOLVED_HISTORY_GARDEN,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,PARTIAL_BOUNDED
+246,REF-CP-N128,Kelvin scale,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+247,REF-CP-N129,State Postulate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+248,REF-CP-N130,Atom,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+249,REF-CP-N131,Molecule,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+250,REF-CP-N132,Solid Phase,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+251,REF-CP-N133,Time,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+252,REF-CP-N134,Energy Rate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+253,REF-CP-N135,Quantity Value,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+254,REF-CP-N136,Closed System,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+255,REF-CP-N137,Open System,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+256,REF-CP-N138,Sign Convention,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+257,REF-CP-N139,Absolute Celsius Offset,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+258,REF-CL-N01,Cooling (physical process),g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+259,REF-CL-N02,Cooling (engineering service),g_services,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+260,REF-CL-N03,Sensible heating,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+261,REF-CL-N04,Latent heating or cooling,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+262,REF-CL-N05,Transient heat transfer,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+263,REF-CL-N06,Internal heat gain,g_nature,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+264,REF-CL-N07,Ratio,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+265,REF-CL-N08,Rate,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+266,REF-CL-N09,Force,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+267,REF-CL-N10,Area,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+268,REF-CL-N11,Joule,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+269,REF-CL-N12,Displacement,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO
+270,REF-CL-N13,Specific quantity,g_science,,v0.2 historical only,SEARCH_CANONICAL_BEFORE_CREATE,NO_MERGE; verify current registry and entity scope,SUPPORTED_INTRO

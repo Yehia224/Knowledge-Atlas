@@ -1,0 +1,26 @@
+check,result,detail
+Atlas_Foundational_Ontology_v0.1_Staging ZIP CRC,PASS,11
+Energy_Atlas_Forest_Integration_Review ZIP CRC,PASS,6
+Energy_Atlas_Remaining_Knowledge_Gardens_v2_4 ZIP CRC,PASS,25
+Energy_Atlas_Scientific_Branch_Expansion_v2_2_Package ZIP CRC,PASS,15
+Energy_Atlas_Technology_Branch_Expansion_v2_3_Package ZIP CRC,PASS,20
+Research_Atlas_v0.3_Staging ZIP CRC,PASS,8
+Unified_Atlas_Evidence_Completion_v0.3_Staging ZIP CRC,PASS,18
+Unified_Atlas_Integration_v0.1_Staging ZIP CRC,PASS,41
+Unified_Atlas_Semantic_Review_v0.2_Staging ZIP CRC,PASS,16
+Atlas_Foundational_Ontology_v0.1_Staging embedded copy,PASS,11 members compared
+Research_Atlas_v0.3_Staging embedded copy,PASS,8 members compared
+v0.1 source manifest,PASS,25 inputs
+v0.2 exact v0.1 input hashes,PASS,11 inputs
+v0.3 exact v0.2 archive hash,PASS,Unified_Atlas_Semantic_Review_v0.2_Staging.zip
+913 inherited IDs preserved,PASS,v0.1 -> v0.2 -> v0.3
+1165 inherited edge payloads identical,PASS,1165
+9 cross-link payloads preserved,PASS,9
+v0.2 discovery candidates retained,PASS,20 -> 40
+v0.3 all edge endpoints resolve,PASS,all 1223 edges
+no merge in later graph candidates,PASS,two original state fields
+recursive queue cardinality,PASS,"{'open': 3953, 'open_scoped_pass': 14, 'targeted_reference_pass': 41}"
+all structured files parsed,PASS,"Counter({'JSON_PARSED': 78, 'TABLE_PARSED': 40, 'TEXT_DECODED_NOT_FULL_SUBJECT_REVIEW': 29, 'SYNTAX_PARSED_NOT_EXECUTED': 6, 'PNG_SIGNATURE_CHECKED_NOT_VISUAL_REVIEW': 5, 'WORKBOOK_PACKAGE_PARSED_NOT_CELL_REVIEW': 2})"
+Energy_Atlas_Scientific_Branch_Expansion_v2_2_Package integration snapshot match,PASS,Candidate_Node_Manifest_v2_2.json
+Energy_Atlas_Technology_Branch_Expansion_v2_3_Package integration snapshot match,PASS,Technology_Candidate_Manifest_v2_3.json
+Energy_Atlas_Remaining_Knowledge_Gardens_v2_4 integration snapshot match,PASS,Energy_Atlas_PG_Review_v2_4.xlsx
