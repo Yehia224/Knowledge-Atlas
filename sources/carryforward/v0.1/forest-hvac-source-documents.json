@@ -1,0 +1,79 @@
+[
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/explanations/G0/G0_1_BUILT_ENVIRONMENT.md",
+    "blob_sha": "234deaef20b6d9b6b3ce257a18f2740fcf9a1076",
+    "source_occurrences": 18
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/explanations/G0/G0_2_WHY_BUILDING_SERVICES_EXIST.md",
+    "blob_sha": "52149b20858b26aabc9cf4595540de1db64ae9ec",
+    "source_occurrences": 31
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/explanations/G0/G0_3_MEP_CORE_TERMINOLOGY.md",
+    "blob_sha": "ad916d52df5b99534fcc489056f58eef40152ac1",
+    "source_occurrences": 19
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/explanations/G0/G0_4_WIDER_BUILDING_SERVICES_LANDSCAPE.md",
+    "blob_sha": "7b4bc9c72d5506b45db985f9ba2ef8982f22853f",
+    "source_occurrences": 32
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "forest/mep_gate/explanations/G0/G0_5_CONTEXT_CHANGES_REQUIREMENTS.md",
+    "blob_sha": "8e5d877e8070e2850c49b2aa792d6518c3d1ce68",
+    "source_occurrences": 27
+  },
+  {
+    "repository": "Yehia224/md-protocol-collection",
+    "commit": "c4414da317700d1a37f83a76b669861bfce7136b",
+    "path": "handoffs/FOREST_CURRENT_HANDOFF.md",
+    "blob_sha": "63e507d762f5ee180589bc6f9a6e7c5e3383c86d",
+    "source_occurrences": 4
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/LOAD_CALCULATION_SOURCE_BASELINE.md",
+    "blob_sha": "0c9c68e61b4b9e9f53a93a4d84e671f9903f0116",
+    "source_occurrences": 8
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/EXISTING_SOLUTIONS_LANDSCAPE.md",
+    "blob_sha": "c536c7c386fc004588b1cdae3c6f85cce98d0820",
+    "source_occurrences": 13
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/EGYPT_LOCAL_AUTHORITY_SOURCE_SWEEP.md",
+    "blob_sha": "aee44203aa4e5ec571912609515d26a5c173531d",
+    "source_occurrences": 0
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/REVIT_GBXML_HAP_TRANSFER_TEST_CONTRACT.md",
+    "blob_sha": "1404bcd86969f3c7c65093eaca8af8ee23f7cf88",
+    "source_occurrences": 0
+  },
+  {
+    "repository": "Yehia224/Egypt-HVAC-Load-Automation-Lab",
+    "commit": "c630bde41bb3158b426e3c17f109abb38a5e0872",
+    "path": "research/ATLAS_LINKAGE_D1.md",
+    "blob_sha": "6b395b8643abd979877bcb68f9142dd8a02f925c",
+    "source_occurrences": 2
+  }
+]
