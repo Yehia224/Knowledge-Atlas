@@ -1,0 +1,28 @@
+id,test,result,detail
+T01,Explorer source record IDs unique,PASS,913
+T02,Original edge IDs unique,PASS,1174
+T03,Full explorer endpoints resolve,PASS,All layers; source statuses unchanged
+T04,Standalone W raw payloads equal embedded originals,PASS,287 records
+T05,Standalone E raw payloads equal embedded originals,PASS,239 records
+T06,Sample raw + normalized records preserved,PASS,Deep equality
+T07,Every edge incident to seed retained,PASS,One-hop plus navigation ancestor closure
+T08,Boundary edges retained exactly,PASS,External endpoints remain in full snapshot
+T09,Browse graph acyclic,PASS,"Full explorer, browse_contains only"
+T10,Source status unchanged in crosswalk,PASS,No approval promotion
+T11,Same label not auto-merged,PASS,Actual duplicate-label pair
+T12,Duplicate ID negative fixture rejected,PASS,"Synthetic negative fixture, not source error"
+T13,Category mixing guard,PASS,No semantic edge used as browse containment automatically
+T14,Existing ID reuse and new ID held,PASS,Negative fixture; no insertion into canonical graph
+T15,Historical Stage02 full prerequisite graph acyclic,PASS,529 prerequisite edges; 264 endpoints; latest baseline not tested
+T16,Prerequisite negative cycle detected,PASS,Synthetic negative fixture
+T17,Navigation views reference valid original groups,PASS,"Six historical views, no reparenting"
+T18,All candidate relation endpoints traceable,PASS,Placement locators are not IDs
+T19,All induced edges have explicit decision,PASS,No acceptance implied
+T20,Source relation payloads reconciled,PASS,96 matched E predicates with reason/confidence
+T21,Full REF graph recovered,FAIL,Historical Stage02 complete indexed text recovered (271 nodes); later 298/722 baseline and full evidence bibliography unavailable. Original full-current gate remains open.
+T22,Programming core vocabulary independently recovered,FAIL,"Prior curriculum v0.3 Audit2 recovered; HTTP, Programming Language, Python phase, Library and API located. No independent semantic IDs/definitions recovered."
+T23,Diagram artifact targets resolve,FAIL,"All four identifiers corroborated in original diagram audit, but exact artifact/node payloads still absent."
+T24,Original archives exact package hashes available,FAIL,Recovery ZIP / Loop1200 original bytes inaccessible; no package hash reconciliation. Individual files hashed.
+T25,Independent scientific/occupational validation,FAIL,Bounded source verification completed for historical/scientific candidate edges; independent human/subject review absent; role equivalence unresolved.
+T26,All six case families have source-backed records,PASS,"Coverage is topical, not full concept coverage"
+T27,No canonical operations,PASS,Offline file creation only; no API writes

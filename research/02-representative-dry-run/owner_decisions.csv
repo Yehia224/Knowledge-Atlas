@@ -1,0 +1,12 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: owner_decisions.csv>
+index,id,decision,options,blocker,status
+0,OD-01,Role vs occupation equivalence,keep separate / map scope / merge only after approval,"DR-P01, P02",OPEN
+1,OD-02,Temperature differences sense,phenomenon / quantity / split with evidence,DR-P03; REF full graph missing,OPEN
+2,OD-03,Diagrams placement,cross-domain catalogue / domain browse / both,missing artifact IDs; placement candidate,OPEN
+3,OD-04,Computing coverage,recover first / independently research later,missing vocabulary records,OPEN
+4,OD-05,Views vs Gardens,retain six as lenses / change / retire,no section approved,OPEN
+5,OD-06,Learning prerequisite rules,strict vs helpful vs ordering,full REF graph missing,OPEN
+6,OD-07,Historical event predicates,preserve / revise after evidence review,RI source locators not independently checked,OPEN
+7,OD-08,Baseline package reconciliation,recover ZIP / compare hashes and versions,raw bytes inaccessible,OPEN
+8,OD-09,Public deployment,do not publish / explicit later owner decision,private staging,OPEN

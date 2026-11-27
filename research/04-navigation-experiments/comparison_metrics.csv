@@ -1,0 +1,7 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: comparison_metrics.csv>
+index,model,records,top_groups,browse_groups,placements,multi_placed,mean_min_depth,max_min_depth,largest_top_group_placements,unplaced,unresolved_typing
+0,A,157,8,72,157,0,4.56,6,69,0,0
+1,B,157,13,101,159,2,3.97,4,55,0,0
+2,C,157,5,41,157,0,3.0,3,64,0,29
+3,D,157,6,80,157,0,3.97,4,83,2,0

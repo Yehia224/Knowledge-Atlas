@@ -1,0 +1,35 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: task_paths.csv>
+index,model,task,uid,minimum_selections,example_path,status
+0,A,HVAC design role,W:hvac_design_engineer,5,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Roles Index → HVAC Design Engineer,reachable in model data
+1,A,Second HVAC occupation,E:n_work_roles_01,5,Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles → Occupations & Job Roles → HVAC Design Engineer,reachable in model data
+2,A,Flowchart,placement.candidate_catalogue[2],4,Diagrams placement catalogue → visual_representations → diagrams → Flowchart,reachable in model data
+3,A,Temperature,REF3-A01,4,"REF Stage02 snapshot → 02 Matter, energy & mechanics → Thermal state and pressure → Temperature",reachable in model data
+4,A,Kelvin,REF3-A06,4,"REF Stage02 snapshot → 01 Measurement & mathematical foundations → Rates, ratios and units → Kelvin",reachable in model data
+5,A,API integration,W:api_integration,6,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → API / System Integration,reachable in model data
+6,A,Faraday experiment,PG:pg24_induction,5,"Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",reachable in model data
+7,A,Thermodynamics,E:n_science_physics_01,5,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences → Thermodynamics,reachable in model data
+8,B,HVAC design role,W:hvac_design_engineer,4,MEP & building services → World of Work → Roles Index → HVAC Design Engineer,reachable in model data
+9,B,Second HVAC occupation,E:n_work_roles_01,4,MEP & building services → Energy Forest → Occupations & Job Roles → HVAC Design Engineer,reachable in model data
+10,B,Flowchart,placement.candidate_catalogue[2],4,Design & visual communication → Diagrams placement catalogue → diagrams → Flowchart,reachable in model data
+11,B,Temperature,REF3-A01,4,Thermal science & refrigeration → REF Stage02 snapshot → Thermal state and pressure → Temperature,reachable in model data
+12,B,Kelvin,REF3-A06,4,"Thermal science & refrigeration → REF Stage02 snapshot → Rates, ratios and units → Kelvin",reachable in model data
+13,B,API integration,W:api_integration,4,Computing & software → World of Work → Automation / Integration Engineering → API / System Integration,reachable in model data
+14,B,Faraday experiment,PG:pg24_induction,4,"History, institutions & geography → Historical / institutional staging → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",reachable in model data
+15,B,Thermodynamics,E:n_science_physics_01,4,Physical science → Energy Forest → Physical Sciences → Thermodynamics,reachable in model data
+16,C,HVAC design role,W:hvac_design_engineer,3,Typed knowledge → Professional role → HVAC Design Engineer,reachable in model data
+17,C,Second HVAC occupation,E:n_work_roles_01,3,Typed knowledge → Occupation category → HVAC Design Engineer,reachable in model data
+18,C,Flowchart,placement.candidate_catalogue[2],3,Candidate catalogue → representation_form → Flowchart,reachable in model data
+19,C,Temperature,REF3-A01,3,Historical learning context → state property → Temperature,reachable in model data
+20,C,Kelvin,REF3-A06,3,Historical learning context → SI base unit → Kelvin,reachable in model data
+21,C,API integration,W:api_integration,3,Typed knowledge → Technology family → API / System Integration,reachable in model data
+22,C,Faraday experiment,PG:pg24_induction,3,Typed knowledge → Event → Faraday’s ring-coil induction experiment,reachable in model data
+23,C,Thermodynamics,E:n_science_physics_01,3,Typed knowledge → Vocabulary concept → Thermodynamics,reachable in model data
+24,D,HVAC design role,W:hvac_design_engineer,4,"Work, Organizations & Economy → World of Work → Roles Index → HVAC Design Engineer",reachable in model data
+25,D,Second HVAC occupation,E:n_work_roles_01,4,"Work, Organizations & Economy → Energy Forest → Occupations & Job Roles → HVAC Design Engineer",reachable in model data
+26,D,Flowchart,placement.candidate_catalogue[2],4,"Standards, Documents & Outputs → Diagrams placement catalogue → diagrams → Flowchart",reachable in model data
+27,D,Temperature,REF3-A01,4,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Thermal state and pressure → Temperature",reachable in model data
+28,D,Kelvin,REF3-A06,4,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Rates, ratios and units → Kelvin",reachable in model data
+29,D,API integration,W:api_integration,4,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → API / System Integration",reachable in model data
+30,D,Faraday experiment,PG:pg24_induction,4,"History, People & Places → Historical / institutional staging → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",reachable in model data
+31,D,Thermodynamics,E:n_science_physics_01,4,"Nature, Science & Formal Knowledge → Energy Forest → Physical Sciences → Thermodynamics",reachable in model data

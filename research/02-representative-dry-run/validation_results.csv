@@ -1,0 +1,30 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: validation_results.csv>
+index,id,test,result,detail
+0,T01,Explorer source record IDs unique,PASS,913
+1,T02,Original edge IDs unique,PASS,1174
+2,T03,Full explorer endpoints resolve,PASS,All layers; source statuses unchanged
+3,T04,Standalone W raw payloads equal embedded originals,PASS,287 records
+4,T05,Standalone E raw payloads equal embedded originals,PASS,239 records
+5,T06,Sample raw + normalized records preserved,PASS,Deep equality
+6,T07,Every edge incident to seed retained,PASS,One-hop plus navigation ancestor closure
+7,T08,Boundary edges retained exactly,PASS,External endpoints remain in full snapshot
+8,T09,Browse graph acyclic,PASS,"Full explorer, browse_contains only"
+9,T10,Source status unchanged in crosswalk,PASS,No approval promotion
+10,T11,Same label not auto-merged,PASS,Actual duplicate-label pair
+11,T12,Duplicate ID negative fixture rejected,PASS,"Synthetic negative fixture, not source error"
+12,T13,Category mixing guard,PASS,No semantic edge used as browse containment automatically
+13,T14,Existing ID reuse and new ID held,PASS,Negative fixture; no insertion into canonical graph
+14,T15,Candidate prerequisite excerpt acyclic,PASS,Excerpt only; not full prerequisite graph
+15,T16,Prerequisite negative cycle detected,PASS,Synthetic negative fixture
+16,T17,Navigation views reference valid original groups,PASS,"Six historical views, no reparenting"
+17,T18,All candidate relation endpoints traceable,PASS,Placement locators are not IDs
+18,T19,All induced edges have explicit decision,PASS,No acceptance implied
+19,T20,Source relation payloads reconciled,PASS,96 matched E predicates with reason/confidence
+20,T21,Full REF graph recovered,FAIL,Only six exact node records and two complete edges available; full cycle/coverage validation blocked
+21,T22,Programming core vocabulary independently recovered,FAIL,"No exact Python, HTTP, Programming Language, API-as-interface records found in Explorer; existing integration practice is not equivalent"
+22,T23,Diagram artifact targets resolve,FAIL,"Referenced IDs absent from embedded W baseline; preserve original placement evidence, do not invent nodes"
+23,T24,Original archives exact package hashes available,FAIL,Recovery ZIP access denied; original integration packages not recovered; recovered individual files hashed
+24,T25,Independent scientific/occupational validation,FAIL,Not performed; candidate relationships remain pending
+25,T26,All six case families have source-backed records,PASS,"Coverage is topical, not full concept coverage"
+26,T27,No canonical operations,PASS,Offline file creation only; no API writes
