@@ -1,0 +1,350 @@
+{
+  "snapshot": "2026-11-27",
+  "projects": [
+    {
+      "id": "world-of-work",
+      "name": "World of Work Atlas",
+      "group": "Knowledge research",
+      "status": "partial",
+      "state": "Historical baseline recovered",
+      "desc": "المهن والتخصصات ومسؤوليات العمل والـDeliverables والـWorkflows.",
+      "milestones": [
+        [
+          "Original snapshot",
+          "287 records; 264 concepts + 23 navigation records",
+          "Recovered"
+        ],
+        [
+          "HVAC / professional coverage",
+          "Existing role and workflow records preserved",
+          "Recovered"
+        ],
+        [
+          "Loop 1200 and original HVAC corpus",
+          "Original later dataset and 441-node corpus not recovered",
+          "Missing original"
+        ]
+      ],
+      "links": [
+        [
+          "Recovered project report",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/world-of-work.md"
+        ],
+        [
+          "Original record lineage",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/record_lineage_913.extracted.txt"
+        ]
+      ]
+    },
+    {
+      "id": "energy",
+      "name": "Energy Atlas",
+      "group": "Knowledge research",
+      "status": "partial",
+      "state": "Historical versions recovered · not a release",
+      "desc": "البحث العلمي والتكنولوجي والتاريخي، وتصميم الـForest والـAtlas والاختبارات.",
+      "milestones": [
+        [
+          "v0.1–v0.4",
+          "Forest development · v0.4: 239 records",
+          "Recovered"
+        ],
+        [
+          "v1.1–v1.5",
+          "Creative direction, Art direction, UI and integration",
+          "Recovered"
+        ],
+        [
+          "v1.6–v2.0",
+          "Validation, remediation and evidence collection; external release held",
+          "Historical NO-GO"
+        ],
+        [
+          "v2.1–v2.4",
+          "Scientific, technology, people and places expansion",
+          "Candidate"
+        ],
+        [
+          "Integration review",
+          "202 retain · 9 revise · 11 defer · 1 reject, recommendations only",
+          "Not approved"
+        ]
+      ],
+      "links": [
+        [
+          "Full version history",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/energy-atlas.md"
+        ],
+        [
+          "Historical decisions",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/decision-register.json"
+        ],
+        [
+          "Recovered archive inventory",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/archive_manifest.extracted.txt"
+        ]
+      ]
+    },
+    {
+      "id": "research",
+      "name": "Research Atlas",
+      "group": "Knowledge research",
+      "status": "candidate",
+      "state": "v0.3 · candidate",
+      "desc": "طرق البحث وإنتاج المعرفة وتحليل الأدلة وتنظيمها.",
+      "milestones": [
+        [
+          "v0.3",
+          "87 records · 27 typed relationships · 40 source entries",
+          "Candidate"
+        ],
+        [
+          "Coverage",
+          "18 groups · 14 research gaps recorded",
+          "Open gaps"
+        ]
+      ],
+      "links": [
+        [
+          "Recovered project report",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/research-atlas.md"
+        ],
+        [
+          "Historical sources",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/sources/carryforward/v0.1/source-registry-01.jsonl"
+        ]
+      ]
+    },
+    {
+      "id": "unified",
+      "name": "Unified Atlas",
+      "group": "Knowledge research",
+      "status": "candidate",
+      "state": "v0.3 · staged, no canonical merge",
+      "desc": "دمج السجلات التاريخية مع الحفاظ على هويتها ومصادرها.",
+      "milestones": [
+        [
+          "Foundational Ontology v0.1",
+          "68 type descriptors · 19 relationship contracts · 8 identity rules · 4 navigation rules",
+          "Proposal"
+        ],
+        [
+          "Integration v0.1",
+          "913 inherited records · 1,165 inherited relationships · 9 proposed cross-links",
+          "Staged"
+        ],
+        [
+          "Semantic Review v0.2",
+          "461 scoped reviews · 38 pair reviews · 20 discovery candidates",
+          "Staged"
+        ],
+        [
+          "Evidence Completion v0.3",
+          "913 inherited IDs retained · 40 discovery candidates · 49 candidate edges",
+          "Staged"
+        ]
+      ],
+      "links": [
+        [
+          "Version and decision lineage",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/unified-atlas.md"
+        ],
+        [
+          "913 record lineage",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/historical-recovery/v0.2/record_lineage_913.extracted.txt"
+        ],
+        [
+          "Navigation experiments",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/04-navigation-experiments/Architecture_Alternatives_Report.md"
+        ]
+      ]
+    },
+    {
+      "id": "forest",
+      "name": "Forest / MEP",
+      "group": "Knowledge research",
+      "status": "working",
+      "state": "MEP Gate v1.0 · not frozen",
+      "desc": "الـHierarchical Research والـReadiness Gates قبل الدخول في التخصصات.",
+      "milestones": [
+        [
+          "Forest handoff",
+          "Seven working garden proposals; HVAC inside MEP in historical Forest scope",
+          "Historical working"
+        ],
+        [
+          "MEP Gate v1.0",
+          "G0–G7 foundations and G8 readiness challenge",
+          "Structurally complete"
+        ],
+        [
+          "G0.1–G0.5",
+          "Five working explanations and self-audits",
+          "Not frozen"
+        ]
+      ],
+      "links": [
+        [
+          "Original Forest handoff (authorized access)",
+          "https://github.com/Yehia224/md-protocol-collection/blob/c4414da317700d1a37f83a76b669861bfce7136b/handoffs/FOREST_CURRENT_HANDOFF.md"
+        ],
+        [
+          "MEP Gate tree (authorized access)",
+          "https://github.com/Yehia224/md-protocol-collection/blob/c4414da317700d1a37f83a76b669861bfce7136b/handoffs/FOREST_MEP_GATE_TREE_CURRENT.md"
+        ],
+        [
+          "Extracted findings",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.2/README.md"
+        ],
+        [
+          "Forest source locators",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/sources/carryforward/v0.1/forest-hvac-source-locators.jsonl"
+        ]
+      ]
+    },
+    {
+      "id": "design",
+      "name": "Design Workflow / Gaafar Atlas",
+      "group": "Professional research",
+      "status": "working",
+      "state": "Stage 14 · ready for user approval, not approved",
+      "desc": "Professional responsibilities، المخرجات، سجل المحاولات والـQuality Gates.",
+      "milestones": [
+        [
+          "Stages 01–05",
+          "Discovery, synthesis, strategy, creative brief, verbal identity · v1.6",
+          "SIM-FROZEN"
+        ],
+        [
+          "Stages 06–11",
+          "Historical design stages and artifacts in source repository",
+          "Original repo"
+        ],
+        [
+          "Stage 12",
+          "Graphic Language v3.2 exact approval record",
+          "Historically approved"
+        ],
+        [
+          "Stage 13",
+          "Five Information Design outputs in exact approval record",
+          "Historically approved"
+        ],
+        [
+          "Stage 14",
+          "Editorial / Publication System · v1.2 · 7/7 outputs reported",
+          "Not owner-approved"
+        ],
+        [
+          "Stages 15–21",
+          "Conditional/planned responsibilities; not completed stages",
+          "Planned"
+        ]
+      ],
+      "links": [
+        [
+          "Stages 01–05 history",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.2/design-stage-01-05.json"
+        ],
+        [
+          "Professional knowledge",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.1/design-professional-knowledge.json"
+        ],
+        [
+          "Source and benchmark locators",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/sources/carryforward/v0.1/design-source-locators.jsonl"
+        ],
+        [
+          "Original project (authorized access)",
+          "https://github.com/Yehia224/design-workflow-test/tree/ebf2117721a4cd0fbe7faa42d988449f7a23db34"
+        ],
+        [
+          "Stage 14 readiness (authorized access)",
+          "https://github.com/Yehia224/design-workflow-test/blob/ebf2117721a4cd0fbe7faa42d988449f7a23db34/STAGE_14_EDITORIAL_PUBLICATION_SYSTEM/CURRENT_WORKING/EXIT/READINESS_SUMMARY_v1.2.json"
+        ]
+      ]
+    },
+    {
+      "id": "hvac",
+      "name": "Egypt HVAC Load Automation Lab",
+      "group": "Professional research",
+      "status": "working",
+      "state": "Research active · architecture not approved",
+      "desc": "تحسين الـCooling Load Workflow باستخدام البحث والمقارنة بين الأدوات قبل التنفيذ.",
+      "milestones": [
+        [
+          "Exploratory prototype v0",
+          "C# Core and AutoCAD; HAPDATA and THDATA0 historical runtime tests",
+          "Exploratory"
+        ],
+        [
+          "Research reset",
+          "R0/R1 active; R2 not passed; R3+ locked in original roadmap",
+          "Research active"
+        ],
+        [
+          "Data profiles",
+          "10 sample profiles; 40 not-available suggested values",
+          "Placeholder data"
+        ]
+      ],
+      "links": [
+        [
+          "Professional knowledge",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.1/hvac-professional-knowledge.json"
+        ],
+        [
+          "Static code and data findings",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.2/README.md"
+        ],
+        [
+          "Source locators",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/sources/carryforward/v0.1/forest-hvac-source-locators.jsonl"
+        ],
+        [
+          "Original research roadmap (authorized access)",
+          "https://github.com/Yehia224/Egypt-HVAC-Load-Automation-Lab/blob/c630bde41bb3158b426e3c17f109abb38a5e0872/docs/EGYPT_MVP_ROADMAP.md"
+        ]
+      ]
+    },
+    {
+      "id": "protocols",
+      "name": "MD Protocol Collection",
+      "group": "Professional research",
+      "status": "working",
+      "state": "Historical methods and learned errors retained",
+      "desc": "طرق البحث ونقل المعرفة وربط الأدلة ومنع تكرار الأخطاء.",
+      "milestones": [
+        [
+          "USSP / CZDHP / HSSM / SRHP",
+          "Research, handoff, visual structure, evidence navigation",
+          "Historical rules"
+        ],
+        [
+          "Mistake Library",
+          "32 individual learned-error records extracted",
+          "Recovered"
+        ],
+        [
+          "Continuity correction",
+          "Reuse prior verification; do not restart research when changing sessions",
+          "Current working direction"
+        ]
+      ],
+      "links": [
+        [
+          "Research methods",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.1/research-methods.json"
+        ],
+        [
+          "32 learned mistakes",
+          "https://github.com/Yehia224/Knowledge-Atlas/blob/814c6552970cfbde1334db3af790ae6934dc069b/research/professional-history/v0.1/learned-mistakes.json"
+        ],
+        [
+          "Original collection (authorized access)",
+          "https://github.com/Yehia224/md-protocol-collection/tree/c4414da317700d1a37f83a76b669861bfce7136b"
+        ]
+      ]
+    }
+  ]
+}
