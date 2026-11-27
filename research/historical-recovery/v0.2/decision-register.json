@@ -1,0 +1,122 @@
+[
+  {
+    "id": "D01",
+    "scope": "Forest September",
+    "decision": "HVAC within MEP",
+    "authority": "historical explicit decision; scope-bound",
+    "source": "FOREST_CURRENT_HANDOFF.md H5",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D02",
+    "scope": "Forest September",
+    "decision": "Local-first shared-later",
+    "authority": "historical explicit decision",
+    "source": "FOREST_CURRENT_HANDOFF.md H5",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D03",
+    "scope": "Forest September",
+    "decision": "Tree first, graph enriches; USSP",
+    "authority": "historical canonical search method",
+    "source": "FOREST_CURRENT_HANDOFF.md H5",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D04",
+    "scope": "Foundational Ontology",
+    "decision": "I01–I08 and four navigation rules",
+    "authority": "proposal, pending",
+    "source": "10_identity_navigation_rules.json",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D05",
+    "scope": "Energy v1.1",
+    "decision": "Field Guide recommended",
+    "authority": "unsigned",
+    "source": "03_Recommendation_and_Approval_Record.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D06",
+    "scope": "Energy v1.2",
+    "decision": "Survey Atlas recommendation",
+    "authority": "unsigned",
+    "source": "docs/04_Approval_Decision_Record.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D07",
+    "scope": "Energy v1.3",
+    "decision": "Revised C-R, three modes",
+    "authority": "unsigned",
+    "source": "02_Decision_Record_Unsigned.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D08",
+    "scope": "Energy v1.6",
+    "decision": "NO-GO external release, 320px issue",
+    "authority": "historical release hold",
+    "source": "README.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D09",
+    "scope": "Energy v1.7",
+    "decision": "Correct CSS reflow; no data changes",
+    "authority": "technical closure only",
+    "source": "docs/Release_Readiness_v1_7.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D10",
+    "scope": "Energy v2.0",
+    "decision": "Require actual user/native AT/editorial evidence",
+    "authority": "release NO-GO",
+    "source": "README.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D11",
+    "scope": "Energy v2.1",
+    "decision": "Defer field validation; internal expansion",
+    "authority": "historical user decision, not pass",
+    "source": "QA_and_Decisions.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D12",
+    "scope": "Energy N/T/PG",
+    "decision": "Keep candidate proposals",
+    "authority": "no canonical promotion",
+    "source": "candidate manifests",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D13",
+    "scope": "Unified v0.1–v0.3",
+    "decision": "No equivalence on name only; no merge",
+    "authority": "pending",
+    "source": "validation and graph registers",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D14",
+    "scope": "Gaafar Atlas",
+    "decision": "Stage != loop; retain failure history",
+    "authority": "project-local contract",
+    "source": "PROJECT_CONTRACT.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  },
+  {
+    "id": "D15",
+    "scope": "HVAC Lab",
+    "decision": "Research before implementation",
+    "authority": "project-local contract",
+    "source": "PROJECT_CONTRACT.md",
+    "transfer_status": "Historical evidence; no new owner approval"
+  }
+]

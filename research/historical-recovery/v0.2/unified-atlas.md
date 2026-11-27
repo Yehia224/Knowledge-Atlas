@@ -1,0 +1,13 @@
+# Foundational Ontology & Unified Atlas — actual decision lineage
+
+Sources: Atlas_Foundational_Ontology_v0.1_Staging.zip / 10_identity_navigation_rules.json; Unified_Atlas_Integration_v0.1_Staging.zip / 01_full_inventory.json, 10_edge_semantic_audit.json; Unified_Atlas_Semantic_Review_v0.2_Staging.zip / 10_validation_report.json; Unified_Atlas_Evidence_Completion_v0.3_Staging.zip / 01_entity_registry.json, 03_recursive_queue.json, 08_saturation_report.json.
+
+Original identity rules I01–I08: compare referent/sense/scope/identity criterion; separate type/individual/concept/label; person persists across roles and assignment has context/time; distinguish specification/carrier/execution/result; quantity kind/bearer quality/value/unit/measurement event; specify system boundary/purpose/time; preserve source versions; split ambiguous senses without destructive migration.
+
+Original navigation proposals (not owner-approved): Garden independent inquiry purpose, scope/exclusions, multiple topic clusters, source/user-task warrant, maintenance owner; Tree focal topic, coherent axis, meaningful subtopics or links; Branch named grouping axis and sibling distinction; Leaf present-resolution endpoint with scope/source, expandable. No fixed count and no automatic subclass inference.
+
+v0.1: 913 records; 1,165 inherited edges; 9 editorial cross-links. Edge audit: 797 structurally valid browse links, 237 predicate reviews, 75 untyped legacy associations, 46 geographic context reviews, 10 held class semantics. Structural checks do not prove assertions. 174 endpoint-sense flags; 65 browse context flags (may overlap).
+v0.2: 461 rule-based/curated reviews; 439 split-or-facet proposals, 19 propose type, 1 navigation documentation, 1 split referents, 1 split identifiers. Pair outcomes: 7 possible matches held, 2 distinct senses held, 20 nonidentity links, 5 overlaps not equal, 4 same document family candidates. No merge. 76 missing text, 350 inherited definitions, 27 scoped checked, 7 context, 1 local.
+v0.3: 461 overlays: 336 inherited only, 49 new scoped support, 43 new contextual drafts, 26 source checked, 6 context only, 1 local. Missing text addressed, not equivalent to scientific review. 40 staged discovery candidates, 49 candidate edges, 88 source entries; 25 new conflict notes plus 38 prior pair reviews. 501 open queue records ×8 directions; unequal waves not evidence of saturation.
+
+68 type descriptors and 19 relation contracts are local proposed descriptions, not imported formal equivalences. RDF/SHACL syntax does not establish reasoner consistency. Preserve all original IDs, labels, source-specific decisions and candidate state.

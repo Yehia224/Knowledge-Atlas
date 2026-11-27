@@ -1,0 +1,8 @@
+source,records,navigation,concept_records,held_for_sense,provisional_annotation,v02_reviewed,v03_overlay
+E,239,65,174,86,88,86,86
+G,27,0,27,0,27,0,0
+N,38,8,30,16,14,16,16
+PG,129,15,114,28,86,28,28
+R,87,0,87,22,65,22,22
+T,106,14,92,75,17,75,75
+W,287,23,264,234,30,234,234
