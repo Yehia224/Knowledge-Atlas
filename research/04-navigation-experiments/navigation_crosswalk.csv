@@ -1,0 +1,633 @@
+<PARSED TEXT FOR SHEET: 1 / 1 TABS
+TAB NAME: navigation_crosswalk.csv>
+index,model,uid,path,authority
+0,A,E:forest,Energy Forest → WORLD KNOWLEDGE FOREST,candidate display overlay; original unchanged
+1,A,E:g_applications,Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts,candidate display overlay; original unchanged
+2,A,E:g_artifacts,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables,candidate display overlay; original unchanged
+3,A,E:g_engineering,Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields,candidate display overlay; original unchanged
+4,A,E:g_institutions,Energy Forest → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions,candidate display overlay; original unchanged
+5,A,E:g_nature,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena,candidate display overlay; original unchanged
+6,A,E:g_roles,Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles,candidate display overlay; original unchanged
+7,A,E:g_science,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge,candidate display overlay; original unchanged
+8,A,E:g_services,Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes,candidate display overlay; original unchanged
+9,A,E:g_technologies,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems,candidate display overlay; original unchanged
+10,A,E:g_work,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes,candidate display overlay; original unchanged
+11,A,E:n_engineering_building_01,Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields → Building Services Engineering / MEP → HVAC Engineering,candidate display overlay; original unchanged
+12,A,E:n_engineering_mech_02,Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields → Mechanical Engineering → Thermal Engineering,candidate display overlay; original unchanged
+13,A,E:n_industries_buildings_02,Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts → Buildings & Other Application Contexts → Commercial Buildings,candidate display overlay; original unchanged
+14,A,E:n_industries_buildings_03,Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts → Buildings & Other Application Contexts → Hospitals & Healthcare,candidate display overlay; original unchanged
+15,A,E:n_industries_buildings_04,Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts → Buildings & Other Application Contexts → Data Centers,candidate display overlay; original unchanged
+16,A,E:n_nature_em_01,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena → Electromagnetic phenomena → Induction,candidate display overlay; original unchanged
+17,A,E:n_nature_thermal_01,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena → Thermal phenomena → Temperature differences,candidate display overlay; original unchanged
+18,A,E:n_nature_thermal_02,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena → Thermal phenomena → Heat transfer,candidate display overlay; original unchanged
+19,A,E:n_science_math_02,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Mathematics & Information Sciences → Control Theory,candidate display overlay; original unchanged
+20,A,E:n_science_physics_01,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences → Thermodynamics,candidate display overlay; original unchanged
+21,A,E:n_science_physics_02,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences → Fluid Mechanics,candidate display overlay; original unchanged
+22,A,E:n_science_physics_03,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences → Heat & Mass Transfer,candidate display overlay; original unchanged
+23,A,E:n_science_physics_psychrometrics,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences → Psychrometrics,candidate display overlay; original unchanged
+24,A,E:n_services_buildings_01,Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes → Indoor Environmental Services → Thermal Comfort,candidate display overlay; original unchanged
+25,A,E:n_services_buildings_02,Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes → Indoor Environmental Services → Ventilation Service,candidate display overlay; original unchanged
+26,A,E:n_services_buildings_03,Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes → Indoor Environmental Services → Indoor Air Quality,candidate display overlay; original unchanged
+27,A,E:n_technologies_hvac_01,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies → HVAC Systems,candidate display overlay; original unchanged
+28,A,E:n_technologies_hvac_02,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies → Chillers,candidate display overlay; original unchanged
+29,A,E:n_technologies_hvac_03,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies → Air Handling Units,candidate display overlay; original unchanged
+30,A,E:n_technologies_hvac_04,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies → Fans,candidate display overlay; original unchanged
+31,A,E:n_technologies_hvac_06,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies → Building Management Systems,candidate display overlay; original unchanged
+32,A,E:n_technologies_power_02,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → Electricity Systems → Transformers,candidate display overlay; original unchanged
+33,A,E:n_work_deliverables_01,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → Engineering Calculations & Analyses → Psychrometric Analysis,candidate display overlay; original unchanged
+34,A,E:n_work_deliverables_02,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → Engineering Calculations & Analyses → Cooling Load Calculation,candidate display overlay; original unchanged
+35,A,E:n_work_deliverables_03,"Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables → Drawings, Specifications & Control Documents → HVAC Shop Drawings",candidate display overlay; original unchanged
+36,A,E:n_work_deliverables_04,"Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables → Drawings, Specifications & Control Documents → Sequences of Operation",candidate display overlay; original unchanged
+37,A,E:n_work_hvac_01,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → HVAC Professional Practice → HVAC Design Work,candidate display overlay; original unchanged
+38,A,E:n_work_hvac_03,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → HVAC Professional Practice → HVAC Commissioning,candidate display overlay; original unchanged
+39,A,E:n_work_roles_01,Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles → Occupations & Job Roles → HVAC Design Engineer,candidate display overlay; original unchanged
+40,A,E:n_work_roles_02,Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles → Occupations & Job Roles → HVAC Controls Engineer,candidate display overlay; original unchanged
+41,A,E:t_artifacts_documents,"Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables → Drawings, Specifications & Control Documents",candidate display overlay; original unchanged
+42,A,E:t_engineering_building,Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields → Building Services Engineering / MEP,candidate display overlay; original unchanged
+43,A,E:t_engineering_mech,Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields → Mechanical Engineering,candidate display overlay; original unchanged
+44,A,E:t_industries_buildings,Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts → Buildings & Other Application Contexts,candidate display overlay; original unchanged
+45,A,E:t_institutions_research,Energy Forest → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions → Research & Education Institutions,candidate display overlay; original unchanged
+46,A,E:t_nature_em,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena → Electromagnetic phenomena,candidate display overlay; original unchanged
+47,A,E:t_nature_thermal,Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena → Thermal phenomena,candidate display overlay; original unchanged
+48,A,E:t_science_math,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Mathematics & Information Sciences,candidate display overlay; original unchanged
+49,A,E:t_science_physics,Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Physical Sciences,candidate display overlay; original unchanged
+50,A,E:t_services_buildings,Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes → Indoor Environmental Services,candidate display overlay; original unchanged
+51,A,E:t_technologies_hvac,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → HVAC Technologies,candidate display overlay; original unchanged
+52,A,E:t_technologies_power,Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems → Electricity Systems,candidate display overlay; original unchanged
+53,A,E:t_work_deliverables,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → Engineering Calculations & Analyses,candidate display overlay; original unchanged
+54,A,E:t_work_hvac,Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes → HVAC Professional Practice,candidate display overlay; original unchanged
+55,A,E:t_work_roles,Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles → Occupations & Job Roles,candidate display overlay; original unchanged
+56,A,G:pg24_place_london,"Geographical staging → London, England",candidate display overlay; original unchanged
+57,A,N:cand_n_metrology,Scientific staging → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Measurement & Metrology → Scientific Metrology,candidate display overlay; original unchanged
+58,A,N:cand_n_radiometry,Scientific staging → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Measurement & Metrology → Radiometry,candidate display overlay; original unchanged
+59,A,N:t_cand_science_measurement,Scientific staging → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge → Measurement & Metrology,candidate display overlay; original unchanged
+60,A,PG:pg24_culab,"Historical / institutional staging → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions → Research & Education Institutions → Heat Laboratory, Cairo University Mechanical Power Engineering",candidate display overlay; original unchanged
+61,A,PG:pg24_faraday,Historical / institutional staging → WORLD KNOWLEDGE FOREST → People and historical contributions → Historical people → Michael Faraday,candidate display overlay; original unchanged
+62,A,PG:pg24_history,Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history,candidate display overlay; original unchanged
+63,A,PG:pg24_iecmeeting,Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Institutional and public events → London inaugural meeting of the IEC,candidate display overlay; original unchanged
+64,A,PG:pg24_individuals,Historical / institutional staging → WORLD KNOWLEDGE FOREST → People and historical contributions → Historical people,candidate display overlay; original unchanged
+65,A,PG:pg24_induction,"Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",candidate display overlay; original unchanged
+66,A,PG:pg24_institutionalevents,Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Institutional and public events,candidate display overlay; original unchanged
+67,A,PG:pg24_journalfirst,"Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Discoveries, demonstrations and installations → First issue of Philosophical Transactions appears",candidate display overlay; original unchanged
+68,A,PG:pg24_milestones,"Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Discoveries, demonstrations and installations",candidate display overlay; original unchanged
+69,A,PG:pg24_people,Historical / institutional staging → WORLD KNOWLEDGE FOREST → People and historical contributions,candidate display overlay; original unchanged
+70,A,PG:pg24_ri,Historical / institutional staging → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions → Research & Education Institutions → Royal Institution of Great Britain,candidate display overlay; original unchanged
+71,A,PG:pg24_rsmeet,Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history → Institutional and public events → Meeting that founded the Royal Society,candidate display overlay; original unchanged
+72,A,T:n_t23_t_3_01,Technology staging → WORLD KNOWLEDGE FOREST → Technologies & Systems → Energy Conversion & Power Electronics → Steam Turbines,candidate display overlay; original unchanged
+73,A,T:n_t23_t_7_02,Technology staging → WORLD KNOWLEDGE FOREST → Technologies & Systems → Energy Measurement & Control Systems → Industrial Temperature Sensor Systems,candidate display overlay; original unchanged
+74,A,T:t_t23_conversion,Technology staging → WORLD KNOWLEDGE FOREST → Technologies & Systems → Energy Conversion & Power Electronics,candidate display overlay; original unchanged
+75,A,T:t_t23_instrumentation,Technology staging → WORLD KNOWLEDGE FOREST → Technologies & Systems → Energy Measurement & Control Systems,candidate display overlay; original unchanged
+76,A,W:airside_design,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → Air-Side / Duct Design,candidate display overlay; original unchanged
+77,A,W:api_integration,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → API / System Integration,candidate display overlay; original unchanged
+78,A,W:art_direction,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Art Direction,candidate display overlay; original unchanged
+79,A,W:automation_engineering,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering,candidate display overlay; original unchanged
+80,A,W:automation_lifecycle,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Automation Workflow Lifecycle,candidate display overlay; original unchanged
+81,A,W:brand_identity,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Brand Strategy & Identity,candidate display overlay; original unchanged
+82,A,W:cad_automation,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → CAD / Engineering Automation,candidate display overlay; original unchanged
+83,A,W:commissioning,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Commissioning,candidate display overlay; original unchanged
+84,A,W:controls_engineer,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Roles Index → HVAC Controls / BMS Engineer,candidate display overlay; original unchanged
+85,A,W:cooling_loads,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → Cooling & Heating Load Calculation,candidate display overlay; original unchanged
+86,A,W:creative_direction,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Creative Direction,candidate display overlay; original unchanged
+87,A,W:data_automation,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → Data Pipeline Automation,candidate display overlay; original unchanged
+88,A,W:design,World of Work → WORLD OF WORK ATLAS → DESIGN,candidate display overlay; original unchanged
+89,A,W:design_disciplines,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines,candidate display overlay; original unchanged
+90,A,W:digital_experience,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Digital Experience,candidate display overlay; original unchanged
+91,A,W:editorial_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Editorial / Publication Design,candidate display overlay; original unchanged
+92,A,W:electronics,World of Work → WORLD OF WORK ATLAS → ELECTRONICS & EMBEDDED HARDWARE,candidate display overlay; original unchanged
+93,A,W:electronics_functions,World of Work → WORLD OF WORK ATLAS → ELECTRONICS & EMBEDDED HARDWARE → Electronics Functions / Departments,candidate display overlay; original unchanged
+94,A,W:embedded_firmware,World of Work → WORLD OF WORK ATLAS → ELECTRONICS & EMBEDDED HARDWARE → Electronics Functions / Departments → Embedded Firmware,candidate display overlay; original unchanged
+95,A,W:energy,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC,candidate display overlay; original unchanged
+96,A,W:energy_audit,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Building Energy Audit / Optimisation,candidate display overlay; original unchanged
+97,A,W:energy_management,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → Energy Management,candidate display overlay; original unchanged
+98,A,W:equipment_selection,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → HVAC Equipment Selection,candidate display overlay; original unchanged
+99,A,W:experiential_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Experiential / Wayfinding Design,candidate display overlay; original unchanged
+100,A,W:font_engineering,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Font Engineering,candidate display overlay; original unchanged
+101,A,W:font_licensing,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Font Licensing & Rights,candidate display overlay; original unchanged
+102,A,W:font_management,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Font Management & Enterprise Deployment,candidate display overlay; original unchanged
+103,A,W:graphic_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Graphic Design,candidate display overlay; original unchanged
+104,A,W:hvac_controls,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → HVAC Controls / BMS Sequences,candidate display overlay; original unchanged
+105,A,W:hvac_coordination,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC BIM / Coordination,candidate display overlay; original unchanged
+106,A,W:hvac_design,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering,candidate display overlay; original unchanged
+107,A,W:hvac_design_engineer,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Roles Index → HVAC Design Engineer,candidate display overlay; original unchanged
+108,A,W:hvac_energy,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → HVAC Energy / Efficiency,candidate display overlay; original unchanged
+109,A,W:hvac_handover,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Handover,candidate display overlay; original unchanged
+110,A,W:hvac_lifecycle,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Design-to-Operation Lifecycle,candidate display overlay; original unchanged
+111,A,W:hvac_om,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Operations & Maintenance,candidate display overlay; original unchanged
+112,A,W:hvac_shopdrawings,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Shop Drawings,candidate display overlay; original unchanged
+113,A,W:hvac_site_install,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC Site Installation,candidate display overlay; original unchanged
+114,A,W:hvac_subcontractor,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Project / Company Ecosystem → HVAC Specialist Subcontractor,candidate display overlay; original unchanged
+115,A,W:hydronic_design,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → Hydronic / Piping Design,candidate display overlay; original unchanged
+116,A,W:illustration,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Illustration,candidate display overlay; original unchanged
+117,A,W:information_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Information Design,candidate display overlay; original unchanged
+118,A,W:mep_ecosystem,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Project / Company Ecosystem,candidate display overlay; original unchanged
+119,A,W:mep_functions,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments,candidate display overlay; original unchanged
+120,A,W:mep_roles,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Roles Index,candidate display overlay; original unchanged
+121,A,W:mep_standards,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → HVAC / MEP Standards Authority Map,candidate display overlay; original unchanged
+122,A,W:motion_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Motion / Animation Design,candidate display overlay; original unchanged
+123,A,W:packaging_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Packaging Design,candidate display overlay; original unchanged
+124,A,W:psychrometrics,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → Psychrometrics & Air Processes,candidate display overlay; original unchanged
+125,A,W:rpa,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → RPA / UI Automation,candidate display overlay; original unchanged
+126,A,W:scripting_automation,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → Scripting Automation,candidate display overlay; original unchanged
+127,A,W:service_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Service Design,candidate display overlay; original unchanged
+128,A,W:software,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION,candidate display overlay; original unchanged
+129,A,W:software_architect_role,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Roles Index → Software Architect,candidate display overlay; original unchanged
+130,A,W:software_architecture,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Software Architecture,candidate display overlay; original unchanged
+131,A,W:software_companies,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Company / Operating Models,candidate display overlay; original unchanged
+132,A,W:software_functions,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments,candidate display overlay; original unchanged
+133,A,W:software_lifecycle,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Product Lifecycle,candidate display overlay; original unchanged
+134,A,W:software_roles,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Roles Index,candidate display overlay; original unchanged
+135,A,W:software_security,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Software / Application Security,candidate display overlay; original unchanged
+136,A,W:software_standards,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Standards & Knowledge Map,candidate display overlay; original unchanged
+137,A,W:system_selection,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → HVAC System Selection,candidate display overlay; original unchanged
+138,A,W:tab,"World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → Testing, Adjusting & Balancing",candidate display overlay; original unchanged
+139,A,W:type_design,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Type Design,candidate display overlay; original unchanged
+140,A,W:typography,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication → Typography,candidate display overlay; original unchanged
+141,A,W:ventilation_iaq,World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC → MEP Company Functions / Departments → HVAC Design Engineering → Ventilation & IAQ,candidate display overlay; original unchanged
+142,A,W:visual_comm,World of Work → WORLD OF WORK ATLAS → DESIGN → Disciplines → Visual Communication,candidate display overlay; original unchanged
+143,A,W:workflow_automation,World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION → Software Functions / Departments → Automation / Integration Engineering → Workflow Automation,candidate display overlay; original unchanged
+144,A,W:world,World of Work → WORLD OF WORK ATLAS,candidate display overlay; original unchanged
+145,A,REF3-A01,"REF Stage02 snapshot → 02 Matter, energy & mechanics → Thermal state and pressure → Temperature",candidate display overlay; original unchanged
+146,A,REF3-A02,REF Stage02 snapshot → 03 Thermodynamic analysis → Direction and entropy → Thermal equilibrium,candidate display overlay; original unchanged
+147,A,REF3-A03,REF Stage02 snapshot → 03 Thermodynamic analysis → Direction and entropy → Zeroth law,candidate display overlay; original unchanged
+148,A,REF3-A04,"REF Stage02 snapshot → 02 Matter, energy & mechanics → Matter and microscopic description → Molecular motion",candidate display overlay; original unchanged
+149,A,REF3-A05,"REF Stage02 snapshot → 02 Matter, energy & mechanics → Matter and microscopic description → Boltzmann constant",candidate display overlay; original unchanged
+150,A,REF3-A06,"REF Stage02 snapshot → 01 Measurement & mathematical foundations → Rates, ratios and units → Kelvin",candidate display overlay; original unchanged
+151,A,placement.candidate_catalogue[0],Diagrams placement catalogue → visual_representations,candidate display overlay; original unchanged
+152,A,placement.candidate_catalogue[1],Diagrams placement catalogue → visual_representations → diagrams,candidate display overlay; original unchanged
+153,A,placement.candidate_catalogue[2],Diagrams placement catalogue → visual_representations → diagrams → Flowchart,candidate display overlay; original unchanged
+154,A,placement.candidate_catalogue[3],Diagrams placement catalogue → visual_representations → diagrams → Hierarchy Diagram,candidate display overlay; original unchanged
+155,A,placement.candidate_catalogue[4],Diagrams placement catalogue → visual_representations → diagrams → Architecture Diagram,candidate display overlay; original unchanged
+156,A,placement.candidate_catalogue[5],Diagrams placement catalogue → visual_representations → Chart,candidate display overlay; original unchanged
+157,B,E:forest,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST,candidate display overlay; original unchanged
+158,B,E:g_applications,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts,candidate display overlay; original unchanged
+159,B,E:g_artifacts,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables,candidate display overlay; original unchanged
+160,B,E:g_engineering,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields,candidate display overlay; original unchanged
+161,B,E:g_institutions,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions,candidate display overlay; original unchanged
+162,B,E:g_nature,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena,candidate display overlay; original unchanged
+163,B,E:g_roles,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles,candidate display overlay; original unchanged
+164,B,E:g_science,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge,candidate display overlay; original unchanged
+165,B,E:g_services,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes,candidate display overlay; original unchanged
+166,B,E:g_technologies,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems,candidate display overlay; original unchanged
+167,B,E:g_work,Energy — general context / unresolved domain → Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes,candidate display overlay; original unchanged
+168,B,E:n_engineering_building_01,MEP & building services → Energy Forest → Building Services Engineering / MEP → HVAC Engineering,candidate display overlay; original unchanged
+169,B,E:n_engineering_mech_02,Thermal science & refrigeration → Energy Forest → Mechanical Engineering → Thermal Engineering,candidate display overlay; original unchanged
+170,B,E:n_industries_buildings_02,MEP & building services → Energy Forest → Buildings & Other Application Contexts → Commercial Buildings,candidate display overlay; original unchanged
+171,B,E:n_industries_buildings_03,MEP & building services → Energy Forest → Buildings & Other Application Contexts → Hospitals & Healthcare,candidate display overlay; original unchanged
+172,B,E:n_industries_buildings_04,MEP & building services → Energy Forest → Buildings & Other Application Contexts → Data Centers,candidate display overlay; original unchanged
+173,B,E:n_nature_em_01,Physical science → Energy Forest → Electromagnetic phenomena → Induction,candidate display overlay; original unchanged
+174,B,E:n_nature_thermal_01,Thermal science & refrigeration → Energy Forest → Thermal phenomena → Temperature differences,candidate display overlay; original unchanged
+175,B,E:n_nature_thermal_02,Thermal science & refrigeration → Energy Forest → Thermal phenomena → Heat transfer,candidate display overlay; original unchanged
+176,B,E:n_science_math_02,Mathematics & control → Energy Forest → Mathematics & Information Sciences → Control Theory,candidate display overlay; original unchanged
+177,B,E:n_science_physics_01,Physical science → Energy Forest → Physical Sciences → Thermodynamics,candidate display overlay; original unchanged
+178,B,E:n_science_physics_01,MEP & building services → Energy Forest → Physical Sciences → Thermodynamics,candidate display overlay; original unchanged
+179,B,E:n_science_physics_02,Physical science → Energy Forest → Physical Sciences → Fluid Mechanics,candidate display overlay; original unchanged
+180,B,E:n_science_physics_03,Physical science → Energy Forest → Physical Sciences → Heat & Mass Transfer,candidate display overlay; original unchanged
+181,B,E:n_science_physics_psychrometrics,Physical science → Energy Forest → Physical Sciences → Psychrometrics,candidate display overlay; original unchanged
+182,B,E:n_services_buildings_01,MEP & building services → Energy Forest → Indoor Environmental Services → Thermal Comfort,candidate display overlay; original unchanged
+183,B,E:n_services_buildings_02,MEP & building services → Energy Forest → Indoor Environmental Services → Ventilation Service,candidate display overlay; original unchanged
+184,B,E:n_services_buildings_03,MEP & building services → Energy Forest → Indoor Environmental Services → Indoor Air Quality,candidate display overlay; original unchanged
+185,B,E:n_technologies_hvac_01,MEP & building services → Energy Forest → HVAC Technologies → HVAC Systems,candidate display overlay; original unchanged
+186,B,E:n_technologies_hvac_02,MEP & building services → Energy Forest → HVAC Technologies → Chillers,candidate display overlay; original unchanged
+187,B,E:n_technologies_hvac_03,MEP & building services → Energy Forest → HVAC Technologies → Air Handling Units,candidate display overlay; original unchanged
+188,B,E:n_technologies_hvac_04,MEP & building services → Energy Forest → HVAC Technologies → Fans,candidate display overlay; original unchanged
+189,B,E:n_technologies_hvac_06,MEP & building services → Energy Forest → HVAC Technologies → Building Management Systems,candidate display overlay; original unchanged
+190,B,E:n_technologies_power_02,Energy & power technologies → Energy Forest → Electricity Systems → Transformers,candidate display overlay; original unchanged
+191,B,E:n_work_deliverables_01,MEP & building services → Energy Forest → Engineering Calculations & Analyses → Psychrometric Analysis,candidate display overlay; original unchanged
+192,B,E:n_work_deliverables_02,MEP & building services → Energy Forest → Engineering Calculations & Analyses → Cooling Load Calculation,candidate display overlay; original unchanged
+193,B,E:n_work_deliverables_03,"Engineering documentation → Energy Forest → Drawings, Specifications & Control Documents → HVAC Shop Drawings",candidate display overlay; original unchanged
+194,B,E:n_work_deliverables_03,"MEP & building services → Energy Forest → Drawings, Specifications & Control Documents → HVAC Shop Drawings",candidate display overlay; original unchanged
+195,B,E:n_work_deliverables_04,"Engineering documentation → Energy Forest → Drawings, Specifications & Control Documents → Sequences of Operation",candidate display overlay; original unchanged
+196,B,E:n_work_hvac_01,MEP & building services → Energy Forest → HVAC Professional Practice → HVAC Design Work,candidate display overlay; original unchanged
+197,B,E:n_work_hvac_03,MEP & building services → Energy Forest → HVAC Professional Practice → HVAC Commissioning,candidate display overlay; original unchanged
+198,B,E:n_work_roles_01,MEP & building services → Energy Forest → Occupations & Job Roles → HVAC Design Engineer,candidate display overlay; original unchanged
+199,B,E:n_work_roles_02,MEP & building services → Energy Forest → Occupations & Job Roles → HVAC Controls Engineer,candidate display overlay; original unchanged
+200,B,E:t_artifacts_documents,"Engineering documentation → Energy Forest → Engineering Documents & Deliverables → Drawings, Specifications & Control Documents",candidate display overlay; original unchanged
+201,B,E:t_engineering_building,MEP & building services → Energy Forest → Applied Engineering Fields → Building Services Engineering / MEP,candidate display overlay; original unchanged
+202,B,E:t_engineering_mech,Thermal science & refrigeration → Energy Forest → Applied Engineering Fields → Mechanical Engineering,candidate display overlay; original unchanged
+203,B,E:t_industries_buildings,MEP & building services → Energy Forest → Application Contexts → Buildings & Other Application Contexts,candidate display overlay; original unchanged
+204,B,E:t_institutions_research,"History, institutions & geography → Energy Forest → Organisations & Research Institutions → Research & Education Institutions",candidate display overlay; original unchanged
+205,B,E:t_nature_em,Physical science → Energy Forest → Natural Phenomena → Electromagnetic phenomena,candidate display overlay; original unchanged
+206,B,E:t_nature_thermal,Thermal science & refrigeration → Energy Forest → Natural Phenomena → Thermal phenomena,candidate display overlay; original unchanged
+207,B,E:t_science_math,Mathematics & control → Energy Forest → Scientific & Formal Knowledge → Mathematics & Information Sciences,candidate display overlay; original unchanged
+208,B,E:t_science_physics,Physical science → Energy Forest → Scientific & Formal Knowledge → Physical Sciences,candidate display overlay; original unchanged
+209,B,E:t_services_buildings,MEP & building services → Energy Forest → Energy Services & Performance Outcomes → Indoor Environmental Services,candidate display overlay; original unchanged
+210,B,E:t_technologies_hvac,MEP & building services → Energy Forest → Technologies & Systems → HVAC Technologies,candidate display overlay; original unchanged
+211,B,E:t_technologies_power,Energy & power technologies → Energy Forest → Technologies & Systems → Electricity Systems,candidate display overlay; original unchanged
+212,B,E:t_work_deliverables,MEP & building services → Energy Forest → Engineering Activities & Work Processes → Engineering Calculations & Analyses,candidate display overlay; original unchanged
+213,B,E:t_work_hvac,MEP & building services → Energy Forest → Engineering Activities & Work Processes → HVAC Professional Practice,candidate display overlay; original unchanged
+214,B,E:t_work_roles,MEP & building services → Energy Forest → Occupations & Professional Roles → Occupations & Job Roles,candidate display overlay; original unchanged
+215,B,G:pg24_place_london,"History, institutions & geography → Geographical staging → London, England",candidate display overlay; original unchanged
+216,B,N:cand_n_metrology,Measurement & scientific foundations → Scientific staging → Measurement & Metrology → Scientific Metrology,candidate display overlay; original unchanged
+217,B,N:cand_n_radiometry,Measurement & scientific foundations → Scientific staging → Measurement & Metrology → Radiometry,candidate display overlay; original unchanged
+218,B,N:t_cand_science_measurement,Measurement & scientific foundations → Scientific staging → Scientific & Formal Knowledge → Measurement & Metrology,candidate display overlay; original unchanged
+219,B,PG:pg24_culab,"History, institutions & geography → Historical / institutional staging → Research & Education Institutions → Heat Laboratory, Cairo University Mechanical Power Engineering",candidate display overlay; original unchanged
+220,B,PG:pg24_faraday,"History, institutions & geography → Historical / institutional staging → Historical people → Michael Faraday",candidate display overlay; original unchanged
+221,B,PG:pg24_history,"History, institutions & geography → Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history",candidate display overlay; original unchanged
+222,B,PG:pg24_iecmeeting,"History, institutions & geography → Historical / institutional staging → Institutional and public events → London inaugural meeting of the IEC",candidate display overlay; original unchanged
+223,B,PG:pg24_individuals,"History, institutions & geography → Historical / institutional staging → People and historical contributions → Historical people",candidate display overlay; original unchanged
+224,B,PG:pg24_induction,"History, institutions & geography → Historical / institutional staging → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",candidate display overlay; original unchanged
+225,B,PG:pg24_institutionalevents,"History, institutions & geography → Historical / institutional staging → Historical events and documentary history → Institutional and public events",candidate display overlay; original unchanged
+226,B,PG:pg24_journalfirst,"History, institutions & geography → Historical / institutional staging → Discoveries, demonstrations and installations → First issue of Philosophical Transactions appears",candidate display overlay; original unchanged
+227,B,PG:pg24_milestones,"History, institutions & geography → Historical / institutional staging → Historical events and documentary history → Discoveries, demonstrations and installations",candidate display overlay; original unchanged
+228,B,PG:pg24_people,"History, institutions & geography → Historical / institutional staging → WORLD KNOWLEDGE FOREST → People and historical contributions",candidate display overlay; original unchanged
+229,B,PG:pg24_ri,"History, institutions & geography → Historical / institutional staging → Research & Education Institutions → Royal Institution of Great Britain",candidate display overlay; original unchanged
+230,B,PG:pg24_rsmeet,"History, institutions & geography → Historical / institutional staging → Institutional and public events → Meeting that founded the Royal Society",candidate display overlay; original unchanged
+231,B,T:n_t23_t_3_01,Energy & power technologies → Technology staging → Energy Conversion & Power Electronics → Steam Turbines,candidate display overlay; original unchanged
+232,B,T:n_t23_t_7_02,Measurement & scientific foundations → Technology staging → Energy Measurement & Control Systems → Industrial Temperature Sensor Systems,candidate display overlay; original unchanged
+233,B,T:t_t23_conversion,Energy & power technologies → Technology staging → Technologies & Systems → Energy Conversion & Power Electronics,candidate display overlay; original unchanged
+234,B,T:t_t23_instrumentation,Measurement & scientific foundations → Technology staging → Technologies & Systems → Energy Measurement & Control Systems,candidate display overlay; original unchanged
+235,B,W:airside_design,MEP & building services → World of Work → HVAC Design Engineering → Air-Side / Duct Design,candidate display overlay; original unchanged
+236,B,W:api_integration,Computing & software → World of Work → Automation / Integration Engineering → API / System Integration,candidate display overlay; original unchanged
+237,B,W:art_direction,Design & visual communication → World of Work → Visual Communication → Art Direction,candidate display overlay; original unchanged
+238,B,W:automation_engineering,Computing & software → World of Work → Software Functions / Departments → Automation / Integration Engineering,candidate display overlay; original unchanged
+239,B,W:automation_lifecycle,Computing & software → World of Work → SOFTWARE & AUTOMATION → Automation Workflow Lifecycle,candidate display overlay; original unchanged
+240,B,W:brand_identity,Design & visual communication → World of Work → Visual Communication → Brand Strategy & Identity,candidate display overlay; original unchanged
+241,B,W:cad_automation,Computing & software → World of Work → Automation / Integration Engineering → CAD / Engineering Automation,candidate display overlay; original unchanged
+242,B,W:commissioning,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Commissioning,candidate display overlay; original unchanged
+243,B,W:controls_engineer,MEP & building services → World of Work → Roles Index → HVAC Controls / BMS Engineer,candidate display overlay; original unchanged
+244,B,W:cooling_loads,MEP & building services → World of Work → HVAC Design Engineering → Cooling & Heating Load Calculation,candidate display overlay; original unchanged
+245,B,W:creative_direction,Design & visual communication → World of Work → Visual Communication → Creative Direction,candidate display overlay; original unchanged
+246,B,W:data_automation,Computing & software → World of Work → Automation / Integration Engineering → Data Pipeline Automation,candidate display overlay; original unchanged
+247,B,W:design,Design & visual communication → World of Work → WORLD OF WORK ATLAS → DESIGN,candidate display overlay; original unchanged
+248,B,W:design_disciplines,Design & visual communication → World of Work → DESIGN → Disciplines,candidate display overlay; original unchanged
+249,B,W:digital_experience,Design & visual communication → World of Work → Disciplines → Digital Experience,candidate display overlay; original unchanged
+250,B,W:editorial_design,Design & visual communication → World of Work → Visual Communication → Editorial / Publication Design,candidate display overlay; original unchanged
+251,B,W:electronics,Electronics & physical systems → World of Work → WORLD OF WORK ATLAS → ELECTRONICS & EMBEDDED HARDWARE,candidate display overlay; original unchanged
+252,B,W:electronics_functions,Electronics & physical systems → World of Work → ELECTRONICS & EMBEDDED HARDWARE → Electronics Functions / Departments,candidate display overlay; original unchanged
+253,B,W:embedded_firmware,Electronics & physical systems → World of Work → Electronics Functions / Departments → Embedded Firmware,candidate display overlay; original unchanged
+254,B,W:energy,MEP & building services → World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC,candidate display overlay; original unchanged
+255,B,W:energy_audit,MEP & building services → World of Work → ENERGY / MEP / HVAC → Building Energy Audit / Optimisation,candidate display overlay; original unchanged
+256,B,W:energy_management,MEP & building services → World of Work → MEP Company Functions / Departments → Energy Management,candidate display overlay; original unchanged
+257,B,W:equipment_selection,MEP & building services → World of Work → HVAC Design Engineering → HVAC Equipment Selection,candidate display overlay; original unchanged
+258,B,W:experiential_design,Design & visual communication → World of Work → Visual Communication → Experiential / Wayfinding Design,candidate display overlay; original unchanged
+259,B,W:font_engineering,Design & visual communication → World of Work → Visual Communication → Font Engineering,candidate display overlay; original unchanged
+260,B,W:font_licensing,Design & visual communication → World of Work → Visual Communication → Font Licensing & Rights,candidate display overlay; original unchanged
+261,B,W:font_management,Design & visual communication → World of Work → Visual Communication → Font Management & Enterprise Deployment,candidate display overlay; original unchanged
+262,B,W:graphic_design,Design & visual communication → World of Work → Visual Communication → Graphic Design,candidate display overlay; original unchanged
+263,B,W:hvac_controls,MEP & building services → World of Work → HVAC Design Engineering → HVAC Controls / BMS Sequences,candidate display overlay; original unchanged
+264,B,W:hvac_coordination,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC BIM / Coordination,candidate display overlay; original unchanged
+265,B,W:hvac_design,MEP & building services → World of Work → MEP Company Functions / Departments → HVAC Design Engineering,candidate display overlay; original unchanged
+266,B,W:hvac_design_engineer,MEP & building services → World of Work → Roles Index → HVAC Design Engineer,candidate display overlay; original unchanged
+267,B,W:hvac_energy,MEP & building services → World of Work → HVAC Design Engineering → HVAC Energy / Efficiency,candidate display overlay; original unchanged
+268,B,W:hvac_handover,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Handover,candidate display overlay; original unchanged
+269,B,W:hvac_lifecycle,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Design-to-Operation Lifecycle,candidate display overlay; original unchanged
+270,B,W:hvac_om,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Operations & Maintenance,candidate display overlay; original unchanged
+271,B,W:hvac_shopdrawings,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Shop Drawings,candidate display overlay; original unchanged
+272,B,W:hvac_site_install,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC Site Installation,candidate display overlay; original unchanged
+273,B,W:hvac_subcontractor,MEP & building services → World of Work → Project / Company Ecosystem → HVAC Specialist Subcontractor,candidate display overlay; original unchanged
+274,B,W:hydronic_design,MEP & building services → World of Work → HVAC Design Engineering → Hydronic / Piping Design,candidate display overlay; original unchanged
+275,B,W:illustration,Design & visual communication → World of Work → Visual Communication → Illustration,candidate display overlay; original unchanged
+276,B,W:information_design,Design & visual communication → World of Work → Visual Communication → Information Design,candidate display overlay; original unchanged
+277,B,W:mep_ecosystem,MEP & building services → World of Work → ENERGY / MEP / HVAC → Project / Company Ecosystem,candidate display overlay; original unchanged
+278,B,W:mep_functions,MEP & building services → World of Work → ENERGY / MEP / HVAC → MEP Company Functions / Departments,candidate display overlay; original unchanged
+279,B,W:mep_roles,MEP & building services → World of Work → ENERGY / MEP / HVAC → Roles Index,candidate display overlay; original unchanged
+280,B,W:mep_standards,MEP & building services → World of Work → ENERGY / MEP / HVAC → HVAC / MEP Standards Authority Map,candidate display overlay; original unchanged
+281,B,W:motion_design,Design & visual communication → World of Work → Visual Communication → Motion / Animation Design,candidate display overlay; original unchanged
+282,B,W:packaging_design,Design & visual communication → World of Work → Visual Communication → Packaging Design,candidate display overlay; original unchanged
+283,B,W:psychrometrics,MEP & building services → World of Work → HVAC Design Engineering → Psychrometrics & Air Processes,candidate display overlay; original unchanged
+284,B,W:rpa,Computing & software → World of Work → Automation / Integration Engineering → RPA / UI Automation,candidate display overlay; original unchanged
+285,B,W:scripting_automation,Computing & software → World of Work → Automation / Integration Engineering → Scripting Automation,candidate display overlay; original unchanged
+286,B,W:service_design,Design & visual communication → World of Work → Disciplines → Service Design,candidate display overlay; original unchanged
+287,B,W:software,Computing & software → World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION,candidate display overlay; original unchanged
+288,B,W:software_architect_role,Computing & software → World of Work → Roles Index → Software Architect,candidate display overlay; original unchanged
+289,B,W:software_architecture,Computing & software → World of Work → Software Functions / Departments → Software Architecture,candidate display overlay; original unchanged
+290,B,W:software_companies,Computing & software → World of Work → SOFTWARE & AUTOMATION → Company / Operating Models,candidate display overlay; original unchanged
+291,B,W:software_functions,Computing & software → World of Work → SOFTWARE & AUTOMATION → Software Functions / Departments,candidate display overlay; original unchanged
+292,B,W:software_lifecycle,Computing & software → World of Work → SOFTWARE & AUTOMATION → Software Product Lifecycle,candidate display overlay; original unchanged
+293,B,W:software_roles,Computing & software → World of Work → SOFTWARE & AUTOMATION → Roles Index,candidate display overlay; original unchanged
+294,B,W:software_security,Computing & software → World of Work → Software Functions / Departments → Software / Application Security,candidate display overlay; original unchanged
+295,B,W:software_standards,Computing & software → World of Work → SOFTWARE & AUTOMATION → Software Standards & Knowledge Map,candidate display overlay; original unchanged
+296,B,W:system_selection,MEP & building services → World of Work → HVAC Design Engineering → HVAC System Selection,candidate display overlay; original unchanged
+297,B,W:tab,"MEP & building services → World of Work → ENERGY / MEP / HVAC → Testing, Adjusting & Balancing",candidate display overlay; original unchanged
+298,B,W:type_design,Design & visual communication → World of Work → Visual Communication → Type Design,candidate display overlay; original unchanged
+299,B,W:typography,Design & visual communication → World of Work → Visual Communication → Typography,candidate display overlay; original unchanged
+300,B,W:ventilation_iaq,MEP & building services → World of Work → HVAC Design Engineering → Ventilation & IAQ,candidate display overlay; original unchanged
+301,B,W:visual_comm,Design & visual communication → World of Work → Disciplines → Visual Communication,candidate display overlay; original unchanged
+302,B,W:workflow_automation,Computing & software → World of Work → Automation / Integration Engineering → Workflow Automation,candidate display overlay; original unchanged
+303,B,W:world,Professional work — general context → World of Work → WORLD OF WORK ATLAS,candidate display overlay; original unchanged
+304,B,REF3-A01,Thermal science & refrigeration → REF Stage02 snapshot → Thermal state and pressure → Temperature,candidate display overlay; original unchanged
+305,B,REF3-A02,Thermal science & refrigeration → REF Stage02 snapshot → Direction and entropy → Thermal equilibrium,candidate display overlay; original unchanged
+306,B,REF3-A03,Thermal science & refrigeration → REF Stage02 snapshot → Direction and entropy → Zeroth law,candidate display overlay; original unchanged
+307,B,REF3-A04,Thermal science & refrigeration → REF Stage02 snapshot → Matter and microscopic description → Molecular motion,candidate display overlay; original unchanged
+308,B,REF3-A05,Thermal science & refrigeration → REF Stage02 snapshot → Matter and microscopic description → Boltzmann constant,candidate display overlay; original unchanged
+309,B,REF3-A06,"Thermal science & refrigeration → REF Stage02 snapshot → Rates, ratios and units → Kelvin",candidate display overlay; original unchanged
+310,B,placement.candidate_catalogue[0],Design & visual communication → Diagrams placement catalogue → visual_representations,candidate display overlay; original unchanged
+311,B,placement.candidate_catalogue[1],Design & visual communication → Diagrams placement catalogue → visual_representations → diagrams,candidate display overlay; original unchanged
+312,B,placement.candidate_catalogue[2],Design & visual communication → Diagrams placement catalogue → diagrams → Flowchart,candidate display overlay; original unchanged
+313,B,placement.candidate_catalogue[3],Design & visual communication → Diagrams placement catalogue → diagrams → Hierarchy Diagram,candidate display overlay; original unchanged
+314,B,placement.candidate_catalogue[4],Design & visual communication → Diagrams placement catalogue → diagrams → Architecture Diagram,candidate display overlay; original unchanged
+315,B,placement.candidate_catalogue[5],Design & visual communication → Diagrams placement catalogue → visual_representations → Chart,candidate display overlay; original unchanged
+316,C,E:forest,Browse collections → Navigation collection → WORLD KNOWLEDGE FOREST,candidate display overlay; original unchanged
+317,C,E:g_applications,Browse collections → Navigation collection → Application Contexts,candidate display overlay; original unchanged
+318,C,E:g_artifacts,Browse collections → Navigation collection → Engineering Documents & Deliverables,candidate display overlay; original unchanged
+319,C,E:g_engineering,Browse collections → Navigation collection → Applied Engineering Fields,candidate display overlay; original unchanged
+320,C,E:g_institutions,Browse collections → Navigation collection → Organisations & Research Institutions,candidate display overlay; original unchanged
+321,C,E:g_nature,Browse collections → Navigation collection → Natural Phenomena,candidate display overlay; original unchanged
+322,C,E:g_roles,Browse collections → Navigation collection → Occupations & Professional Roles,candidate display overlay; original unchanged
+323,C,E:g_science,Browse collections → Navigation collection → Scientific & Formal Knowledge,candidate display overlay; original unchanged
+324,C,E:g_services,Browse collections → Navigation collection → Energy Services & Performance Outcomes,candidate display overlay; original unchanged
+325,C,E:g_technologies,Browse collections → Navigation collection → Technologies & Systems,candidate display overlay; original unchanged
+326,C,E:g_work,Browse collections → Navigation collection → Engineering Activities & Work Processes,candidate display overlay; original unchanged
+327,C,E:n_engineering_building_01,Typed knowledge → Discipline → HVAC Engineering,candidate display overlay; original unchanged
+328,C,E:n_engineering_mech_02,Typed knowledge → Discipline → Thermal Engineering,candidate display overlay; original unchanged
+329,C,E:n_industries_buildings_02,Typed knowledge → Vocabulary concept → Commercial Buildings,candidate display overlay; original unchanged
+330,C,E:n_industries_buildings_03,Typed knowledge → Vocabulary concept → Hospitals & Healthcare,candidate display overlay; original unchanged
+331,C,E:n_industries_buildings_04,Typed knowledge → Vocabulary concept → Data Centers,candidate display overlay; original unchanged
+332,C,E:n_nature_em_01,Typed knowledge → Natural process → Induction,candidate display overlay; original unchanged
+333,C,E:n_nature_thermal_01,Typed knowledge → Natural process → Temperature differences,candidate display overlay; original unchanged
+334,C,E:n_nature_thermal_02,Typed knowledge → Natural process → Heat transfer,candidate display overlay; original unchanged
+335,C,E:n_science_math_02,Typed knowledge → Vocabulary concept → Control Theory,candidate display overlay; original unchanged
+336,C,E:n_science_physics_01,Typed knowledge → Vocabulary concept → Thermodynamics,candidate display overlay; original unchanged
+337,C,E:n_science_physics_02,Typed knowledge → Vocabulary concept → Fluid Mechanics,candidate display overlay; original unchanged
+338,C,E:n_science_physics_03,Typed knowledge → Vocabulary concept → Heat & Mass Transfer,candidate display overlay; original unchanged
+339,C,E:n_science_physics_psychrometrics,Typed knowledge → Vocabulary concept → Psychrometrics,candidate display overlay; original unchanged
+340,C,E:n_services_buildings_01,Typed knowledge → Service activity → Thermal Comfort,candidate display overlay; original unchanged
+341,C,E:n_services_buildings_02,Typed knowledge → Service activity → Ventilation Service,candidate display overlay; original unchanged
+342,C,E:n_services_buildings_03,Unresolved typing → Unresolved type · performance_outcome → Indoor Air Quality,candidate display overlay; original unchanged
+343,C,E:n_technologies_hvac_01,Unresolved typing → Unresolved type · technology_or_system → HVAC Systems,candidate display overlay; original unchanged
+344,C,E:n_technologies_hvac_02,Typed knowledge → Device → Chillers,candidate display overlay; original unchanged
+345,C,E:n_technologies_hvac_03,Typed knowledge → Device → Air Handling Units,candidate display overlay; original unchanged
+346,C,E:n_technologies_hvac_04,Typed knowledge → Device → Fans,candidate display overlay; original unchanged
+347,C,E:n_technologies_hvac_06,Typed knowledge → Physical system → Building Management Systems,candidate display overlay; original unchanged
+348,C,E:n_technologies_power_02,Typed knowledge → Device → Transformers,candidate display overlay; original unchanged
+349,C,E:n_work_deliverables_01,Typed knowledge → Practice type → Psychrometric Analysis,candidate display overlay; original unchanged
+350,C,E:n_work_deliverables_02,Typed knowledge → Practice type → Cooling Load Calculation,candidate display overlay; original unchanged
+351,C,E:n_work_deliverables_03,Typed knowledge → Information content → HVAC Shop Drawings,candidate display overlay; original unchanged
+352,C,E:n_work_deliverables_04,Typed knowledge → Information content → Sequences of Operation,candidate display overlay; original unchanged
+353,C,E:n_work_hvac_01,Typed knowledge → Intentional activity → HVAC Design Work,candidate display overlay; original unchanged
+354,C,E:n_work_hvac_03,Typed knowledge → Intentional activity → HVAC Commissioning,candidate display overlay; original unchanged
+355,C,E:n_work_roles_01,Typed knowledge → Occupation category → HVAC Design Engineer,candidate display overlay; original unchanged
+356,C,E:n_work_roles_02,Typed knowledge → Occupation category → HVAC Controls Engineer,candidate display overlay; original unchanged
+357,C,E:t_artifacts_documents,"Browse collections → Navigation collection → Drawings, Specifications & Control Documents",candidate display overlay; original unchanged
+358,C,E:t_engineering_building,Browse collections → Navigation collection → Building Services Engineering / MEP,candidate display overlay; original unchanged
+359,C,E:t_engineering_mech,Browse collections → Navigation collection → Mechanical Engineering,candidate display overlay; original unchanged
+360,C,E:t_industries_buildings,Browse collections → Navigation collection → Buildings & Other Application Contexts,candidate display overlay; original unchanged
+361,C,E:t_institutions_research,Browse collections → Navigation collection → Research & Education Institutions,candidate display overlay; original unchanged
+362,C,E:t_nature_em,Browse collections → Navigation collection → Electromagnetic phenomena,candidate display overlay; original unchanged
+363,C,E:t_nature_thermal,Browse collections → Navigation collection → Thermal phenomena,candidate display overlay; original unchanged
+364,C,E:t_science_math,Browse collections → Navigation collection → Mathematics & Information Sciences,candidate display overlay; original unchanged
+365,C,E:t_science_physics,Browse collections → Navigation collection → Physical Sciences,candidate display overlay; original unchanged
+366,C,E:t_services_buildings,Browse collections → Navigation collection → Indoor Environmental Services,candidate display overlay; original unchanged
+367,C,E:t_technologies_hvac,Browse collections → Navigation collection → HVAC Technologies,candidate display overlay; original unchanged
+368,C,E:t_technologies_power,Browse collections → Navigation collection → Electricity Systems,candidate display overlay; original unchanged
+369,C,E:t_work_deliverables,Browse collections → Navigation collection → Engineering Calculations & Analyses,candidate display overlay; original unchanged
+370,C,E:t_work_hvac,Browse collections → Navigation collection → HVAC Professional Practice,candidate display overlay; original unchanged
+371,C,E:t_work_roles,Browse collections → Navigation collection → Occupations & Job Roles,candidate display overlay; original unchanged
+372,C,G:pg24_place_london,"Typed knowledge → Place → London, England",candidate display overlay; original unchanged
+373,C,N:cand_n_metrology,Typed knowledge → Discipline → Scientific Metrology,candidate display overlay; original unchanged
+374,C,N:cand_n_radiometry,Typed knowledge → Method specification → Radiometry,candidate display overlay; original unchanged
+375,C,N:t_cand_science_measurement,Browse collections → Navigation collection → Measurement & Metrology,candidate display overlay; original unchanged
+376,C,PG:pg24_culab,"Unresolved typing → Unresolved type · teaching_laboratory → Heat Laboratory, Cairo University Mechanical Power Engineering",candidate display overlay; original unchanged
+377,C,PG:pg24_faraday,Typed knowledge → Person → Michael Faraday,candidate display overlay; original unchanged
+378,C,PG:pg24_history,Browse collections → Navigation collection → Historical events and documentary history,candidate display overlay; original unchanged
+379,C,PG:pg24_iecmeeting,Typed knowledge → Event → London inaugural meeting of the IEC,candidate display overlay; original unchanged
+380,C,PG:pg24_individuals,Browse collections → Navigation collection → Historical people,candidate display overlay; original unchanged
+381,C,PG:pg24_induction,Typed knowledge → Event → Faraday’s ring-coil induction experiment,candidate display overlay; original unchanged
+382,C,PG:pg24_institutionalevents,Browse collections → Navigation collection → Institutional and public events,candidate display overlay; original unchanged
+383,C,PG:pg24_journalfirst,Typed knowledge → Event → First issue of Philosophical Transactions appears,candidate display overlay; original unchanged
+384,C,PG:pg24_milestones,"Browse collections → Navigation collection → Discoveries, demonstrations and installations",candidate display overlay; original unchanged
+385,C,PG:pg24_people,Browse collections → Navigation collection → People and historical contributions,candidate display overlay; original unchanged
+386,C,PG:pg24_ri,Typed knowledge → Organization → Royal Institution of Great Britain,candidate display overlay; original unchanged
+387,C,PG:pg24_rsmeet,Typed knowledge → Event → Meeting that founded the Royal Society,candidate display overlay; original unchanged
+388,C,T:n_t23_t_3_01,Typed knowledge → Device → Steam Turbines,candidate display overlay; original unchanged
+389,C,T:n_t23_t_7_02,Typed knowledge → Device → Industrial Temperature Sensor Systems,candidate display overlay; original unchanged
+390,C,T:t_t23_conversion,Browse collections → Navigation collection → Energy Conversion & Power Electronics,candidate display overlay; original unchanged
+391,C,T:t_t23_instrumentation,Browse collections → Navigation collection → Energy Measurement & Control Systems,candidate display overlay; original unchanged
+392,C,W:airside_design,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Air-Side / Duct Design,candidate display overlay; original unchanged
+393,C,W:api_integration,Typed knowledge → Technology family → API / System Integration,candidate display overlay; original unchanged
+394,C,W:art_direction,Typed knowledge → Professional role → Art Direction,candidate display overlay; original unchanged
+395,C,W:automation_engineering,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → Automation / Integration Engineering,candidate display overlay; original unchanged
+396,C,W:automation_lifecycle,Typed knowledge → Procedure specification → Automation Workflow Lifecycle,candidate display overlay; original unchanged
+397,C,W:brand_identity,Typed knowledge → Discipline → Brand Strategy & Identity,candidate display overlay; original unchanged
+398,C,W:cad_automation,Typed knowledge → Technology family → CAD / Engineering Automation,candidate display overlay; original unchanged
+399,C,W:commissioning,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Commissioning,candidate display overlay; original unchanged
+400,C,W:controls_engineer,Typed knowledge → Professional role → HVAC Controls / BMS Engineer,candidate display overlay; original unchanged
+401,C,W:cooling_loads,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Cooling & Heating Load Calculation,candidate display overlay; original unchanged
+402,C,W:creative_direction,Typed knowledge → Professional role → Creative Direction,candidate display overlay; original unchanged
+403,C,W:data_automation,Typed knowledge → Technology family → Data Pipeline Automation,candidate display overlay; original unchanged
+404,C,W:design,Browse collections → Navigation collection → DESIGN,candidate display overlay; original unchanged
+405,C,W:design_disciplines,Browse collections → Navigation collection → Disciplines,candidate display overlay; original unchanged
+406,C,W:digital_experience,Typed knowledge → Discipline → Digital Experience,candidate display overlay; original unchanged
+407,C,W:editorial_design,Typed knowledge → Discipline → Editorial / Publication Design,candidate display overlay; original unchanged
+408,C,W:electronics,Browse collections → Navigation collection → ELECTRONICS & EMBEDDED HARDWARE,candidate display overlay; original unchanged
+409,C,W:electronics_functions,Browse collections → Navigation collection → Electronics Functions / Departments,candidate display overlay; original unchanged
+410,C,W:embedded_firmware,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → Embedded Firmware,candidate display overlay; original unchanged
+411,C,W:energy,Browse collections → Navigation collection → ENERGY / MEP / HVAC,candidate display overlay; original unchanged
+412,C,W:energy_audit,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Building Energy Audit / Optimisation,candidate display overlay; original unchanged
+413,C,W:energy_management,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → Energy Management,candidate display overlay; original unchanged
+414,C,W:equipment_selection,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Equipment Selection,candidate display overlay; original unchanged
+415,C,W:experiential_design,Browse collections → Navigation collection → Experiential / Wayfinding Design,candidate display overlay; original unchanged
+416,C,W:font_engineering,Typed knowledge → Discipline → Font Engineering,candidate display overlay; original unchanged
+417,C,W:font_licensing,Unresolved typing → Unresolved type · LEGAL / COMMERCIAL FUNCTION → Font Licensing & Rights,candidate display overlay; original unchanged
+418,C,W:font_management,Unresolved typing → Unresolved type · OPERATIONS / GOVERNANCE → Font Management & Enterprise Deployment,candidate display overlay; original unchanged
+419,C,W:graphic_design,Typed knowledge → Discipline → Graphic Design,candidate display overlay; original unchanged
+420,C,W:hvac_controls,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Controls / BMS Sequences,candidate display overlay; original unchanged
+421,C,W:hvac_coordination,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC BIM / Coordination,candidate display overlay; original unchanged
+422,C,W:hvac_design,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → HVAC Design Engineering,candidate display overlay; original unchanged
+423,C,W:hvac_design_engineer,Typed knowledge → Professional role → HVAC Design Engineer,candidate display overlay; original unchanged
+424,C,W:hvac_energy,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Energy / Efficiency,candidate display overlay; original unchanged
+425,C,W:hvac_handover,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Handover,candidate display overlay; original unchanged
+426,C,W:hvac_lifecycle,Typed knowledge → Procedure specification → HVAC Design-to-Operation Lifecycle,candidate display overlay; original unchanged
+427,C,W:hvac_om,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Operations & Maintenance,candidate display overlay; original unchanged
+428,C,W:hvac_shopdrawings,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Shop Drawings,candidate display overlay; original unchanged
+429,C,W:hvac_site_install,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC Site Installation,candidate display overlay; original unchanged
+430,C,W:hvac_subcontractor,Unresolved typing → Unresolved type · COMPANY / STAKEHOLDER → HVAC Specialist Subcontractor,candidate display overlay; original unchanged
+431,C,W:hydronic_design,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Hydronic / Piping Design,candidate display overlay; original unchanged
+432,C,W:illustration,Typed knowledge → Discipline → Illustration,candidate display overlay; original unchanged
+433,C,W:information_design,Typed knowledge → Discipline → Information Design,candidate display overlay; original unchanged
+434,C,W:mep_ecosystem,Browse collections → Navigation collection → Project / Company Ecosystem,candidate display overlay; original unchanged
+435,C,W:mep_functions,Browse collections → Navigation collection → MEP Company Functions / Departments,candidate display overlay; original unchanged
+436,C,W:mep_roles,Browse collections → Navigation collection → Roles Index,candidate display overlay; original unchanged
+437,C,W:mep_standards,Browse collections → Navigation collection → HVAC / MEP Standards Authority Map,candidate display overlay; original unchanged
+438,C,W:motion_design,Browse collections → Navigation collection → Motion / Animation Design,candidate display overlay; original unchanged
+439,C,W:packaging_design,Browse collections → Navigation collection → Packaging Design,candidate display overlay; original unchanged
+440,C,W:psychrometrics,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Psychrometrics & Air Processes,candidate display overlay; original unchanged
+441,C,W:rpa,Typed knowledge → Technology family → RPA / UI Automation,candidate display overlay; original unchanged
+442,C,W:scripting_automation,Typed knowledge → Technology family → Scripting Automation,candidate display overlay; original unchanged
+443,C,W:service_design,Typed knowledge → Discipline → Service Design,candidate display overlay; original unchanged
+444,C,W:software,Browse collections → Navigation collection → SOFTWARE & AUTOMATION,candidate display overlay; original unchanged
+445,C,W:software_architect_role,Typed knowledge → Professional role → Software Architect,candidate display overlay; original unchanged
+446,C,W:software_architecture,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → Software Architecture,candidate display overlay; original unchanged
+447,C,W:software_companies,Browse collections → Navigation collection → Company / Operating Models,candidate display overlay; original unchanged
+448,C,W:software_functions,Browse collections → Navigation collection → Software Functions / Departments,candidate display overlay; original unchanged
+449,C,W:software_lifecycle,Typed knowledge → Procedure specification → Software Product Lifecycle,candidate display overlay; original unchanged
+450,C,W:software_roles,Browse collections → Navigation collection → Roles Index,candidate display overlay; original unchanged
+451,C,W:software_security,Unresolved typing → Unresolved type · DEPARTMENT / FUNCTION → Software / Application Security,candidate display overlay; original unchanged
+452,C,W:software_standards,Browse collections → Navigation collection → Software Standards & Knowledge Map,candidate display overlay; original unchanged
+453,C,W:system_selection,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → HVAC System Selection,candidate display overlay; original unchanged
+454,C,W:tab,"Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Testing, Adjusting & Balancing",candidate display overlay; original unchanged
+455,C,W:type_design,Typed knowledge → Discipline → Type Design,candidate display overlay; original unchanged
+456,C,W:typography,Typed knowledge → Discipline → Typography,candidate display overlay; original unchanged
+457,C,W:ventilation_iaq,Unresolved typing → Unresolved type · DISCIPLINE / PROCESS → Ventilation & IAQ,candidate display overlay; original unchanged
+458,C,W:visual_comm,Typed knowledge → Discipline → Visual Communication,candidate display overlay; original unchanged
+459,C,W:workflow_automation,Typed knowledge → Technology family → Workflow Automation,candidate display overlay; original unchanged
+460,C,W:world,Browse collections → Navigation collection → WORLD OF WORK ATLAS,candidate display overlay; original unchanged
+461,C,REF3-A01,Historical learning context → state property → Temperature,candidate display overlay; original unchanged
+462,C,REF3-A02,Historical learning context → physical condition → Thermal equilibrium,candidate display overlay; original unchanged
+463,C,REF3-A03,Historical learning context → scientific law → Zeroth law,candidate display overlay; original unchanged
+464,C,REF3-A04,Historical learning context → physical mechanism → Molecular motion,candidate display overlay; original unchanged
+465,C,REF3-A05,Historical learning context → fundamental constant → Boltzmann constant,candidate display overlay; original unchanged
+466,C,REF3-A06,Historical learning context → SI base unit → Kelvin,candidate display overlay; original unchanged
+467,C,placement.candidate_catalogue[0],Candidate catalogue → navigation_collection → visual_representations,candidate display overlay; original unchanged
+468,C,placement.candidate_catalogue[1],Candidate catalogue → representation_family → diagrams,candidate display overlay; original unchanged
+469,C,placement.candidate_catalogue[2],Candidate catalogue → representation_form → Flowchart,candidate display overlay; original unchanged
+470,C,placement.candidate_catalogue[3],Candidate catalogue → representation_form → Hierarchy Diagram,candidate display overlay; original unchanged
+471,C,placement.candidate_catalogue[4],Candidate catalogue → representation_form → Architecture Diagram,candidate display overlay; original unchanged
+472,C,placement.candidate_catalogue[5],Candidate catalogue → representation_family → Chart,candidate display overlay; original unchanged
+473,D,E:forest,Unplaced in recovered six-view mapping → Energy Forest → WORLD KNOWLEDGE FOREST,candidate display overlay; original unchanged
+474,D,E:g_applications,"Engineering, Technologies & Resources → Energy Forest → WORLD KNOWLEDGE FOREST → Application Contexts",candidate display overlay; original unchanged
+475,D,E:g_artifacts,"Standards, Documents & Outputs → Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Documents & Deliverables",candidate display overlay; original unchanged
+476,D,E:g_engineering,"Engineering, Technologies & Resources → Energy Forest → WORLD KNOWLEDGE FOREST → Applied Engineering Fields",candidate display overlay; original unchanged
+477,D,E:g_institutions,"Work, Organizations & Economy → Energy Forest → WORLD KNOWLEDGE FOREST → Organisations & Research Institutions",candidate display overlay; original unchanged
+478,D,E:g_nature,"Nature, Science & Formal Knowledge → Energy Forest → WORLD KNOWLEDGE FOREST → Natural Phenomena",candidate display overlay; original unchanged
+479,D,E:g_roles,"Work, Organizations & Economy → Energy Forest → WORLD KNOWLEDGE FOREST → Occupations & Professional Roles",candidate display overlay; original unchanged
+480,D,E:g_science,"Nature, Science & Formal Knowledge → Energy Forest → WORLD KNOWLEDGE FOREST → Scientific & Formal Knowledge",candidate display overlay; original unchanged
+481,D,E:g_services,"Engineering, Technologies & Resources → Energy Forest → WORLD KNOWLEDGE FOREST → Energy Services & Performance Outcomes",candidate display overlay; original unchanged
+482,D,E:g_technologies,"Engineering, Technologies & Resources → Energy Forest → WORLD KNOWLEDGE FOREST → Technologies & Systems",candidate display overlay; original unchanged
+483,D,E:g_work,"Work, Organizations & Economy → Energy Forest → WORLD KNOWLEDGE FOREST → Engineering Activities & Work Processes",candidate display overlay; original unchanged
+484,D,E:n_engineering_building_01,"Engineering, Technologies & Resources → Energy Forest → Building Services Engineering / MEP → HVAC Engineering",candidate display overlay; original unchanged
+485,D,E:n_engineering_mech_02,"Engineering, Technologies & Resources → Energy Forest → Mechanical Engineering → Thermal Engineering",candidate display overlay; original unchanged
+486,D,E:n_industries_buildings_02,"Engineering, Technologies & Resources → Energy Forest → Buildings & Other Application Contexts → Commercial Buildings",candidate display overlay; original unchanged
+487,D,E:n_industries_buildings_03,"Engineering, Technologies & Resources → Energy Forest → Buildings & Other Application Contexts → Hospitals & Healthcare",candidate display overlay; original unchanged
+488,D,E:n_industries_buildings_04,"Engineering, Technologies & Resources → Energy Forest → Buildings & Other Application Contexts → Data Centers",candidate display overlay; original unchanged
+489,D,E:n_nature_em_01,"Nature, Science & Formal Knowledge → Energy Forest → Electromagnetic phenomena → Induction",candidate display overlay; original unchanged
+490,D,E:n_nature_thermal_01,"Nature, Science & Formal Knowledge → Energy Forest → Thermal phenomena → Temperature differences",candidate display overlay; original unchanged
+491,D,E:n_nature_thermal_02,"Nature, Science & Formal Knowledge → Energy Forest → Thermal phenomena → Heat transfer",candidate display overlay; original unchanged
+492,D,E:n_science_math_02,"Nature, Science & Formal Knowledge → Energy Forest → Mathematics & Information Sciences → Control Theory",candidate display overlay; original unchanged
+493,D,E:n_science_physics_01,"Nature, Science & Formal Knowledge → Energy Forest → Physical Sciences → Thermodynamics",candidate display overlay; original unchanged
+494,D,E:n_science_physics_02,"Nature, Science & Formal Knowledge → Energy Forest → Physical Sciences → Fluid Mechanics",candidate display overlay; original unchanged
+495,D,E:n_science_physics_03,"Nature, Science & Formal Knowledge → Energy Forest → Physical Sciences → Heat & Mass Transfer",candidate display overlay; original unchanged
+496,D,E:n_science_physics_psychrometrics,"Nature, Science & Formal Knowledge → Energy Forest → Physical Sciences → Psychrometrics",candidate display overlay; original unchanged
+497,D,E:n_services_buildings_01,"Engineering, Technologies & Resources → Energy Forest → Indoor Environmental Services → Thermal Comfort",candidate display overlay; original unchanged
+498,D,E:n_services_buildings_02,"Engineering, Technologies & Resources → Energy Forest → Indoor Environmental Services → Ventilation Service",candidate display overlay; original unchanged
+499,D,E:n_services_buildings_03,"Engineering, Technologies & Resources → Energy Forest → Indoor Environmental Services → Indoor Air Quality",candidate display overlay; original unchanged
+500,D,E:n_technologies_hvac_01,"Engineering, Technologies & Resources → Energy Forest → HVAC Technologies → HVAC Systems",candidate display overlay; original unchanged
+501,D,E:n_technologies_hvac_02,"Engineering, Technologies & Resources → Energy Forest → HVAC Technologies → Chillers",candidate display overlay; original unchanged
+502,D,E:n_technologies_hvac_03,"Engineering, Technologies & Resources → Energy Forest → HVAC Technologies → Air Handling Units",candidate display overlay; original unchanged
+503,D,E:n_technologies_hvac_04,"Engineering, Technologies & Resources → Energy Forest → HVAC Technologies → Fans",candidate display overlay; original unchanged
+504,D,E:n_technologies_hvac_06,"Engineering, Technologies & Resources → Energy Forest → HVAC Technologies → Building Management Systems",candidate display overlay; original unchanged
+505,D,E:n_technologies_power_02,"Engineering, Technologies & Resources → Energy Forest → Electricity Systems → Transformers",candidate display overlay; original unchanged
+506,D,E:n_work_deliverables_01,"Work, Organizations & Economy → Energy Forest → Engineering Calculations & Analyses → Psychrometric Analysis",candidate display overlay; original unchanged
+507,D,E:n_work_deliverables_02,"Work, Organizations & Economy → Energy Forest → Engineering Calculations & Analyses → Cooling Load Calculation",candidate display overlay; original unchanged
+508,D,E:n_work_deliverables_03,"Standards, Documents & Outputs → Energy Forest → Drawings, Specifications & Control Documents → HVAC Shop Drawings",candidate display overlay; original unchanged
+509,D,E:n_work_deliverables_04,"Standards, Documents & Outputs → Energy Forest → Drawings, Specifications & Control Documents → Sequences of Operation",candidate display overlay; original unchanged
+510,D,E:n_work_hvac_01,"Work, Organizations & Economy → Energy Forest → HVAC Professional Practice → HVAC Design Work",candidate display overlay; original unchanged
+511,D,E:n_work_hvac_03,"Work, Organizations & Economy → Energy Forest → HVAC Professional Practice → HVAC Commissioning",candidate display overlay; original unchanged
+512,D,E:n_work_roles_01,"Work, Organizations & Economy → Energy Forest → Occupations & Job Roles → HVAC Design Engineer",candidate display overlay; original unchanged
+513,D,E:n_work_roles_02,"Work, Organizations & Economy → Energy Forest → Occupations & Job Roles → HVAC Controls Engineer",candidate display overlay; original unchanged
+514,D,E:t_artifacts_documents,"Standards, Documents & Outputs → Energy Forest → Engineering Documents & Deliverables → Drawings, Specifications & Control Documents",candidate display overlay; original unchanged
+515,D,E:t_engineering_building,"Engineering, Technologies & Resources → Energy Forest → Applied Engineering Fields → Building Services Engineering / MEP",candidate display overlay; original unchanged
+516,D,E:t_engineering_mech,"Engineering, Technologies & Resources → Energy Forest → Applied Engineering Fields → Mechanical Engineering",candidate display overlay; original unchanged
+517,D,E:t_industries_buildings,"Engineering, Technologies & Resources → Energy Forest → Application Contexts → Buildings & Other Application Contexts",candidate display overlay; original unchanged
+518,D,E:t_institutions_research,"Work, Organizations & Economy → Energy Forest → Organisations & Research Institutions → Research & Education Institutions",candidate display overlay; original unchanged
+519,D,E:t_nature_em,"Nature, Science & Formal Knowledge → Energy Forest → Natural Phenomena → Electromagnetic phenomena",candidate display overlay; original unchanged
+520,D,E:t_nature_thermal,"Nature, Science & Formal Knowledge → Energy Forest → Natural Phenomena → Thermal phenomena",candidate display overlay; original unchanged
+521,D,E:t_science_math,"Nature, Science & Formal Knowledge → Energy Forest → Scientific & Formal Knowledge → Mathematics & Information Sciences",candidate display overlay; original unchanged
+522,D,E:t_science_physics,"Nature, Science & Formal Knowledge → Energy Forest → Scientific & Formal Knowledge → Physical Sciences",candidate display overlay; original unchanged
+523,D,E:t_services_buildings,"Engineering, Technologies & Resources → Energy Forest → Energy Services & Performance Outcomes → Indoor Environmental Services",candidate display overlay; original unchanged
+524,D,E:t_technologies_hvac,"Engineering, Technologies & Resources → Energy Forest → Technologies & Systems → HVAC Technologies",candidate display overlay; original unchanged
+525,D,E:t_technologies_power,"Engineering, Technologies & Resources → Energy Forest → Technologies & Systems → Electricity Systems",candidate display overlay; original unchanged
+526,D,E:t_work_deliverables,"Work, Organizations & Economy → Energy Forest → Engineering Activities & Work Processes → Engineering Calculations & Analyses",candidate display overlay; original unchanged
+527,D,E:t_work_hvac,"Work, Organizations & Economy → Energy Forest → Engineering Activities & Work Processes → HVAC Professional Practice",candidate display overlay; original unchanged
+528,D,E:t_work_roles,"Work, Organizations & Economy → Energy Forest → Occupations & Professional Roles → Occupations & Job Roles",candidate display overlay; original unchanged
+529,D,G:pg24_place_london,"History, People & Places → Geographical staging → London, England",candidate display overlay; original unchanged
+530,D,N:cand_n_metrology,"Nature, Science & Formal Knowledge → Scientific staging → Measurement & Metrology → Scientific Metrology",candidate display overlay; original unchanged
+531,D,N:cand_n_radiometry,"Nature, Science & Formal Knowledge → Scientific staging → Measurement & Metrology → Radiometry",candidate display overlay; original unchanged
+532,D,N:t_cand_science_measurement,"Nature, Science & Formal Knowledge → Scientific staging → Scientific & Formal Knowledge → Measurement & Metrology",candidate display overlay; original unchanged
+533,D,PG:pg24_culab,"Work, Organizations & Economy → Historical / institutional staging → Research & Education Institutions → Heat Laboratory, Cairo University Mechanical Power Engineering",candidate display overlay; original unchanged
+534,D,PG:pg24_faraday,"History, People & Places → Historical / institutional staging → Historical people → Michael Faraday",candidate display overlay; original unchanged
+535,D,PG:pg24_history,"History, People & Places → Historical / institutional staging → WORLD KNOWLEDGE FOREST → Historical events and documentary history",candidate display overlay; original unchanged
+536,D,PG:pg24_iecmeeting,"History, People & Places → Historical / institutional staging → Institutional and public events → London inaugural meeting of the IEC",candidate display overlay; original unchanged
+537,D,PG:pg24_individuals,"History, People & Places → Historical / institutional staging → People and historical contributions → Historical people",candidate display overlay; original unchanged
+538,D,PG:pg24_induction,"History, People & Places → Historical / institutional staging → Discoveries, demonstrations and installations → Faraday’s ring-coil induction experiment",candidate display overlay; original unchanged
+539,D,PG:pg24_institutionalevents,"History, People & Places → Historical / institutional staging → Historical events and documentary history → Institutional and public events",candidate display overlay; original unchanged
+540,D,PG:pg24_journalfirst,"History, People & Places → Historical / institutional staging → Discoveries, demonstrations and installations → First issue of Philosophical Transactions appears",candidate display overlay; original unchanged
+541,D,PG:pg24_milestones,"History, People & Places → Historical / institutional staging → Historical events and documentary history → Discoveries, demonstrations and installations",candidate display overlay; original unchanged
+542,D,PG:pg24_people,"History, People & Places → Historical / institutional staging → WORLD KNOWLEDGE FOREST → People and historical contributions",candidate display overlay; original unchanged
+543,D,PG:pg24_ri,"Work, Organizations & Economy → Historical / institutional staging → Research & Education Institutions → Royal Institution of Great Britain",candidate display overlay; original unchanged
+544,D,PG:pg24_rsmeet,"History, People & Places → Historical / institutional staging → Institutional and public events → Meeting that founded the Royal Society",candidate display overlay; original unchanged
+545,D,T:n_t23_t_3_01,"Engineering, Technologies & Resources → Technology staging → Energy Conversion & Power Electronics → Steam Turbines",candidate display overlay; original unchanged
+546,D,T:n_t23_t_7_02,"Engineering, Technologies & Resources → Technology staging → Energy Measurement & Control Systems → Industrial Temperature Sensor Systems",candidate display overlay; original unchanged
+547,D,T:t_t23_conversion,"Engineering, Technologies & Resources → Technology staging → Technologies & Systems → Energy Conversion & Power Electronics",candidate display overlay; original unchanged
+548,D,T:t_t23_instrumentation,"Engineering, Technologies & Resources → Technology staging → Technologies & Systems → Energy Measurement & Control Systems",candidate display overlay; original unchanged
+549,D,W:airside_design,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → Air-Side / Duct Design",candidate display overlay; original unchanged
+550,D,W:api_integration,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → API / System Integration",candidate display overlay; original unchanged
+551,D,W:art_direction,"Work, Organizations & Economy → World of Work → Visual Communication → Art Direction",candidate display overlay; original unchanged
+552,D,W:automation_engineering,"Work, Organizations & Economy → World of Work → Software Functions / Departments → Automation / Integration Engineering",candidate display overlay; original unchanged
+553,D,W:automation_lifecycle,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Automation Workflow Lifecycle",candidate display overlay; original unchanged
+554,D,W:brand_identity,"Work, Organizations & Economy → World of Work → Visual Communication → Brand Strategy & Identity",candidate display overlay; original unchanged
+555,D,W:cad_automation,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → CAD / Engineering Automation",candidate display overlay; original unchanged
+556,D,W:commissioning,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Commissioning",candidate display overlay; original unchanged
+557,D,W:controls_engineer,"Work, Organizations & Economy → World of Work → Roles Index → HVAC Controls / BMS Engineer",candidate display overlay; original unchanged
+558,D,W:cooling_loads,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → Cooling & Heating Load Calculation",candidate display overlay; original unchanged
+559,D,W:creative_direction,"Work, Organizations & Economy → World of Work → Visual Communication → Creative Direction",candidate display overlay; original unchanged
+560,D,W:data_automation,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → Data Pipeline Automation",candidate display overlay; original unchanged
+561,D,W:design,"Work, Organizations & Economy → World of Work → WORLD OF WORK ATLAS → DESIGN",candidate display overlay; original unchanged
+562,D,W:design_disciplines,"Work, Organizations & Economy → World of Work → DESIGN → Disciplines",candidate display overlay; original unchanged
+563,D,W:digital_experience,"Work, Organizations & Economy → World of Work → Disciplines → Digital Experience",candidate display overlay; original unchanged
+564,D,W:editorial_design,"Work, Organizations & Economy → World of Work → Visual Communication → Editorial / Publication Design",candidate display overlay; original unchanged
+565,D,W:electronics,"Work, Organizations & Economy → World of Work → WORLD OF WORK ATLAS → ELECTRONICS & EMBEDDED HARDWARE",candidate display overlay; original unchanged
+566,D,W:electronics_functions,"Work, Organizations & Economy → World of Work → ELECTRONICS & EMBEDDED HARDWARE → Electronics Functions / Departments",candidate display overlay; original unchanged
+567,D,W:embedded_firmware,"Work, Organizations & Economy → World of Work → Electronics Functions / Departments → Embedded Firmware",candidate display overlay; original unchanged
+568,D,W:energy,"Work, Organizations & Economy → World of Work → WORLD OF WORK ATLAS → ENERGY / MEP / HVAC",candidate display overlay; original unchanged
+569,D,W:energy_audit,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → Building Energy Audit / Optimisation",candidate display overlay; original unchanged
+570,D,W:energy_management,"Work, Organizations & Economy → World of Work → MEP Company Functions / Departments → Energy Management",candidate display overlay; original unchanged
+571,D,W:equipment_selection,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → HVAC Equipment Selection",candidate display overlay; original unchanged
+572,D,W:experiential_design,"Work, Organizations & Economy → World of Work → Visual Communication → Experiential / Wayfinding Design",candidate display overlay; original unchanged
+573,D,W:font_engineering,"Work, Organizations & Economy → World of Work → Visual Communication → Font Engineering",candidate display overlay; original unchanged
+574,D,W:font_licensing,"Work, Organizations & Economy → World of Work → Visual Communication → Font Licensing & Rights",candidate display overlay; original unchanged
+575,D,W:font_management,"Work, Organizations & Economy → World of Work → Visual Communication → Font Management & Enterprise Deployment",candidate display overlay; original unchanged
+576,D,W:graphic_design,"Work, Organizations & Economy → World of Work → Visual Communication → Graphic Design",candidate display overlay; original unchanged
+577,D,W:hvac_controls,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → HVAC Controls / BMS Sequences",candidate display overlay; original unchanged
+578,D,W:hvac_coordination,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC BIM / Coordination",candidate display overlay; original unchanged
+579,D,W:hvac_design,"Work, Organizations & Economy → World of Work → MEP Company Functions / Departments → HVAC Design Engineering",candidate display overlay; original unchanged
+580,D,W:hvac_design_engineer,"Work, Organizations & Economy → World of Work → Roles Index → HVAC Design Engineer",candidate display overlay; original unchanged
+581,D,W:hvac_energy,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → HVAC Energy / Efficiency",candidate display overlay; original unchanged
+582,D,W:hvac_handover,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Handover",candidate display overlay; original unchanged
+583,D,W:hvac_lifecycle,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Design-to-Operation Lifecycle",candidate display overlay; original unchanged
+584,D,W:hvac_om,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Operations & Maintenance",candidate display overlay; original unchanged
+585,D,W:hvac_shopdrawings,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Shop Drawings",candidate display overlay; original unchanged
+586,D,W:hvac_site_install,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC Site Installation",candidate display overlay; original unchanged
+587,D,W:hvac_subcontractor,"Work, Organizations & Economy → World of Work → Project / Company Ecosystem → HVAC Specialist Subcontractor",candidate display overlay; original unchanged
+588,D,W:hydronic_design,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → Hydronic / Piping Design",candidate display overlay; original unchanged
+589,D,W:illustration,"Work, Organizations & Economy → World of Work → Visual Communication → Illustration",candidate display overlay; original unchanged
+590,D,W:information_design,"Work, Organizations & Economy → World of Work → Visual Communication → Information Design",candidate display overlay; original unchanged
+591,D,W:mep_ecosystem,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → Project / Company Ecosystem",candidate display overlay; original unchanged
+592,D,W:mep_functions,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → MEP Company Functions / Departments",candidate display overlay; original unchanged
+593,D,W:mep_roles,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → Roles Index",candidate display overlay; original unchanged
+594,D,W:mep_standards,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → HVAC / MEP Standards Authority Map",candidate display overlay; original unchanged
+595,D,W:motion_design,"Work, Organizations & Economy → World of Work → Visual Communication → Motion / Animation Design",candidate display overlay; original unchanged
+596,D,W:packaging_design,"Work, Organizations & Economy → World of Work → Visual Communication → Packaging Design",candidate display overlay; original unchanged
+597,D,W:psychrometrics,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → Psychrometrics & Air Processes",candidate display overlay; original unchanged
+598,D,W:rpa,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → RPA / UI Automation",candidate display overlay; original unchanged
+599,D,W:scripting_automation,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → Scripting Automation",candidate display overlay; original unchanged
+600,D,W:service_design,"Work, Organizations & Economy → World of Work → Disciplines → Service Design",candidate display overlay; original unchanged
+601,D,W:software,"Work, Organizations & Economy → World of Work → WORLD OF WORK ATLAS → SOFTWARE & AUTOMATION",candidate display overlay; original unchanged
+602,D,W:software_architect_role,"Work, Organizations & Economy → World of Work → Roles Index → Software Architect",candidate display overlay; original unchanged
+603,D,W:software_architecture,"Work, Organizations & Economy → World of Work → Software Functions / Departments → Software Architecture",candidate display overlay; original unchanged
+604,D,W:software_companies,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Company / Operating Models",candidate display overlay; original unchanged
+605,D,W:software_functions,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Software Functions / Departments",candidate display overlay; original unchanged
+606,D,W:software_lifecycle,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Software Product Lifecycle",candidate display overlay; original unchanged
+607,D,W:software_roles,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Roles Index",candidate display overlay; original unchanged
+608,D,W:software_security,"Work, Organizations & Economy → World of Work → Software Functions / Departments → Software / Application Security",candidate display overlay; original unchanged
+609,D,W:software_standards,"Work, Organizations & Economy → World of Work → SOFTWARE & AUTOMATION → Software Standards & Knowledge Map",candidate display overlay; original unchanged
+610,D,W:system_selection,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → HVAC System Selection",candidate display overlay; original unchanged
+611,D,W:tab,"Work, Organizations & Economy → World of Work → ENERGY / MEP / HVAC → Testing, Adjusting & Balancing",candidate display overlay; original unchanged
+612,D,W:type_design,"Work, Organizations & Economy → World of Work → Visual Communication → Type Design",candidate display overlay; original unchanged
+613,D,W:typography,"Work, Organizations & Economy → World of Work → Visual Communication → Typography",candidate display overlay; original unchanged
+614,D,W:ventilation_iaq,"Work, Organizations & Economy → World of Work → HVAC Design Engineering → Ventilation & IAQ",candidate display overlay; original unchanged
+615,D,W:visual_comm,"Work, Organizations & Economy → World of Work → Disciplines → Visual Communication",candidate display overlay; original unchanged
+616,D,W:workflow_automation,"Work, Organizations & Economy → World of Work → Automation / Integration Engineering → Workflow Automation",candidate display overlay; original unchanged
+617,D,W:world,Unplaced in recovered six-view mapping → World of Work → WORLD OF WORK ATLAS,candidate display overlay; original unchanged
+618,D,REF3-A01,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Thermal state and pressure → Temperature",candidate display overlay; original unchanged
+619,D,REF3-A02,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Direction and entropy → Thermal equilibrium",candidate display overlay; original unchanged
+620,D,REF3-A03,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Direction and entropy → Zeroth law",candidate display overlay; original unchanged
+621,D,REF3-A04,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Matter and microscopic description → Molecular motion",candidate display overlay; original unchanged
+622,D,REF3-A05,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Matter and microscopic description → Boltzmann constant",candidate display overlay; original unchanged
+623,D,REF3-A06,"Nature, Science & Formal Knowledge → REF Stage02 snapshot → Rates, ratios and units → Kelvin",candidate display overlay; original unchanged
+624,D,placement.candidate_catalogue[0],"Standards, Documents & Outputs → Diagrams placement catalogue → visual_representations",candidate display overlay; original unchanged
+625,D,placement.candidate_catalogue[1],"Standards, Documents & Outputs → Diagrams placement catalogue → visual_representations → diagrams",candidate display overlay; original unchanged
+626,D,placement.candidate_catalogue[2],"Standards, Documents & Outputs → Diagrams placement catalogue → diagrams → Flowchart",candidate display overlay; original unchanged
+627,D,placement.candidate_catalogue[3],"Standards, Documents & Outputs → Diagrams placement catalogue → diagrams → Hierarchy Diagram",candidate display overlay; original unchanged
+628,D,placement.candidate_catalogue[4],"Standards, Documents & Outputs → Diagrams placement catalogue → diagrams → Architecture Diagram",candidate display overlay; original unchanged
+629,D,placement.candidate_catalogue[5],"Standards, Documents & Outputs → Diagrams placement catalogue → visual_representations → Chart",candidate display overlay; original unchanged

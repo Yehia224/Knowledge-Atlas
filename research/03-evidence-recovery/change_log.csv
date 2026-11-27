@@ -1,0 +1,306 @@
+register,id,field,before,after
+identity_crosswalk,E:n_nature_thermal_01,reason,Temperature differences may refer to observable condition or difference quantity; not Temperature itself.,REF-CP-N001 is difference quantity; REF-CP-N044 is finite-difference condition. Compare Energy record scope; no merge. EV02.
+identity_crosswalk,W:hvac_design_engineer,reason,Compare role scope with E:n_work_roles_01; same label not identity.,"Same title; W has role tasks while E is a provisional occupation label without matching full scope. EV06/EV11 support field, not identity. Keep distinct pending review."
+identity_crosswalk,E:n_work_roles_01,reason,Compare occupation definition with W:hvac_design_engineer.,"Same title; W has role tasks while E is a provisional occupation label without matching full scope. EV06/EV11 support field, not identity. Keep distinct pending review."
+identity_crosswalk,W:controls_engineer,reason,BMS-qualified role; compare E:n_work_roles_02 scope.,"W explicitly includes BMS, panels, points, sequences and integration; E lacks definition. EV07/EV08 support overlapping work, not equivalence."
+identity_crosswalk,E:n_work_roles_02,reason,Check whether role includes wider controls practice.,"W explicitly includes BMS, panels, points, sequences and integration; E lacks definition. EV07/EV08 support overlapping work, not equivalence."
+identity_crosswalk,REF3-A01,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A01,original_parents,not fully recovered,H02.03
+identity_crosswalk,REF3-A01,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A01,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A02,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A02,original_parents,not fully recovered,H03.03
+identity_crosswalk,REF3-A02,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A02,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A03,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A03,original_parents,not fully recovered,H03.03
+identity_crosswalk,REF3-A03,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A03,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A04,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A04,original_parents,not fully recovered,H02.01
+identity_crosswalk,REF3-A04,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A04,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A05,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A05,original_parents,not fully recovered,H02.01
+identity_crosswalk,REF3-A05,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A05,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A06,source,REF Stage02 v0.1 (excerpt),REF Stage02 v0.1 (complete indexed text; historical)
+identity_crosswalk,REF3-A06,original_parents,not fully recovered,H01.02
+identity_crosswalk,REF3-A06,original_mapping,not recovered,local historical record
+identity_crosswalk,REF3-A06,reason,Original excerpt; no cross-source canonical promotion.,Exact historical Stage02 record recovered; current later baseline not recovered; no promotion.
+identity_crosswalk,REF3-A07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-A15,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-B14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-C14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-D14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E15,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E16,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E17,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E18,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E19,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E20,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E21,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-E22,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF3-F12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N13,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N14,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N15,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N16,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N17,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N18,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N19,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N20,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N21,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N22,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N23,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N24,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N25,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N26,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N27,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-AUD-N28,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N001,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N002,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N003,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N004,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N005,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N006,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N007,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N008,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N009,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N010,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N011,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N012,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N013,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N014,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N015,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N016,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N017,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N018,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N019,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N020,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N021,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N022,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N023,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N024,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N025,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N026,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N027,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N028,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N029,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N030,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N031,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N032,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N033,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N034,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N035,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N036,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N037,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N038,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N039,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N040,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N041,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N042,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N043,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N044,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N045,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N046,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N047,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N048,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N049,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N050,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N051,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N052,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N053,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N054,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N055,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N056,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N057,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N058,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N059,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N060,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N061,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N062,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N063,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N064,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N065,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N066,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N067,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N068,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N069,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N070,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N071,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N072,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N073,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N074,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N075,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N076,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N077,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N078,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N079,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N080,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N081,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N082,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N083,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N084,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N085,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N086,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N087,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N088,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N089,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N090,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N091,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N092,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N093,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N094,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N095,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N096,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N097,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N098,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N099,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N100,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N101,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N102,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N103,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N104,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N105,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N106,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N107,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N108,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N109,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N110,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N111,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N112,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N113,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N114,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N115,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N116,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N117,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N118,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N119,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N120,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N121,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N122,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N123,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N124,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N125,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N126,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N127,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N128,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N129,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N130,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N131,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N132,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N133,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N134,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N135,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N136,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N137,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N138,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CP-N139,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N01,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N02,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N03,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N04,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N05,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N06,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N07,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N08,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N09,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N10,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N11,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N12,row,not in v0.1 excerpt,historical REF supporting context added
+identity_crosswalk,REF-CL-N13,row,not in v0.1 excerpt,historical REF supporting context added
+conflict_register,DR-P01,review_disposition,HOLD,HOLD_SCOPE_EQUIVALENCE
+conflict_register,DR-P02,review_disposition,HOLD,HOLD_SCOPE_OVERLAP
+conflict_register,DR-P03,review_disposition,HOLD,REVISE_CANDIDATE_RELATED_NOT_ALIAS
+conflict_register,DR-P04,review_disposition,HOLD,RETAIN_NAVIGATION_CANDIDATE
+conflict_register,DR-P05,review_disposition,HOLD,SOURCE_SUPPORTED_CANDIDATE
+conflict_register,pg24_rel_001,review_disposition,PRESERVE,SOURCE_SUPPORTED
+conflict_register,pg24_rel_002,review_disposition,PRESERVE,SOURCE_SUPPORTED_WITH_MAPPING_HOLD
+conflict_register,pg24_rel_003,review_disposition,PRESERVE,SOURCE_SUPPORTED
+conflict_register,G-edge-1100,review_disposition,PRESERVE,SOURCE_SUPPORTED_CITY_PRECISION
+conflict_register,P0002,review_disposition,HOLD_FOR_DEPTH_AND_EVIDENCE_REVIEW,HOLD_PEDAGOGICAL_DEPTH
+conflict_register,P0005,review_disposition,HOLD_FOR_DEPTH_AND_EVIDENCE_REVIEW,HOLD_PEDAGOGICAL_DEPTH

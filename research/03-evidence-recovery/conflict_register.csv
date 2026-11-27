@@ -1,0 +1,12 @@
+id,before,after,evidence,rationale,owner_status,canonical_action
+DR-P01,HOLD,HOLD_SCOPE_EQUIVALENCE,EV06 | EV11,W role tasks vs provisional E occupation label. No proof same extension; no merge.,PENDING,NONE
+DR-P02,HOLD,HOLD_SCOPE_OVERLAP,EV07 | EV08,BMS qualifier and wider possible controls responsibilities; preserve both IDs.,PENDING,NONE
+DR-P03,HOLD,REVISE_CANDIDATE_RELATED_NOT_ALIAS,EV02 | REF-CP-N001 | REF-CP-N044,"Temperature, difference quantity and finite-difference condition distinct; original Energy sense remains ambiguous.",PENDING,NONE
+DR-P04,HOLD,RETAIN_NAVIGATION_CANDIDATE,EV09 | placement file | audit,Browse access not taxonomy; four target payloads missing.,PENDING,NONE
+DR-P05,HOLD,SOURCE_SUPPORTED_CANDIDATE,EV01,Use precise proposed predicate has_SI_unit; no canonical modification or independent SME approval.,PENDING,NONE
+pg24_rel_001,PRESERVE,SOURCE_SUPPORTED,EV03 | EV04,Faraday conducted experiment; historical assertion supported.,PENDING,NONE
+pg24_rel_002,PRESERVE,SOURCE_SUPPORTED_WITH_MAPPING_HOLD,EV03 | EV12,Electromagnetic induction supported; target general Induction record remains broader/ambiguous.,PENDING,NONE
+pg24_rel_003,PRESERVE,SOURCE_SUPPORTED,EV04,Institution laboratory context supported.,PENDING,NONE
+G-edge-1100,PRESERVE,SOURCE_SUPPORTED_CITY_PRECISION,EV04 | EV05,London city-level event site supported; not precise coordinates.,PENDING,NONE
+P0002,HOLD_FOR_DEPTH_AND_EVIDENCE_REVIEW,HOLD_PEDAGOGICAL_DEPTH,historical REF Stage02,"No cycle; relation is a proposed learning dependency, not proven necessary.",PENDING,NONE
+P0005,HOLD_FOR_DEPTH_AND_EVIDENCE_REVIEW,HOLD_PEDAGOGICAL_DEPTH,historical REF Stage02,No cycle; strictness and learning depth need review.,PENDING,NONE

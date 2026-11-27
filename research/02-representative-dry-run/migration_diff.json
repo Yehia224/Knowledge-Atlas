@@ -1,0 +1,236 @@
+{
+  "mode": "overlay only; no actual migration",
+  "canonical": {
+    "add": 0,
+    "update": 0,
+    "delete": 0,
+    "merge": 0,
+    "publish": 0
+  },
+  "isolated_overlay": {
+    "identity_review_rows": 151,
+    "edge_review_rows": 238,
+    "candidate_edges": [
+      {
+        "id": "DR-P01",
+        "subject": "W:hvac_design_engineer",
+        "predicate": "possible_scope_equivalence",
+        "object": "E:n_work_roles_01",
+        "decision": "HOLD",
+        "reason": "Same label but role vs occupation; requires occupational definition and scope."
+      },
+      {
+        "id": "DR-P02",
+        "subject": "W:controls_engineer",
+        "predicate": "possible_scope_overlap",
+        "object": "E:n_work_roles_02",
+        "decision": "HOLD",
+        "reason": "BMS qualifier may change scope."
+      },
+      {
+        "id": "DR-P03",
+        "subject": "E:n_nature_thermal_01",
+        "predicate": "related_to",
+        "object": "REF3-A01",
+        "decision": "HOLD",
+        "reason": "Phenomenon/quantity ambiguity; not synonym."
+      },
+      {
+        "id": "DR-P04",
+        "subject": "W:information_design",
+        "predicate": "browse_access_candidate",
+        "object": "placement.candidate_catalogue[1]",
+        "decision": "HOLD",
+        "reason": "Existing placement proposal; collection link not subclass."
+      },
+      {
+        "id": "DR-P05",
+        "subject": "REF3-A01",
+        "predicate": "measured_in_candidate",
+        "object": "REF3-A06",
+        "decision": "HOLD",
+        "reason": "Temperature quantity and Kelvin unit separate; scientific review pending."
+      }
+    ],
+    "research_scopes": [
+      {
+        "case": "HVAC",
+        "question": "Which scopes distinguish discipline, system, work and role?",
+        "seed_ids": [
+          "W:energy",
+          "W:hvac_design",
+          "W:hvac_lifecycle",
+          "W:cooling_loads",
+          "W:system_selection",
+          "E:n_engineering_building_01",
+          "E:n_technologies_hvac_01",
+          "E:n_work_hvac_01",
+          "E:n_science_physics_01",
+          "E:n_work_deliverables_03"
+        ],
+        "state": "OPEN",
+        "next_action": "Review HVAC domain/role boundaries and 441-node missing source."
+      },
+      {
+        "case": "Diagrams",
+        "question": "Which forms already exist and which references are unresolved?",
+        "seed_ids": [
+          "W:information_design",
+          "W:visual_comm",
+          "E:t_artifacts_documents",
+          "E:n_work_deliverables_03"
+        ],
+        "state": "OPEN",
+        "next_action": "Locate original artifact IDs and validate candidate catalogue."
+      },
+      {
+        "case": "Temperature",
+        "question": "What is quantity vs phenomenon vs unit?",
+        "seed_ids": [
+          "E:n_nature_thermal_01",
+          "E:n_nature_thermal_02",
+          "E:n_science_physics_01",
+          "T:n_t23_t_7_02",
+          "N:t_cand_science_measurement"
+        ],
+        "state": "OPEN",
+        "next_action": "Recover full REF graph and scientific evidence register."
+      },
+      {
+        "case": "Programming",
+        "question": "Where are language, library, protocol and interface records?",
+        "seed_ids": [
+          "W:software",
+          "W:software_architecture",
+          "W:api_integration",
+          "W:scripting_automation",
+          "W:automation_engineering",
+          "W:software_lifecycle",
+          "W:software_architect_role"
+        ],
+        "state": "OPEN",
+        "next_action": "Find original computing lesson/records; search independent scopes only after inventory."
+      },
+      {
+        "case": "Occupations",
+        "question": "When do role and occupation refer to same scope?",
+        "seed_ids": [
+          "W:hvac_design_engineer",
+          "E:n_work_roles_01",
+          "W:controls_engineer",
+          "E:n_work_roles_02",
+          "W:hvac_design",
+          "W:hvac_subcontractor",
+          "W:software_architect_role",
+          "E:n_work_hvac_01"
+        ],
+        "state": "OPEN",
+        "next_action": "Compare role definitions and authoritative occupational evidence."
+      },
+      {
+        "case": "Historical Events",
+        "question": "Are event, actor, place and observed phenomenon correctly separated?",
+        "seed_ids": [
+          "PG:pg24_induction",
+          "PG:pg24_faraday",
+          "PG:pg24_ri",
+          "G:pg24_place_london",
+          "E:n_nature_em_01",
+          "T:n_t23_t_3_01"
+        ],
+        "state": "OPEN",
+        "next_action": "Verify original RI/RIDIARY source locators and event evidence."
+      }
+    ],
+    "learning_sequences": [
+      {
+        "id": "DR-L01",
+        "case": "Temperature",
+        "ordered_ids": [
+          "REF3-A02",
+          "REF3-A01",
+          "REF3-A06"
+        ],
+        "status": "illustrative candidate; only P0002 inherited as a proposed prerequisite; not a verified full sequence"
+      },
+      {
+        "id": "DR-L02",
+        "case": "Programming",
+        "ordered_ids": [
+          "W:software",
+          "W:api_integration"
+        ],
+        "status": "browse orientation only; missing programming fundamentals, not a prerequisite assertion"
+      }
+    ],
+    "placement_locators": [
+      {
+        "locator": "placement.candidate_catalogue[0]",
+        "original": {
+          "key": "visual_representations",
+          "type": "navigation_collection"
+        },
+        "label": "visual_representations",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      },
+      {
+        "locator": "placement.candidate_catalogue[1]",
+        "original": {
+          "key": "diagrams",
+          "type": "representation_family",
+          "browse_parent": "visual_representations"
+        },
+        "label": "diagrams",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      },
+      {
+        "locator": "placement.candidate_catalogue[2]",
+        "original": {
+          "name": "Flowchart",
+          "type": "representation_form",
+          "browse_parent": "diagrams"
+        },
+        "label": "Flowchart",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      },
+      {
+        "locator": "placement.candidate_catalogue[3]",
+        "original": {
+          "name": "Hierarchy Diagram",
+          "type": "representation_form",
+          "browse_parent": "diagrams"
+        },
+        "label": "Hierarchy Diagram",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      },
+      {
+        "locator": "placement.candidate_catalogue[4]",
+        "original": {
+          "name": "Architecture Diagram",
+          "type": "representation_form",
+          "browse_parent": "diagrams"
+        },
+        "label": "Architecture Diagram",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      },
+      {
+        "locator": "placement.candidate_catalogue[5]",
+        "original": {
+          "name": "Chart",
+          "type": "representation_family",
+          "browse_parent": "visual_representations"
+        },
+        "label": "Chart",
+        "decision": "RETAIN_CANDIDATE_PLACEMENT",
+        "owner_status": "PENDING"
+      }
+    ]
+  },
+  "unresolved_boundary_edges": 343,
+  "note": "Boundary edges retained in full snapshot; not proposed deletions."
+}
